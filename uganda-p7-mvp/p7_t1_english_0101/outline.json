@@ -45,8 +45,9 @@
       "student_title": "Today's mission",
       "student_body": [
         "Goal: I can listen to a story and identify key plans.",
-        "You will use: Nakato’s Holiday Story, New Holiday Words",
-        "Success: explain, try, and answer in your own words."
+        "Use: Nakato’s Holiday Story, New Holiday Words",
+        "Show: answer with one reason or example.",
+        "Routine: listen, talk, try, explain."
       ],
       "source_refs": [
         {
@@ -58,10 +59,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 29,
-        "bullet_line_count": 3,
+        "body_word_count": 30,
+        "bullet_line_count": 4,
         "title_char_count": 15,
-        "max_bullet_char_count": 55
+        "max_bullet_char_count": 53
       }
     },
     {
@@ -100,7 +101,7 @@
       "lesson_stage": "concept",
       "student_title": "Nakato’s Holiday Story",
       "student_body": [
-        "Key idea: Listening comprehension focused on a story about Nakato...",
+        "Key idea: Listen for Nakato’s trip to her grandmother up-country.",
         "Listen to the story carefully.",
         "Identify the characters.",
         "List the places Nakato plans to visit."
@@ -119,7 +120,7 @@
         "body_word_count": 25,
         "bullet_line_count": 4,
         "title_char_count": 22,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 65
       },
       "source_content_id": "P7-T1-E-0101-0101-01"
     },
@@ -130,7 +131,7 @@
       "lesson_stage": "model",
       "student_title": "New Holiday Words",
       "student_body": [
-        "Model the example step by step.",
+        "Worked example:",
         "Travel: To go from one place to another.",
         "Up-country: Rural areas/the village.",
         "Relatives: Family members."
@@ -146,7 +147,7 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 21,
+        "body_word_count": 17,
         "bullet_line_count": 4,
         "title_char_count": 17,
         "max_bullet_char_count": 40
@@ -160,10 +161,10 @@
       "lesson_stage": "practice",
       "student_title": "Try it together",
       "student_body": [
+        "Answer with evidence:",
         "What will she do in the village?",
         "Who is she going to visit?",
-        "What is another word for 'start'?",
-        "Agree on one answer before writing."
+        "What is another word for 'start'?"
       ],
       "source_refs": [
         {
@@ -204,10 +205,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 25,
+        "body_word_count": 22,
         "bullet_line_count": 4,
         "title_char_count": 15,
-        "max_bullet_char_count": 35
+        "max_bullet_char_count": 33
       }
     },
     {
@@ -217,10 +218,10 @@
       "lesson_stage": "activity",
       "student_title": "Activity challenge",
       "student_body": [
-        "Group task:",
-        "Students listen to the teacher's story and then turn to a neighbo...",
-        "Students copy the words and definitions into their exercise books...",
-        "Whole class choral repetition followed by a 'substitution drill'..."
+        "Challenge:",
+        "Listen to the story; whisper two Nakato plans.",
+        "Copy the words and definitions neatly.",
+        "Repeat together, then do a pronoun substitution drill."
       ],
       "source_refs": [
         {
@@ -261,10 +262,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 33,
+        "body_word_count": 23,
         "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 54
       }
     },
     {
@@ -276,7 +277,7 @@
       "student_body": [
         "Answer: Where will you be in three weeks?",
         "Use one complete sentence.",
-        "Include one key word: Listening for detail, Future tense (\"will\"...",
+        "Use one key word: Listening for detail",
         "Hand in or read your answer aloud."
       ],
       "source_refs": [
@@ -318,10 +319,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 29,
+        "body_word_count": 26,
         "bullet_line_count": 4,
         "title_char_count": 11,
-        "max_bullet_char_count": 67
+        "max_bullet_char_count": 41
       }
     }
   ],

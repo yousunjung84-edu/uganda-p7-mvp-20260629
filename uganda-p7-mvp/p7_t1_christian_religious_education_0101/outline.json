@@ -50,9 +50,10 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: I can define the Holy Spirit and recognize Him as the t...",
-        "You will use: What is a Spirit?, Defining the Holy Spirit",
-        "Success: explain, try, and answer in your own words."
+        "Goal: I can define the Holy Spirit and recognize Him",
+        "Use: What is a Spirit?, Defining the Holy Spirit",
+        "Show: answer with one reason or example.",
+        "Routine: listen, talk, try, explain."
       ],
       "source_refs": [
         {
@@ -64,10 +65,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 33,
-        "bullet_line_count": 3,
+        "body_word_count": 31,
+        "bullet_line_count": 4,
         "title_char_count": 15,
-        "max_bullet_char_count": 64
+        "max_bullet_char_count": 52
       }
     },
     {
@@ -106,7 +107,7 @@
       "lesson_stage": "concept",
       "student_title": "What is a Spirit?",
       "student_body": [
-        "Key idea: Introduction to the \"Spirit\" concept. Just as wind is i...",
+        "Key idea: Introduction to the \"Spirit\" concept. Just as wind is invisible but",
         "A spirit is invisible.",
         "We see the effects of a spirit, like we see wind moving trees.",
         "The Spirit is the \"breath\" of God."
@@ -122,10 +123,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 36,
+        "body_word_count": 37,
         "bullet_line_count": 4,
         "title_char_count": 17,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 77
       },
       "source_content_id": "P7-T1-CRE-0101-0101-01"
     },
@@ -136,7 +137,7 @@
       "lesson_stage": "model",
       "student_title": "Defining the Holy Spirit",
       "student_body": [
-        "Model the example step by step.",
+        "Worked example:",
         "2. The Holy Spirit",
         "He is God's presence in us.",
         "He is the \"Gift and the Giver.\""
@@ -152,7 +153,7 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 23,
+        "body_word_count": 19,
         "bullet_line_count": 4,
         "title_char_count": 24,
         "max_bullet_char_count": 31
@@ -166,10 +167,10 @@
       "lesson_stage": "practice",
       "student_title": "Try it together",
       "student_body": [
+        "Answer with evidence:",
         "How do you know the wind is there?",
         "Is God visible to our physical eyes?",
-        "Who is the Holy Spirit?",
-        "Agree on one answer before writing."
+        "Who is the Holy Spirit?"
       ],
       "source_refs": [
         {
@@ -210,7 +211,7 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 26,
+        "body_word_count": 23,
         "bullet_line_count": 4,
         "title_char_count": 15,
         "max_bullet_char_count": 36
@@ -223,10 +224,10 @@
       "lesson_stage": "activity",
       "student_title": "Activity challenge",
       "student_body": [
-        "Group task:",
-        "Students blow on their hands and observe trees moving outside to...",
-        "Students discuss in pairs what it means to receive a gift that is...",
-        "Teacher demonstrates the Trinity using the three-stone stove anal..."
+        "Challenge:",
+        "Blow on their hands and observe trees moving outside to understand the concept",
+        "Discuss in pairs what it means to receive a gift that is also the person who gave",
+        "Teacher demonstrates the Trinity using the three-stone stove analogy while"
       ],
       "source_refs": [
         {
@@ -267,10 +268,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 35,
+        "body_word_count": 41,
         "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 81
       }
     },
     {
@@ -282,7 +283,7 @@
       "student_body": [
         "Answer: Can you name the three persons?",
         "Use one complete sentence.",
-        "Include one key word: Spirit, Invisible, Wind",
+        "Use one key word: Spirit",
         "Hand in or read your answer aloud."
       ],
       "source_refs": [
@@ -324,10 +325,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 25,
+        "body_word_count": 23,
         "bullet_line_count": 4,
         "title_char_count": 11,
-        "max_bullet_char_count": 45
+        "max_bullet_char_count": 39
       }
     }
   ],

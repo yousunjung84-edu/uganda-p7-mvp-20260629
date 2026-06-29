@@ -50,9 +50,10 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: I can synthesize key concepts from Term 1 by creating a...",
-        "You will use: Who are our Heroes of Faith?, Planning Our Scrapbook",
-        "Success: explain, try, and answer in your own words."
+        "Goal: I can synthesize key concepts from Term 1 by creating",
+        "Use: Who are our Heroes of Faith?, Planning Our Scrapbook",
+        "Show: answer with one reason or example.",
+        "Routine: listen, talk, try, explain."
       ],
       "source_refs": [
         {
@@ -65,9 +66,9 @@
       "student_quality_checks": {
         "source_refs_present": true,
         "body_word_count": 33,
-        "bullet_line_count": 3,
+        "bullet_line_count": 4,
         "title_char_count": 15,
-        "max_bullet_char_count": 66
+        "max_bullet_char_count": 59
       }
     },
     {
@@ -106,7 +107,7 @@
       "lesson_stage": "concept",
       "student_title": "Who are our Heroes of Faith?",
       "student_body": [
-        "Key idea: Brainstorming session to recall \"Heroes of Faith\" from...",
+        "Key idea: Brainstorming session to recall \"Heroes of Faith\" from the three main",
         "Reviewing Topic 1: Biblical Heroes.",
         "Reviewing Topic 2: Ancestors and Reconciliation.",
         "Reviewing Topic 3: Global Organizations of Service."
@@ -122,10 +123,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 28,
+        "body_word_count": 31,
         "bullet_line_count": 4,
         "title_char_count": 28,
-        "max_bullet_char_count": 67
+        "max_bullet_char_count": 79
       },
       "source_content_id": "P7-T1-R-0203-5-01"
     },
@@ -136,7 +137,7 @@
       "lesson_stage": "model",
       "student_title": "Planning Our Scrapbook",
       "student_body": [
-        "Watch the example.",
+        "Worked example:",
         "Dividing the scrapbook into three sections.",
         "Choosing titles for each page.",
         "Preparing local materials (banana fibers, cards)."
@@ -152,7 +153,7 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 20,
+        "body_word_count": 19,
         "bullet_line_count": 4,
         "title_char_count": 22,
         "max_bullet_char_count": 49
@@ -166,10 +167,10 @@
       "lesson_stage": "practice",
       "student_title": "Try it together",
       "student_body": [
+        "Answer with evidence:",
         "What values do our ancestors teach us?",
         "Which organization helps people in times of war?",
-        "How many sections will our scrapbook have?",
-        "Agree on one answer before writing."
+        "How many sections will our scrapbook have?"
       ],
       "source_refs": [
         {
@@ -210,7 +211,7 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 28,
+        "body_word_count": 25,
         "bullet_line_count": 4,
         "title_char_count": 15,
         "max_bullet_char_count": 48
@@ -223,10 +224,10 @@
       "lesson_stage": "activity",
       "student_title": "Activity challenge",
       "student_body": [
-        "Group task:",
-        "Students work in pairs to list at least two heroes/organizations...",
-        "Students measure and cut their manila cards and label the top of...",
-        "Students draw illustrations for the first two sections and write..."
+        "Challenge:",
+        "Work in pairs to list at least two heroes/organizations for each of the three",
+        "Measure and cut their manila cards and label the top of each page with the section",
+        "Draw illustrations for the first two sections and write brief descriptions"
       ],
       "source_refs": [
         {
@@ -267,10 +268,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 34,
+        "body_word_count": 42,
         "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 67
+        "max_bullet_char_count": 82
       }
     },
     {
@@ -282,7 +283,7 @@
       "student_body": [
         "Answer: How will you use the Holy Spirit’s help during the holidays?",
         "Use one complete sentence.",
-        "Include one key word: Reviewing names and roles: Abraham, Jesus...",
+        "Use one key word: Reviewing names and roles: Abraham",
         "Hand in or read your answer aloud."
       ],
       "source_refs": [
@@ -324,7 +325,7 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 33,
+        "body_word_count": 32,
         "bullet_line_count": 4,
         "title_char_count": 11,
         "max_bullet_char_count": 68

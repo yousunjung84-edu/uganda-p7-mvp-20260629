@@ -44,9 +44,10 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: I can reflect on personal progress in English from Term...",
-        "You will use: Looking Back at Term 1, What is a Portfolio?",
-        "Success: explain, try, and answer in your own words."
+        "Goal: I can reflect on personal progress in English from Term 1",
+        "Use: Looking Back at Term 1, What is a Portfolio?",
+        "Show: answer with one reason or example.",
+        "Routine: listen, talk, try, explain."
       ],
       "source_refs": [
         {
@@ -58,10 +59,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 32,
-        "bullet_line_count": 3,
+        "body_word_count": 34,
+        "bullet_line_count": 4,
         "title_char_count": 15,
-        "max_bullet_char_count": 64
+        "max_bullet_char_count": 63
       }
     },
     {
@@ -100,7 +101,7 @@
       "lesson_stage": "concept",
       "student_title": "Looking Back at Term 1",
       "student_body": [
-        "Key idea: Oral reflection on the three main topics of Term 1: Sch...",
+        "Key idea: Oral reflection on the three main topics of Term 1: School Holidays",
         "Review the topics we covered",
         "Share our favorite English activities",
         "Discuss how our writing has improved"
@@ -116,10 +117,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 29,
+        "body_word_count": 30,
         "bullet_line_count": 4,
         "title_char_count": 22,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 77
       },
       "source_content_id": "P7-T1-E-0304-1205-01"
     },
@@ -130,7 +131,7 @@
       "lesson_stage": "model",
       "student_title": "What is a Portfolio?",
       "student_body": [
-        "Model the example step by step.",
+        "Worked example:",
         "NEW VOCABULARY"
       ],
       "source_refs": [
@@ -144,10 +145,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 8,
+        "body_word_count": 4,
         "bullet_line_count": 2,
         "title_char_count": 20,
-        "max_bullet_char_count": 31
+        "max_bullet_char_count": 15
       },
       "source_content_id": "P7-T1-E-0304-1205-02"
     },
@@ -158,10 +159,10 @@
       "lesson_stage": "practice",
       "student_title": "Try it together",
       "student_body": [
+        "Answer with evidence:",
         "Which activity helped you improve your English most?",
         "Why is it important to review our work?",
-        "What is a portfolio?",
-        "Agree on one answer before writing."
+        "What is a portfolio?"
       ],
       "source_refs": [
         {
@@ -202,7 +203,7 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 26,
+        "body_word_count": 23,
         "bullet_line_count": 4,
         "title_char_count": 15,
         "max_bullet_char_count": 52
@@ -215,10 +216,10 @@
       "lesson_stage": "activity",
       "student_title": "Activity challenge",
       "student_body": [
-        "Group task:",
-        "Students sit in a circle and participate in a \"Turn and Talk\" ses...",
-        "Students write the new vocabulary in their exercise books and wor...",
-        "Individual activity: Learners silently read through their term's..."
+        "Challenge:",
+        "Sit in a circle and participate in a \"Turn and Talk\" session to share",
+        "Write the new vocabulary in their exercise books and work in pairs to list three",
+        "Individual activity: Learners silently read through their term's work and use"
       ],
       "source_refs": [
         {
@@ -259,10 +260,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 34,
+        "body_word_count": 41,
         "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 80
       }
     },
     {
@@ -274,7 +275,7 @@
       "student_body": [
         "Answer: How will you make your work even better in Term 2?",
         "Use one complete sentence.",
-        "Include one key word: Past simple tense for reflection (e.g, \"I l...",
+        "Use one key word: Past simple tense for reflection",
         "Hand in or read your answer aloud."
       ],
       "source_refs": [
@@ -316,10 +317,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 35,
+        "body_word_count": 32,
         "bullet_line_count": 4,
         "title_char_count": 11,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 58
       }
     }
   ],

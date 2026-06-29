@@ -44,9 +44,10 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: Recalls and identify key experiments conducted from Ter...",
-        "You will use: Looking Back at Our Experiments, How to Write a Sci...",
-        "Success: explain, try, and answer in your own words."
+        "Goal: Recalls and identify key experiments conducted from Term",
+        "Use: Looking Back at Our Experiments, How to Write a Science Report",
+        "Show: answer with one reason or example.",
+        "Routine: listen, talk, try, explain."
       ],
       "source_refs": [
         {
@@ -58,10 +59,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 31,
-        "bullet_line_count": 3,
+        "body_word_count": 33,
+        "bullet_line_count": 4,
         "title_char_count": 15,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 67
       }
     },
     {
@@ -100,7 +101,7 @@
       "lesson_stage": "concept",
       "student_title": "Looking Back at Our Experiments",
       "student_body": [
-        "Key idea: Prior knowledge activation regarding Term 1 Science pra...",
+        "Key idea: Prior knowledge activation regarding Term 1 Science practicals (Skeleton",
         "Reviewing the Muscular-Skeletal model.",
         "Recalling the Electricity and Magnetism circuit.",
         "Remembering the Energy Resources (biogas/solar) project."
@@ -116,10 +117,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 26,
+        "body_word_count": 27,
         "bullet_line_count": 4,
         "title_char_count": 31,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 82
       },
       "source_content_id": "P7-T1-S-0304-1205-01"
     },
@@ -130,7 +131,7 @@
       "lesson_stage": "model",
       "student_title": "How to Write a Science Report",
       "student_body": [
-        "Watch the example.",
+        "Worked example:",
         "Title and Aim (What and Why).",
         "Apparatus/Materials (The tools).",
         "Procedure (The steps)."
@@ -146,7 +147,7 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 15,
+        "body_word_count": 14,
         "bullet_line_count": 4,
         "title_char_count": 29,
         "max_bullet_char_count": 32
@@ -160,10 +161,10 @@
       "lesson_stage": "practice",
       "student_title": "Try it together",
       "student_body": [
+        "Answer with evidence:",
         "What materials did we use to represent the backbone in our model?",
         "What is the difference between apparatus and procedure?",
-        "Why do we need an 'Aim' in our report?",
-        "Agree on one answer before writing."
+        "Why do we need an 'Aim' in our report?"
       ],
       "source_refs": [
         {
@@ -204,7 +205,7 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 35,
+        "body_word_count": 32,
         "bullet_line_count": 4,
         "title_char_count": 15,
         "max_bullet_char_count": 65
@@ -217,10 +218,10 @@
       "lesson_stage": "activity",
       "student_title": "Activity challenge",
       "student_body": [
-        "Group task:",
-        "Students brainstorm in pairs and list all the scientific experime...",
-        "Students copy the report structure into their notebooks and label...",
-        "Students participate in a whole-class exercise to verbally summar..."
+        "Challenge:",
+        "Brainstorm in pairs and list all the scientific experiments and models created",
+        "Copy the report structure into their notebooks and label each part based",
+        "Participate in a whole-class exercise to verbally summarize the 'Biogas Digester'"
       ],
       "source_refs": [
         {
@@ -261,10 +262,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 31,
+        "body_word_count": 36,
         "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 81
       }
     },
     {

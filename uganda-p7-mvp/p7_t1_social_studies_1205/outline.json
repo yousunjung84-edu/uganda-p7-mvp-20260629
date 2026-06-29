@@ -26,7 +26,7 @@
       "student_title": "Living Together in Africa",
       "student_body": [
         "Social Studies",
-        "Big question: What is the most interesting thing you learned abou..."
+        "Big question: What is the most interesting thing you learned about Africa"
       ],
       "source_refs": [
         {
@@ -38,10 +38,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 13,
+        "body_word_count": 14,
         "bullet_line_count": 2,
         "title_char_count": 25,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 73
       }
     },
     {
@@ -51,9 +51,10 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: I can organize and compile their Term 1 Social Studies...",
-        "You will use: Our Term 1 SST Journey, Organizing Our Work",
-        "Success: explain, try, and answer in your own words."
+        "Goal: I can organize and compile their Term 1 Social Studies",
+        "Use: Our Term 1 SST Journey, Organizing Our Work",
+        "Show: answer with one reason or example.",
+        "Routine: listen, talk, try, explain."
       ],
       "source_refs": [
         {
@@ -65,10 +66,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 31,
-        "bullet_line_count": 3,
+        "body_word_count": 32,
+        "bullet_line_count": 4,
         "title_char_count": 15,
-        "max_bullet_char_count": 63
+        "max_bullet_char_count": 60
       }
     },
     {
@@ -78,7 +79,7 @@
       "lesson_stage": "starter",
       "student_title": "Starter: think first",
       "student_body": [
-        "Think: What is the most interesting thing you learned about Afric...",
+        "Think: What is the most interesting thing you learned about Africa this term?",
         "Pair: compare your first answer with a partner.",
         "Share: connect your answer to Our Term 1 SST Journey."
       ],
@@ -93,10 +94,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 29,
+        "body_word_count": 31,
         "bullet_line_count": 3,
         "title_char_count": 20,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 77
       },
       "source_content_id": "P7-T1-SS-0204-1205-01"
     },
@@ -107,7 +108,7 @@
       "lesson_stage": "concept",
       "student_title": "Our Term 1 SST Journey",
       "student_body": [
-        "Key idea: Introduction to the final review process and self-refle...",
+        "Key idea: Introduction to the final review process and self-reflection on learning",
         "Reviewing major themes",
         "Celebrating our work",
         "Preparing for compilation"
@@ -123,10 +124,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 19,
+        "body_word_count": 21,
         "bullet_line_count": 4,
         "title_char_count": 22,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 82
       },
       "source_content_id": "P7-T1-SS-0204-1205-01"
     },
@@ -137,7 +138,7 @@
       "lesson_stage": "model",
       "student_title": "Organizing Our Work",
       "student_body": [
-        "Watch the example.",
+        "Worked example:",
         "Collecting all Term 1 work",
         "Sorting by topic",
         "Checking for missing items"
@@ -153,7 +154,7 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 15,
+        "body_word_count": 14,
         "bullet_line_count": 4,
         "title_char_count": 19,
         "max_bullet_char_count": 26
@@ -167,10 +168,10 @@
       "lesson_stage": "practice",
       "student_title": "Try it together",
       "student_body": [
+        "Answer with evidence:",
         "Why is it important to keep our maps and projects organized?",
         "Do you have all four major projects?",
-        "Which work needs to be at the very front of your pile?",
-        "Agree on one answer before writing."
+        "Which work needs to be at the very front of your pile?"
       ],
       "source_refs": [
         {
@@ -211,7 +212,7 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 36,
+        "body_word_count": 33,
         "bullet_line_count": 4,
         "title_char_count": 15,
         "max_bullet_char_count": 60
@@ -224,10 +225,10 @@
       "lesson_stage": "activity",
       "student_title": "Activity challenge",
       "student_body": [
-        "Group task:",
-        "Students participate in a whole-class discussion, sharing their m...",
-        "Students individually sort their maps and written projects accord...",
-        "In small groups, learners quiz each other on the key facts repres..."
+        "Challenge:",
+        "Participate in a whole-class discussion, sharing their most memorable lessons",
+        "Individually sort their maps and written projects according to the sequence",
+        "In small groups, learners quiz each other on the key facts represented"
       ],
       "source_refs": [
         {
@@ -268,10 +269,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 32,
+        "body_word_count": 34,
         "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 77
       }
     },
     {
