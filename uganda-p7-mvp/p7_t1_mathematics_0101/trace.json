@@ -24,7 +24,7 @@
         "01 Sets (Set Concepts)"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -48,7 +48,7 @@
         "01 Sets (Set Concepts)"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -72,7 +72,7 @@
         "Concrete exploration of countable objects (stones) vs. uncountable quantities (sand). The learner identifies sets that have a limited number of elements versus those that do not. Practical counting of stones.; Attempting to count grains of sand.; Identifying which count can be finished.; Group activity with local materials."
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -82,6 +82,30 @@
       "pptx_slide_index": 3,
       "outline_refs": [
         "p7_t1_mathematics_0101_slide_004"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-M-0101-0101-01"
+        }
+      ],
+      "evidence_excerpts": [
+        "Concrete exploration of countable objects (stones) vs. uncountable quantities (sand). The learner identifies sets that have a limited number of elements versus those that do not. Practical counting of stones.; Attempting to count grains of sand.; Identifying which count can be finished.; Group activity with local materials."
+      ],
+      "transform_notes": [
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
+      ]
+    },
+    {
+      "slide_id": "p7_t1_mathematics_0101_slide_005",
+      "slide_number": 5,
+      "pptx_slide_index": 4,
+      "outline_refs": [
+        "p7_t1_mathematics_0101_slide_005"
       ],
       "source_refs": [
         {
@@ -96,31 +120,7 @@
         "Definition of Finite (limited members) and Infinite (unlimited members) sets. The learner defines finite and infinite sets correctly. Finite Set: Has a countable number of members.; Infinite Set: Has members that go on forever.; Examples from daily life."
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
-        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
-      ]
-    },
-    {
-      "slide_id": "p7_t1_mathematics_0101_slide_005",
-      "slide_number": 5,
-      "pptx_slide_index": 4,
-      "outline_refs": [
-        "p7_t1_mathematics_0101_slide_005"
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L80-L99",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
-          "line_start": 80,
-          "line_end": 99,
-          "content_id": "P7-T1-M-0101-0101-03"
-        }
-      ],
-      "evidence_excerpts": [
-        "Pictorial representation of sets using Venn diagrams and member listing. The learner represents finite and infinite sets using diagrams. Representing finite sets with all members.; Representing infinite sets with patterns.; Using circles to group elements."
-      ],
-      "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -133,18 +133,47 @@
       ],
       "source_refs": [
         {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-M-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L58-L79",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 58,
+          "line_end": 79,
+          "content_id": "P7-T1-M-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L80-L99",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 80,
+          "line_end": 99,
+          "content_id": "P7-T1-M-0101-0101-03"
+        },
+        {
           "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L100-L120",
           "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
           "line_start": 100,
           "line_end": 120,
           "content_id": "P7-T1-M-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L121-L145",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 121,
+          "line_end": 145,
+          "content_id": "P7-T1-M-0101-0101-05"
         }
       ],
       "evidence_excerpts": [
-        "Set notation { } and the use of ellipses (...) for infinite sets. The learner uses mathematical notation and ellipses to represent infinite sets. Using curly braces { }.; The \"...\" symbol (Ellipses).; Writing sets of numbers."
+        "By the end of the lesson, learners will be able to distinguish between finite and infinite sets using practical examples from their environment.",
+        "01 Sets (Set Concepts)"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -157,6 +186,34 @@
       ],
       "source_refs": [
         {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-M-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L58-L79",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 58,
+          "line_end": 79,
+          "content_id": "P7-T1-M-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L80-L99",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 80,
+          "line_end": 99,
+          "content_id": "P7-T1-M-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L100-L120",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 100,
+          "line_end": 120,
+          "content_id": "P7-T1-M-0101-0101-04"
+        },
+        {
           "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L121-L145",
           "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
           "line_start": 121,
@@ -165,10 +222,11 @@
         }
       ],
       "evidence_excerpts": [
-        "Classification of sets: Numbers, objects, and environmental features. The learner applies the concept of finite and infinite sets to classify real-world scenarios. Sorting list of sets.; Justifying why a set is infinite.; Real-life Ugandan examples."
+        "By the end of the lesson, learners will be able to distinguish between finite and infinite sets using practical examples from their environment.",
+        "01 Sets (Set Concepts)"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -221,7 +279,7 @@
         "01 Sets (Set Concepts)"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     }

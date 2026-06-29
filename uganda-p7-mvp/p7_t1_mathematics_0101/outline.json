@@ -21,11 +21,11 @@
       "slide_id": "p7_t1_mathematics_0101_slide_001",
       "slide_number": 1,
       "layout": "title",
+      "lesson_stage": "hook",
       "student_title": "01 Sets (Set Concepts)",
       "student_body": [
         "Mathematics",
-        "By the end of the lesson, learners will be able to distinguish between finite and",
-        "infinite sets using practical examples from their environment."
+        "Big question: How many stones are in my hand?"
       ],
       "source_refs": [
         {
@@ -37,22 +37,23 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 24,
-        "bullet_line_count": 3,
+        "body_word_count": 10,
+        "bullet_line_count": 2,
         "title_char_count": 22,
-        "max_bullet_char_count": 81
+        "max_bullet_char_count": 45
       }
     },
     {
       "slide_id": "p7_t1_mathematics_0101_slide_002",
       "slide_number": 2,
-      "layout": "title_and_bullets",
-      "student_title": "Learning goal",
+      "layout": "lesson_card",
+      "lesson_stage": "mission",
+      "student_title": "Today's mission",
       "student_body": [
-        "By the end of the lesson, learners will be able to distinguish between finite and",
-        "infinite sets using practical examples from their environment.",
-        "Key words: Finite, Infinite, Countable, Uncountable, Elements, Members, Ellipses.",
-        "Lesson focus: 01 Sets (Set Concepts)"
+        "Goal: I can distinguish between finite and infinite sets using practical examples",
+        "from their environment.",
+        "You will use: Can We Count Everything?, Defining Our Sets",
+        "Success: explain, try, and answer in your own words."
       ],
       "source_refs": [
         {
@@ -64,22 +65,22 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 38,
+        "body_word_count": 34,
         "bullet_line_count": 4,
-        "title_char_count": 13,
+        "title_char_count": 15,
         "max_bullet_char_count": 81
       }
     },
     {
       "slide_id": "p7_t1_mathematics_0101_slide_003",
       "slide_number": 3,
-      "layout": "title_and_bullets",
-      "student_title": "Can We Count Everything?",
+      "layout": "lesson_card",
+      "lesson_stage": "starter",
+      "student_title": "Starter: think first",
       "student_body": [
-        "Practical counting of stones.",
-        "Attempting to count grains of sand.",
-        "Identifying which count can be finished.",
-        "Group activity with local materials."
+        "Think: How many stones are in my hand?",
+        "Pair: compare your first answer with a partner.",
+        "Share: connect your answer to Can We Count Everything?."
       ],
       "source_refs": [
         {
@@ -92,22 +93,56 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 21,
-        "bullet_line_count": 4,
-        "title_char_count": 24,
-        "max_bullet_char_count": 40
+        "body_word_count": 25,
+        "bullet_line_count": 3,
+        "title_char_count": 20,
+        "max_bullet_char_count": 55
       },
       "source_content_id": "P7-T1-M-0101-0101-01"
     },
     {
       "slide_id": "p7_t1_mathematics_0101_slide_004",
       "slide_number": 4,
-      "layout": "title_and_bullets",
+      "layout": "lesson_card",
+      "lesson_stage": "concept",
+      "student_title": "Can We Count Everything?",
+      "student_body": [
+        "Key idea: Concrete exploration of countable objects (stones) vs. uncountable",
+        "quantities (sand).",
+        "Practical counting of stones.",
+        "Attempting to count grains of sand.",
+        "Identifying which count can be finished."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-M-0101-0101-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 28,
+        "bullet_line_count": 5,
+        "title_char_count": 24,
+        "max_bullet_char_count": 76
+      },
+      "source_content_id": "P7-T1-M-0101-0101-01"
+    },
+    {
+      "slide_id": "p7_t1_mathematics_0101_slide_005",
+      "slide_number": 5,
+      "layout": "lesson_card",
+      "lesson_stage": "model",
       "student_title": "Defining Our Sets",
       "student_body": [
+        "Watch the example.",
         "Finite Set: Has a countable number of members.",
         "Infinite Set: Has members that go on forever.",
-        "Examples from daily life."
+        "Examples from daily life.",
+        "Name the step that helped you most."
       ],
       "source_refs": [
         {
@@ -120,108 +155,24 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 20,
-        "bullet_line_count": 3,
+        "body_word_count": 30,
+        "bullet_line_count": 5,
         "title_char_count": 17,
         "max_bullet_char_count": 46
       },
       "source_content_id": "P7-T1-M-0101-0101-02"
     },
     {
-      "slide_id": "p7_t1_mathematics_0101_slide_005",
-      "slide_number": 5,
-      "layout": "title_and_bullets",
-      "student_title": "Drawing Our Sets",
-      "student_body": [
-        "Representing finite sets with all members.",
-        "Representing infinite sets with patterns.",
-        "Using circles to group elements."
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L80-L99",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
-          "line_start": 80,
-          "line_end": 99,
-          "content_id": "P7-T1-M-0101-0101-03"
-        }
-      ],
-      "student_quality_checks": {
-        "source_refs_present": true,
-        "body_word_count": 16,
-        "bullet_line_count": 3,
-        "title_char_count": 16,
-        "max_bullet_char_count": 42
-      },
-      "source_content_id": "P7-T1-M-0101-0101-03"
-    },
-    {
       "slide_id": "p7_t1_mathematics_0101_slide_006",
       "slide_number": 6,
-      "layout": "title_and_bullets",
-      "student_title": "Mathematical Symbols for Sets",
-      "student_body": [
-        "Using curly braces { }.",
-        "The \"...\" symbol (Ellipses).",
-        "Writing sets of numbers."
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L100-L120",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
-          "line_start": 100,
-          "line_end": 120,
-          "content_id": "P7-T1-M-0101-0101-04"
-        }
-      ],
-      "student_quality_checks": {
-        "source_refs_present": true,
-        "body_word_count": 13,
-        "bullet_line_count": 3,
-        "title_char_count": 29,
-        "max_bullet_char_count": 28
-      },
-      "source_content_id": "P7-T1-M-0101-0101-04"
-    },
-    {
-      "slide_id": "p7_t1_mathematics_0101_slide_007",
-      "slide_number": 7,
-      "layout": "title_and_bullets",
-      "student_title": "Test Your Knowledge!",
-      "student_body": [
-        "Sorting list of sets.",
-        "Justifying why a set is infinite.",
-        "Real-life Ugandan examples."
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L121-L145",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
-          "line_start": 121,
-          "line_end": 145,
-          "content_id": "P7-T1-M-0101-0101-05"
-        }
-      ],
-      "student_quality_checks": {
-        "source_refs_present": true,
-        "body_word_count": 13,
-        "bullet_line_count": 3,
-        "title_char_count": 20,
-        "max_bullet_char_count": 33
-      },
-      "source_content_id": "P7-T1-M-0101-0101-05"
-    },
-    {
-      "slide_id": "p7_t1_mathematics_0101_slide_008",
-      "slide_number": 8,
-      "layout": "title_and_bullets",
-      "student_title": "Check your understanding",
+      "layout": "lesson_card",
+      "lesson_stage": "practice",
+      "student_title": "Try it together",
       "student_body": [
         "Can you tell me exactly how many grains are in that pile of sand?",
         "Which count was easier to finish?",
         "What is a finite set?",
-        "What is an infinite set?",
-        "Write one answer clearly in your notebook."
+        "Agree on one answer before writing."
       ],
       "source_refs": [
         {
@@ -262,10 +213,125 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 37,
-        "bullet_line_count": 5,
-        "title_char_count": 24,
+        "body_word_count": 31,
+        "bullet_line_count": 4,
+        "title_char_count": 15,
         "max_bullet_char_count": 65
+      }
+    },
+    {
+      "slide_id": "p7_t1_mathematics_0101_slide_007",
+      "slide_number": 7,
+      "layout": "lesson_card",
+      "lesson_stage": "activity",
+      "student_title": "Activity challenge",
+      "student_body": [
+        "Group task:",
+        "In groups of five, learners count a pile of 10 bottle caps and then try to count the",
+        "number of blades of grass in a small patch of the school compound. They discuss which",
+        "one has a definite end.",
+        "Students write the definitions of finite and infinite sets in their..."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-M-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L58-L79",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 58,
+          "line_end": 79,
+          "content_id": "P7-T1-M-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L80-L99",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 80,
+          "line_end": 99,
+          "content_id": "P7-T1-M-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L100-L120",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 100,
+          "line_end": 120,
+          "content_id": "P7-T1-M-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L121-L145",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 121,
+          "line_end": 145,
+          "content_id": "P7-T1-M-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 52,
+        "bullet_line_count": 5,
+        "title_char_count": 18,
+        "max_bullet_char_count": 85
+      }
+    },
+    {
+      "slide_id": "p7_t1_mathematics_0101_slide_008",
+      "slide_number": 8,
+      "layout": "lesson_card",
+      "lesson_stage": "exit",
+      "student_title": "Exit ticket",
+      "student_body": [
+        "Answer: Can a very large set still be finite? (Yes, if it has an end).",
+        "Use one complete sentence.",
+        "Include one key word: Set, elements, counting",
+        "Hand in or read your answer aloud."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-M-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L58-L79",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 58,
+          "line_end": 79,
+          "content_id": "P7-T1-M-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L80-L99",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 80,
+          "line_end": 99,
+          "content_id": "P7-T1-M-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L100-L120",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 100,
+          "line_end": 120,
+          "content_id": "P7-T1-M-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt#L121-L145",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+          "line_start": 121,
+          "line_end": 145,
+          "content_id": "P7-T1-M-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 33,
+        "bullet_line_count": 4,
+        "title_char_count": 11,
+        "max_bullet_char_count": 70
       }
     }
   ],

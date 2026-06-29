@@ -24,7 +24,7 @@
         "The Human Body: Muscular-Skeletal System"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -48,7 +48,7 @@
         "The Human Body: Muscular-Skeletal System"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -72,7 +72,7 @@
         "Prior knowledge activation: Discussing why the body has a firm shape and how it moves. The learner explains the purpose of the internal body framework. The body has a firm framework.; This framework allows us to stand and move.; Without it, we would be like a heap of cloth."
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -82,6 +82,30 @@
       "pptx_slide_index": 3,
       "outline_refs": [
         "p7_t1_integrated_science_0101_slide_004"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L41-L60",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 41,
+          "line_end": 60,
+          "content_id": "P7-T1-S-0101-0101-01"
+        }
+      ],
+      "evidence_excerpts": [
+        "Prior knowledge activation: Discussing why the body has a firm shape and how it moves. The learner explains the purpose of the internal body framework. The body has a firm framework.; This framework allows us to stand and move.; Without it, we would be like a heap of cloth."
+      ],
+      "transform_notes": [
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
+      ]
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_0101_slide_005",
+      "slide_number": 5,
+      "pptx_slide_index": 4,
+      "outline_refs": [
+        "p7_t1_integrated_science_0101_slide_005"
       ],
       "source_refs": [
         {
@@ -96,31 +120,7 @@
         "Exploration: Observing a skeleton chart to see how bones are arranged. The learner identifies the major parts of the human skeleton on a chart. The skeleton is the bony framework of the body.; It is made of many bones of different shapes.; It supports the whole body."
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
-        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
-      ]
-    },
-    {
-      "slide_id": "p7_t1_integrated_science_0101_slide_005",
-      "slide_number": 5,
-      "pptx_slide_index": 4,
-      "outline_refs": [
-        "p7_t1_integrated_science_0101_slide_005"
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L84-L105",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
-          "line_start": 84,
-          "line_end": 105,
-          "content_id": "P7-T1-S-0101-0101-03"
-        }
-      ],
-      "evidence_excerpts": [
-        "Concept Introduction: Defining Bones, Muscles, and Joints. The learner identifies the three main components of the muscular-skeletal system. Bones: The hard framework.; Muscles: The soft tissues that pull bones.; Joints: The places where two or more bones meet."
-      ],
-      "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -133,18 +133,47 @@
       ],
       "source_refs": [
         {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L41-L60",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 41,
+          "line_end": 60,
+          "content_id": "P7-T1-S-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L62-L82",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 62,
+          "line_end": 82,
+          "content_id": "P7-T1-S-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L84-L105",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 84,
+          "line_end": 105,
+          "content_id": "P7-T1-S-0101-0101-03"
+        },
+        {
           "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L107-L127",
           "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
           "line_start": 107,
           "line_end": 127,
           "content_id": "P7-T1-S-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L129-L149",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 129,
+          "line_end": 149,
+          "content_id": "P7-T1-S-0101-0101-05"
         }
       ],
       "evidence_excerpts": [
-        "Elaborate: Demonstrating the interaction between muscles and bones at a joint. The learner describes how the components work together to aid movement. Muscles are attached to bones.; Muscles contract (shorten) to pull bones.; Joints allow the bones to swing or rotate."
+        "By the end of the lesson, learners will be able to identify and name the main components of the human muscular-skeletal system (bones, muscles, and joints).",
+        "The Human Body: Muscular-Skeletal System"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -157,6 +186,34 @@
       ],
       "source_refs": [
         {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L41-L60",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 41,
+          "line_end": 60,
+          "content_id": "P7-T1-S-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L62-L82",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 62,
+          "line_end": 82,
+          "content_id": "P7-T1-S-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L84-L105",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 84,
+          "line_end": 105,
+          "content_id": "P7-T1-S-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L107-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 107,
+          "line_end": 127,
+          "content_id": "P7-T1-S-0101-0101-04"
+        },
+        {
           "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L129-L149",
           "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
           "line_start": 129,
@@ -165,10 +222,11 @@
         }
       ],
       "evidence_excerpts": [
-        "Evaluate: Reviewing the day's lesson through a labeling activity. The learner lists and labels the components of the muscular-skeletal system accurately. The system is called the Muscular-Skeletal System.; Main parts: Bones, Muscles, Joints.; Function: Support, Protection, and Movement."
+        "By the end of the lesson, learners will be able to identify and name the main components of the human muscular-skeletal system (bones, muscles, and joints).",
+        "The Human Body: Muscular-Skeletal System"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -221,7 +279,7 @@
         "The Human Body: Muscular-Skeletal System"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     }

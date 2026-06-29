@@ -21,11 +21,11 @@
       "slide_id": "p7_t1_christian_religious_education_0101_slide_001",
       "slide_number": 1,
       "layout": "title",
+      "lesson_stage": "hook",
       "student_title": "Christians and the Holy Spirit (Topic 1: Enriched in the Spirit)",
       "student_body": [
         "Christian Religious Education",
-        "By the end of the lesson, learners will be able to define the Holy Spirit and",
-        "recognize Him as the third person of the Trinity."
+        "Big question: Can you see the wind?"
       ],
       "source_refs": [
         {
@@ -37,22 +37,23 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 28,
-        "bullet_line_count": 3,
+        "body_word_count": 10,
+        "bullet_line_count": 2,
         "title_char_count": 64,
-        "max_bullet_char_count": 77
+        "max_bullet_char_count": 35
       }
     },
     {
       "slide_id": "p7_t1_christian_religious_education_0101_slide_002",
       "slide_number": 2,
-      "layout": "title_and_bullets",
-      "student_title": "Learning goal",
+      "layout": "lesson_card",
+      "lesson_stage": "mission",
+      "student_title": "Today's mission",
       "student_body": [
-        "By the end of the lesson, learners will be able to define the Holy Spirit and",
-        "recognize Him as the third person of the Trinity.",
-        "Key words: Vocabulary: Trinity, Spirit, Person, Godhead.",
-        "Lesson focus: Christians and the Holy Spirit (Topic 1: Enriched in the Spirit)"
+        "Goal: I can define the Holy Spirit and recognize Him as the third person of the",
+        "Trinity.",
+        "You will use: What is a Spirit?, Defining the Holy Spirit",
+        "Success: explain, try, and answer in your own words."
       ],
       "source_refs": [
         {
@@ -64,18 +65,50 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 45,
+        "body_word_count": 37,
         "bullet_line_count": 4,
-        "title_char_count": 13,
-        "max_bullet_char_count": 78
+        "title_char_count": 15,
+        "max_bullet_char_count": 79
       }
     },
     {
       "slide_id": "p7_t1_christian_religious_education_0101_slide_003",
       "slide_number": 3,
-      "layout": "title_and_bullets",
+      "layout": "lesson_card",
+      "lesson_stage": "starter",
+      "student_title": "Starter: think first",
+      "student_body": [
+        "Think: Can you see the wind?",
+        "Pair: compare your first answer with a partner.",
+        "Share: connect your answer to What is a Spirit?."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-CRE-0101-0101-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 23,
+        "bullet_line_count": 3,
+        "title_char_count": 20,
+        "max_bullet_char_count": 48
+      },
+      "source_content_id": "P7-T1-CRE-0101-0101-01"
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_004",
+      "slide_number": 4,
+      "layout": "lesson_card",
+      "lesson_stage": "concept",
       "student_title": "What is a Spirit?",
       "student_body": [
+        "Key idea: Introduction to the \"Spirit\" concept. Just as wind is invisible but",
+        "powerful, a spirit is a non-physical being.",
         "A spirit is invisible.",
         "We see the effects of a spirit, like we see wind moving trees.",
         "The Spirit is the \"breath\" of God."
@@ -91,22 +124,24 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 24,
-        "bullet_line_count": 3,
+        "body_word_count": 44,
+        "bullet_line_count": 5,
         "title_char_count": 17,
-        "max_bullet_char_count": 62
+        "max_bullet_char_count": 77
       },
       "source_content_id": "P7-T1-CRE-0101-0101-01"
     },
     {
-      "slide_id": "p7_t1_christian_religious_education_0101_slide_004",
-      "slide_number": 4,
-      "layout": "title_and_bullets",
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_005",
+      "slide_number": 5,
+      "layout": "lesson_card",
+      "lesson_stage": "model",
       "student_title": "Defining the Holy Spirit",
       "student_body": [
-        "The Holy Spirit is God in us.",
-        "He is our greatest gift.",
-        "He is the Spirit of truth and love."
+        "Model the example step by step.",
+        "2. The Holy Spirit",
+        "He is God's presence in us.",
+        "He is the \"Gift and the Giver.\""
       ],
       "source_refs": [
         {
@@ -119,109 +154,24 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 20,
-        "bullet_line_count": 3,
+        "body_word_count": 23,
+        "bullet_line_count": 4,
         "title_char_count": 24,
-        "max_bullet_char_count": 35
+        "max_bullet_char_count": 31
       },
       "source_content_id": "P7-T1-CRE-0101-0101-02"
     },
     {
-      "slide_id": "p7_t1_christian_religious_education_0101_slide_005",
-      "slide_number": 5,
-      "layout": "title_and_bullets",
-      "student_title": "The Holy Trinity",
-      "student_body": [
-        "Trinity means \"Three in One.\"",
-        "1st Person: God the Father (Creator).",
-        "2nd Person: God the Son (Redeemer).",
-        "3rd Person: God the Holy Spirit (Helper)."
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L82-L105",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
-          "line_start": 82,
-          "line_end": 105,
-          "content_id": "P7-T1-CRE-0101-0101-03"
-        }
-      ],
-      "student_quality_checks": {
-        "source_refs_present": true,
-        "body_word_count": 24,
-        "bullet_line_count": 4,
-        "title_char_count": 16,
-        "max_bullet_char_count": 41
-      },
-      "source_content_id": "P7-T1-CRE-0101-0101-03"
-    },
-    {
       "slide_id": "p7_t1_christian_religious_education_0101_slide_006",
       "slide_number": 6,
-      "layout": "title_and_bullets",
-      "student_title": "One God, Three Persons",
-      "student_body": [
-        "All three persons are equal.",
-        "They work together in unity.",
-        "The Holy Spirit is fully God."
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L107-L127",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
-          "line_start": 107,
-          "line_end": 127,
-          "content_id": "P7-T1-CRE-0101-0101-04"
-        }
-      ],
-      "student_quality_checks": {
-        "source_refs_present": true,
-        "body_word_count": 16,
-        "bullet_line_count": 3,
-        "title_char_count": 22,
-        "max_bullet_char_count": 29
-      },
-      "source_content_id": "P7-T1-CRE-0101-0101-04"
-    },
-    {
-      "slide_id": "p7_t1_christian_religious_education_0101_slide_007",
-      "slide_number": 7,
-      "layout": "title_and_bullets",
-      "student_title": "Lesson Summary",
-      "student_body": [
-        "Definition of Holy Spirit.",
-        "The Trinity Structure.",
-        "Our relationship with the Spirit."
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L129-L154",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
-          "line_start": 129,
-          "line_end": 154,
-          "content_id": "P7-T1-CRE-0101-0101-05"
-        }
-      ],
-      "student_quality_checks": {
-        "source_refs_present": true,
-        "body_word_count": 12,
-        "bullet_line_count": 3,
-        "title_char_count": 14,
-        "max_bullet_char_count": 33
-      },
-      "source_content_id": "P7-T1-CRE-0101-0101-05"
-    },
-    {
-      "slide_id": "p7_t1_christian_religious_education_0101_slide_008",
-      "slide_number": 8,
-      "layout": "title_and_bullets",
-      "student_title": "Check your understanding",
+      "layout": "lesson_card",
+      "lesson_stage": "practice",
+      "student_title": "Try it together",
       "student_body": [
         "How do you know the wind is there?",
         "Is God visible to our physical eyes?",
         "Who is the Holy Spirit?",
-        "Why is He called the greatest gift?",
-        "Write one answer clearly in your notebook."
+        "Agree on one answer before writing."
       ],
       "source_refs": [
         {
@@ -262,10 +212,126 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 34,
-        "bullet_line_count": 5,
-        "title_char_count": 24,
-        "max_bullet_char_count": 42
+        "body_word_count": 26,
+        "bullet_line_count": 4,
+        "title_char_count": 15,
+        "max_bullet_char_count": 36
+      }
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_007",
+      "slide_number": 7,
+      "layout": "lesson_card",
+      "lesson_stage": "activity",
+      "student_title": "Activity challenge",
+      "student_body": [
+        "Group task:",
+        "Students blow on their hands and observe trees moving outside to understand the",
+        "concept of an invisible but real force.",
+        "Students discuss in pairs what it means to receive a gift that is also the person who",
+        "gave it.",
+        "Teacher demonstrates the Trinity using the three-stone stove analogy while learners"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-CRE-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L59-L80",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 59,
+          "line_end": 80,
+          "content_id": "P7-T1-CRE-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L82-L105",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 82,
+          "line_end": 105,
+          "content_id": "P7-T1-CRE-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L107-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 107,
+          "line_end": 127,
+          "content_id": "P7-T1-CRE-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L129-L154",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 129,
+          "line_end": 154,
+          "content_id": "P7-T1-CRE-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 52,
+        "bullet_line_count": 6,
+        "title_char_count": 18,
+        "max_bullet_char_count": 85
+      }
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_008",
+      "slide_number": 8,
+      "layout": "lesson_card",
+      "lesson_stage": "exit",
+      "student_title": "Exit ticket",
+      "student_body": [
+        "Answer: Can you name the three persons?",
+        "Use one complete sentence.",
+        "Include one key word: Spirit, Invisible, Wind",
+        "Hand in or read your answer aloud."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-CRE-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L59-L80",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 59,
+          "line_end": 80,
+          "content_id": "P7-T1-CRE-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L82-L105",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 82,
+          "line_end": 105,
+          "content_id": "P7-T1-CRE-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L107-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 107,
+          "line_end": 127,
+          "content_id": "P7-T1-CRE-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L129-L154",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 129,
+          "line_end": 154,
+          "content_id": "P7-T1-CRE-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 25,
+        "bullet_line_count": 4,
+        "title_char_count": 11,
+        "max_bullet_char_count": 45
       }
     }
   ],

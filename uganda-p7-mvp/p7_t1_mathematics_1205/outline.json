@@ -21,12 +21,11 @@
       "slide_id": "p7_t1_mathematics_1205_slide_001",
       "slide_number": 1,
       "layout": "title",
+      "lesson_stage": "hook",
       "student_title": "4.0 Patterns and Sequences (Final Review)",
       "student_body": [
         "Mathematics",
-        "By the end of the lesson, learners will be able to apply all Term 1 mathematical",
-        "concepts (Sets, Whole Numbers, Operations, Patterns) to complete a comprehensive",
-        "\"Math Mastery Project\" simulating a local market scenario."
+        "Big question: What is a subset?"
       ],
       "source_refs": [
         {
@@ -38,22 +37,24 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 35,
-        "bullet_line_count": 4,
+        "body_word_count": 7,
+        "bullet_line_count": 2,
         "title_char_count": 41,
-        "max_bullet_char_count": 80
+        "max_bullet_char_count": 31
       }
     },
     {
       "slide_id": "p7_t1_mathematics_1205_slide_002",
       "slide_number": 2,
-      "layout": "title_and_bullets",
-      "student_title": "Learning goal",
+      "layout": "lesson_card",
+      "lesson_stage": "mission",
+      "student_title": "Today's mission",
       "student_body": [
-        "By the end of the lesson, learners will be able to apply all Term 1 mathematical",
-        "concepts (Sets, Whole Numbers, Operations, Patterns) to complete a comprehensive",
-        "\"Math Mastery Project\" simulating a local market scenario.",
-        "Lesson focus: 4.0 Patterns and Sequences (Final Review)"
+        "Goal: I can apply all Term 1 mathematical concepts (Sets, Whole Numbers, Operations,",
+        "Patterns) to complete a comprehensive \"Math Mastery Project\" simulating a local",
+        "market scenario.",
+        "You will use: Setting Up Our Math Market, Mapping the Market Data",
+        "Success: explain, try, and answer in your own words."
       ],
       "source_refs": [
         {
@@ -65,18 +66,50 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 42,
-        "bullet_line_count": 4,
-        "title_char_count": 13,
-        "max_bullet_char_count": 80
+        "body_word_count": 47,
+        "bullet_line_count": 5,
+        "title_char_count": 15,
+        "max_bullet_char_count": 84
       }
     },
     {
       "slide_id": "p7_t1_mathematics_1205_slide_003",
       "slide_number": 3,
-      "layout": "title_and_bullets",
+      "layout": "lesson_card",
+      "lesson_stage": "starter",
+      "student_title": "Starter: think first",
+      "student_body": [
+        "Think: What is a subset?",
+        "Pair: compare your first answer with a partner.",
+        "Share: connect your answer to Setting Up Our Math Market."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-M-0402-1205-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 23,
+        "bullet_line_count": 3,
+        "title_char_count": 20,
+        "max_bullet_char_count": 57
+      },
+      "source_content_id": "P7-T1-M-0402-1205-01"
+    },
+    {
+      "slide_id": "p7_t1_mathematics_1205_slide_004",
+      "slide_number": 4,
+      "layout": "lesson_card",
+      "lesson_stage": "concept",
       "student_title": "Setting Up Our Math Market",
       "student_body": [
+        "Key idea: Concrete Stage: Organizing market items into sets and subsets using stones",
+        "and sticks.",
         "Use stones to represent customers.",
         "Group local items into Sets.",
         "Identify subsets within the market."
@@ -92,22 +125,25 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 15,
-        "bullet_line_count": 3,
+        "body_word_count": 30,
+        "bullet_line_count": 5,
         "title_char_count": 26,
-        "max_bullet_char_count": 35
+        "max_bullet_char_count": 84
       },
       "source_content_id": "P7-T1-M-0402-1205-01"
     },
     {
-      "slide_id": "p7_t1_mathematics_1205_slide_004",
-      "slide_number": 4,
-      "layout": "title_and_bullets",
+      "slide_id": "p7_t1_mathematics_1205_slide_005",
+      "slide_number": 5,
+      "layout": "lesson_card",
+      "lesson_stage": "model",
       "student_title": "Mapping the Market Data",
       "student_body": [
+        "Watch the example.",
         "Draw a Venn diagram of the inventory.",
         "Create a price sequence for items.",
-        "Identify the rule of the sequence."
+        "Identify the rule of the sequence.",
+        "Name the step that helped you most."
       ],
       "source_refs": [
         {
@@ -120,108 +156,24 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 19,
-        "bullet_line_count": 3,
+        "body_word_count": 29,
+        "bullet_line_count": 5,
         "title_char_count": 23,
         "max_bullet_char_count": 37
       },
       "source_content_id": "P7-T1-M-0402-1205-02"
     },
     {
-      "slide_id": "p7_t1_mathematics_1205_slide_005",
-      "slide_number": 5,
-      "layout": "title_and_bullets",
-      "student_title": "Calculating the Market Profit",
-      "student_body": [
-        "Multiply items by price.",
-        "Sum the total revenue.",
-        "Convert large totals to Standard Form."
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L86-L106",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
-          "line_start": 86,
-          "line_end": 106,
-          "content_id": "P7-T1-M-0402-1205-03"
-        }
-      ],
-      "student_quality_checks": {
-        "source_refs_present": true,
-        "body_word_count": 14,
-        "bullet_line_count": 3,
-        "title_char_count": 29,
-        "max_bullet_char_count": 38
-      },
-      "source_content_id": "P7-T1-M-0402-1205-03"
-    },
-    {
       "slide_id": "p7_t1_mathematics_1205_slide_006",
       "slide_number": 6,
-      "layout": "title_and_bullets",
-      "student_title": "The Inspector's Challenge",
-      "student_body": [
-        "Use divisibility tests for 6, 8, and 9.",
-        "Find square roots of perfect numbers.",
-        "Apply prime factorisation."
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L108-L128",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
-          "line_start": 108,
-          "line_end": 128,
-          "content_id": "P7-T1-M-0402-1205-04"
-        }
-      ],
-      "student_quality_checks": {
-        "source_refs_present": true,
-        "body_word_count": 17,
-        "bullet_line_count": 3,
-        "title_char_count": 25,
-        "max_bullet_char_count": 39
-      },
-      "source_content_id": "P7-T1-M-0402-1205-04"
-    },
-    {
-      "slide_id": "p7_t1_mathematics_1205_slide_007",
-      "slide_number": 7,
-      "layout": "title_and_bullets",
-      "student_title": "Mastery Presentation",
-      "student_body": [
-        "Present project findings.",
-        "Solve a final \"Mastery Problem.\"",
-        "Reflect on Term 1 progress."
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L130-L152",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
-          "line_start": 130,
-          "line_end": 152,
-          "content_id": "P7-T1-M-0402-1205-05"
-        }
-      ],
-      "student_quality_checks": {
-        "source_refs_present": true,
-        "body_word_count": 13,
-        "bullet_line_count": 3,
-        "title_char_count": 20,
-        "max_bullet_char_count": 32
-      },
-      "source_content_id": "P7-T1-M-0402-1205-05"
-    },
-    {
-      "slide_id": "p7_t1_mathematics_1205_slide_008",
-      "slide_number": 8,
-      "layout": "title_and_bullets",
-      "student_title": "Check your understanding",
+      "layout": "lesson_card",
+      "lesson_stage": "practice",
+      "student_title": "Try it together",
       "student_body": [
         "How many items are in our Universal Set?",
         "Can an item belong to two sets at once?",
         "Where do we put items that are both cheap and useful?",
-        "What is the common difference in our price sequence?",
-        "Write one answer clearly in your notebook."
+        "Agree on one answer before writing."
       ],
       "source_refs": [
         {
@@ -262,9 +214,124 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 44,
-        "bullet_line_count": 5,
-        "title_char_count": 24,
+        "body_word_count": 34,
+        "bullet_line_count": 4,
+        "title_char_count": 15,
+        "max_bullet_char_count": 53
+      }
+    },
+    {
+      "slide_id": "p7_t1_mathematics_1205_slide_007",
+      "slide_number": 7,
+      "layout": "lesson_card",
+      "lesson_stage": "activity",
+      "student_title": "Activity challenge",
+      "student_body": [
+        "Group task:",
+        "Students work in groups of five to sort physical objects (stones, sticks, bottles)",
+        "into specific sets and subsets on their desks or the floor to represent market",
+        "inventory.",
+        "Students draw Venn diagrams on paper to represent their sorted sets and write out",
+        "numerical sequences representing the increasing cost of multiple..."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-M-0402-1205-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L63-L84",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 63,
+          "line_end": 84,
+          "content_id": "P7-T1-M-0402-1205-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L86-L106",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 86,
+          "line_end": 106,
+          "content_id": "P7-T1-M-0402-1205-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L108-L128",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 108,
+          "line_end": 128,
+          "content_id": "P7-T1-M-0402-1205-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L130-L152",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 130,
+          "line_end": 152,
+          "content_id": "P7-T1-M-0402-1205-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 52,
+        "bullet_line_count": 6,
+        "title_char_count": 18,
+        "max_bullet_char_count": 82
+      }
+    },
+    {
+      "slide_id": "p7_t1_mathematics_1205_slide_008",
+      "slide_number": 8,
+      "layout": "lesson_card",
+      "lesson_stage": "exit",
+      "student_title": "Exit ticket",
+      "student_body": [
+        "Answer: How does math help a market seller in Uganda?",
+        "Use one complete sentence.",
+        "Hand in or read your answer aloud."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-M-0402-1205-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L63-L84",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 63,
+          "line_end": 84,
+          "content_id": "P7-T1-M-0402-1205-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L86-L106",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 86,
+          "line_end": 106,
+          "content_id": "P7-T1-M-0402-1205-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L108-L128",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 108,
+          "line_end": 128,
+          "content_id": "P7-T1-M-0402-1205-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L130-L152",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 130,
+          "line_end": 152,
+          "content_id": "P7-T1-M-0402-1205-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 21,
+        "bullet_line_count": 3,
+        "title_char_count": 11,
         "max_bullet_char_count": 53
       }
     }
