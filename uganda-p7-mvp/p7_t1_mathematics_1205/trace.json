@@ -24,7 +24,7 @@
         "4.0 Patterns and Sequences (Final Review)"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -48,7 +48,7 @@
         "4.0 Patterns and Sequences (Final Review)"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -72,7 +72,7 @@
         "Concrete Stage: Organizing market items into sets and subsets using stones and sticks. The learner forms subsets and represents information using concrete objects from the local environment. Use stones to represent customers.; Group local items into Sets.; Identify subsets within the market."
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -82,6 +82,30 @@
       "pptx_slide_index": 3,
       "outline_refs": [
         "p7_t1_mathematics_1205_slide_004"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-M-0402-1205-01"
+        }
+      ],
+      "evidence_excerpts": [
+        "Concrete Stage: Organizing market items into sets and subsets using stones and sticks. The learner forms subsets and represents information using concrete objects from the local environment. Use stones to represent customers.; Group local items into Sets.; Identify subsets within the market."
+      ],
+      "transform_notes": [
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
+      ]
+    },
+    {
+      "slide_id": "p7_t1_mathematics_1205_slide_005",
+      "slide_number": 5,
+      "pptx_slide_index": 4,
+      "outline_refs": [
+        "p7_t1_mathematics_1205_slide_005"
       ],
       "source_refs": [
         {
@@ -96,31 +120,7 @@
         "Pictorial Stage: Drawing Venn diagrams for market sets and creating price sequences. The learner represents information on Venn diagrams and identifies number patterns in a sequence. Draw a Venn diagram of the inventory.; Create a price sequence for items.; Identify the rule of the sequence."
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
-        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
-      ]
-    },
-    {
-      "slide_id": "p7_t1_mathematics_1205_slide_005",
-      "slide_number": 5,
-      "pptx_slide_index": 4,
-      "outline_refs": [
-        "p7_t1_mathematics_1205_slide_005"
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L86-L106",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
-          "line_start": 86,
-          "line_end": 106,
-          "content_id": "P7-T1-M-0402-1205-03"
-        }
-      ],
-      "evidence_excerpts": [
-        "Abstract Stage: Calculating total market revenue and expressing large figures in scientific notation. The learner applies the four basic operations to whole numbers and writes numbers in standard form. Multiply items by price.; Sum the total revenue.; Convert large totals to Standard Form."
-      ],
-      "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -133,18 +133,47 @@
       ],
       "source_refs": [
         {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-M-0402-1205-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L63-L84",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 63,
+          "line_end": 84,
+          "content_id": "P7-T1-M-0402-1205-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L86-L106",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 86,
+          "line_end": 106,
+          "content_id": "P7-T1-M-0402-1205-03"
+        },
+        {
           "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L108-L128",
           "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
           "line_start": 108,
           "line_end": 128,
           "content_id": "P7-T1-M-0402-1205-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L130-L152",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 130,
+          "line_end": 152,
+          "content_id": "P7-T1-M-0402-1205-05"
         }
       ],
       "evidence_excerpts": [
-        "Guided Practice: Verifying inventory using divisibility and finding dimensions using square roots. The learner finds square roots of numbers and applies tests of divisibility. Use divisibility tests for 6, 8, and 9.; Find square roots of perfect numbers.; Apply prime factorisation."
+        "By the end of the lesson, learners will be able to apply all Term 1 mathematical concepts (Sets, Whole Numbers, Operations, Patterns) to complete a comprehensive \"Math Mastery Project\" simulating a local market scenario.",
+        "4.0 Patterns and Sequences (Final Review)"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -157,6 +186,34 @@
       ],
       "source_refs": [
         {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-M-0402-1205-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L63-L84",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 63,
+          "line_end": 84,
+          "content_id": "P7-T1-M-0402-1205-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L86-L106",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 86,
+          "line_end": 106,
+          "content_id": "P7-T1-M-0402-1205-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L108-L128",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 108,
+          "line_end": 128,
+          "content_id": "P7-T1-M-0402-1205-04"
+        },
+        {
           "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L130-L152",
           "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
           "line_start": 130,
@@ -165,10 +222,11 @@
         }
       ],
       "evidence_excerpts": [
-        "Problem Solving: Presenting the final project and reflecting on mastery. The learner solves real-life problems involving application of mathematical concepts. Present project findings.; Solve a final \"Mastery Problem.\"; Reflect on Term 1 progress."
+        "By the end of the lesson, learners will be able to apply all Term 1 mathematical concepts (Sets, Whole Numbers, Operations, Patterns) to complete a comprehensive \"Math Mastery Project\" simulating a local market scenario.",
+        "4.0 Patterns and Sequences (Final Review)"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -221,7 +279,7 @@
         "4.0 Patterns and Sequences (Final Review)"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     }

@@ -24,7 +24,7 @@
         "Christians and the Holy Spirit"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -48,7 +48,7 @@
         "Christians and the Holy Spirit"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -72,7 +72,7 @@
         "Brainstorming session to recall \"Heroes of Faith\" from the three main topics: Biblical figures, African Ancestors, and World Religions/Organizations. The learner identifies and categorizes key figures and organizations studied throughout Term 1. Reviewing Topic 1: Biblical Heroes.; Reviewing Topic 2: Ancestors and Reconciliation.; Reviewing Topic 3: Global Organizations of Service."
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -82,6 +82,30 @@
       "pptx_slide_index": 3,
       "outline_refs": [
         "p7_t1_christian_religious_education_1205_slide_004"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-R-0203-5-01"
+        }
+      ],
+      "evidence_excerpts": [
+        "Brainstorming session to recall \"Heroes of Faith\" from the three main topics: Biblical figures, African Ancestors, and World Religions/Organizations. The learner identifies and categorizes key figures and organizations studied throughout Term 1. Reviewing Topic 1: Biblical Heroes.; Reviewing Topic 2: Ancestors and Reconciliation.; Reviewing Topic 3: Global Organizations of Service."
+      ],
+      "transform_notes": [
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
+      ]
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_1205_slide_005",
+      "slide_number": 5,
+      "pptx_slide_index": 4,
+      "outline_refs": [
+        "p7_t1_christian_religious_education_1205_slide_005"
       ],
       "source_refs": [
         {
@@ -96,31 +120,7 @@
         "Selecting sections for the scrapbook and preparing local materials for assembly. The learner plans the structure and design of a thematic scrapbook. Dividing the scrapbook into three sections.; Choosing titles for each page.; Preparing local materials (banana fibers, cards)."
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
-        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
-      ]
-    },
-    {
-      "slide_id": "p7_t1_christian_religious_education_1205_slide_005",
-      "slide_number": 5,
-      "pptx_slide_index": 4,
-      "outline_refs": [
-        "p7_t1_christian_religious_education_1205_slide_005"
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L88-L110",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
-          "line_start": 88,
-          "line_end": 110,
-          "content_id": "P7-T1-R-0203-5-03"
-        }
-      ],
-      "evidence_excerpts": [
-        "Creating content for the first two sections of the scrapbook: Biblical salvation and Traditional reconciliation. The learner illustrates and describes the roles of Biblical figures and African ancestors in the faith journey. Illustrating the Creation story or Jesus’ service.; Writing about an ancestor who promoted peace.; Highlighting the value of reconciliation."
-      ],
-      "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -133,18 +133,47 @@
       ],
       "source_refs": [
         {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-R-0203-5-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L63-L86",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 63,
+          "line_end": 86,
+          "content_id": "P7-T1-R-0203-5-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L88-L110",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 88,
+          "line_end": 110,
+          "content_id": "P7-T1-R-0203-5-03"
+        },
+        {
           "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L112-L133",
           "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
           "line_start": 112,
           "line_end": 133,
           "content_id": "P7-T1-R-0203-5-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L135-L157",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 135,
+          "line_end": 157,
+          "content_id": "P7-T1-R-0203-5-05"
         }
       ],
       "evidence_excerpts": [
-        "Adding the final section to the scrapbook: International organizations (UN, Red Cross, etc.) as modern \"Heroes of Faith.\" The learner identifies and integrates global organizations of service into their understanding of faith in action. Identifying the Red Cross or UNICEF.; Explaining how they serve the needy.; Connecting global service to the Holy Spirit."
+        "By the end of the lesson, learners will be able to synthesize key concepts from Term 1 by creating a \"Heroes of Faith\" scrapbook highlighting Biblical figures, African ancestors, and modern organizations.",
+        "Christians and the Holy Spirit"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -157,6 +186,34 @@
       ],
       "source_refs": [
         {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-R-0203-5-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L63-L86",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 63,
+          "line_end": 86,
+          "content_id": "P7-T1-R-0203-5-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L88-L110",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 88,
+          "line_end": 110,
+          "content_id": "P7-T1-R-0203-5-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L112-L133",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 112,
+          "line_end": 133,
+          "content_id": "P7-T1-R-0203-5-04"
+        },
+        {
           "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L135-L157",
           "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
           "line_start": 135,
@@ -165,10 +222,11 @@
         }
       ],
       "evidence_excerpts": [
-        "Final assembly of the scrapbook and a brief peer-sharing session to review Term 1 values. The learner presents their work and reflects on the lessons learned throughout the term. Binding the pages together.; Presenting the favorite \"Hero of Faith.\"; Final reflection on Term 1."
+        "By the end of the lesson, learners will be able to synthesize key concepts from Term 1 by creating a \"Heroes of Faith\" scrapbook highlighting Biblical figures, African ancestors, and modern organizations.",
+        "Christians and the Holy Spirit"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -221,7 +279,7 @@
         "Christians and the Holy Spirit"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     }

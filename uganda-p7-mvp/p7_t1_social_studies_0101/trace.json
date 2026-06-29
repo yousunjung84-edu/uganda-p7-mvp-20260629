@@ -24,7 +24,7 @@
         "1.0 Living Together in Africa"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -48,7 +48,7 @@
         "1.0 Living Together in Africa"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -72,7 +72,7 @@
         "Connecting personal knowledge of local location to the global context of Africa. The learner appreciates Africa as a continent and its position on the world map. We live in Uganda.; Uganda is a country in East Africa.; Africa is a large continent on the Earth."
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -82,6 +82,30 @@
       "pptx_slide_index": 3,
       "outline_refs": [
         "p7_t1_social_studies_0101_slide_004"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-SS-0101-0101-01"
+        }
+      ],
+      "evidence_excerpts": [
+        "Connecting personal knowledge of local location to the global context of Africa. The learner appreciates Africa as a continent and its position on the world map. We live in Uganda.; Uganda is a country in East Africa.; Africa is a large continent on the Earth."
+      ],
+      "transform_notes": [
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
+      ]
+    },
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_005",
+      "slide_number": 5,
+      "pptx_slide_index": 4,
+      "outline_refs": [
+        "p7_t1_social_studies_0101_slide_005"
       ],
       "source_refs": [
         {
@@ -96,31 +120,7 @@
         "Introduction to the seven continents and Africa's rank as the second-largest. The learner identifies the continents of the world and their sizes. There are 7 continents in the world.; Asia is the largest.; Africa is the second-largest continent."
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
-        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
-      ]
-    },
-    {
-      "slide_id": "p7_t1_social_studies_0101_slide_005",
-      "slide_number": 5,
-      "pptx_slide_index": 4,
-      "outline_refs": [
-        "p7_t1_social_studies_0101_slide_005"
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L89-L111",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
-          "line_start": 89,
-          "line_end": 111,
-          "content_id": "P7-T1-SS-0101-0101-03"
-        }
-      ],
-      "evidence_excerpts": [
-        "Identifying the major oceans (Atlantic, Indian, Arctic, Pacific) and the seas (Mediterranean, Red Sea) surrounding Africa. The learner names the water bodies that surround Africa. West: Atlantic Ocean.; East: Indian Ocean and Red Sea.; North: Mediterranean Sea."
-      ],
-      "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -133,18 +133,47 @@
       ],
       "source_refs": [
         {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-SS-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L62-L88",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 62,
+          "line_end": 88,
+          "content_id": "P7-T1-SS-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L89-L111",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 89,
+          "line_end": 111,
+          "content_id": "P7-T1-SS-0101-0101-03"
+        },
+        {
           "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L112-L135",
           "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
           "line_start": 112,
           "line_end": 135,
           "content_id": "P7-T1-SS-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L136-L158",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 136,
+          "line_end": 158,
+          "content_id": "P7-T1-SS-0101-0101-05"
         }
       ],
       "evidence_excerpts": [
-        "Using the compass rose to determine Africa's relative location to Europe, Asia, and the Americas. The learner identifies compass directions of other continents from Africa. Europe is North of Africa.; Asia is Northeast of Africa.; South America is West of Africa."
+        "Learners will identify the location of Africa in relation to other continents and oceans.",
+        "1.0 Living Together in Africa"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -157,6 +186,34 @@
       ],
       "source_refs": [
         {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-SS-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L62-L88",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 62,
+          "line_end": 88,
+          "content_id": "P7-T1-SS-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L89-L111",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 89,
+          "line_end": 111,
+          "content_id": "P7-T1-SS-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L112-L135",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 112,
+          "line_end": 135,
+          "content_id": "P7-T1-SS-0101-0101-04"
+        },
+        {
           "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L136-L158",
           "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
           "line_start": 136,
@@ -165,10 +222,11 @@
         }
       ],
       "evidence_excerpts": [
-        "Synthesizing the lesson through map sketching and labeling of continents and oceans. The learner demonstrates the use of maps to collect information. Accuracy in labeling is key.; Continents are major land masses.; Oceans are major water bodies."
+        "Learners will identify the location of Africa in relation to other continents and oceans.",
+        "1.0 Living Together in Africa"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
@@ -221,7 +279,7 @@
         "1.0 Living Together in Africa"
       ],
       "transform_notes": [
-        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Student-facing slide is framed as a classroom step: hook, mission, starter, concept, model, practice, activity, or exit ticket.",
         "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     }
