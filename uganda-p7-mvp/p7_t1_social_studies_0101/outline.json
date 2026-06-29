@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_social_studies_0101",
+  "source_sha256": "1ac36afadaba9b58df121339357877a237b9a99fa8b060f53c44e7b4f1eb52c7",
+  "metadata": {
+    "lesson_id": "P7-T1-D1-SS",
+    "grade_term": "P7 / T1",
+    "week_number": "1",
+    "day_number": "1",
+    "subject": "Social Studies",
+    "theme": "1.0 Living Together in Africa",
+    "lesson_duration": "40 minutes",
+    "learning_objective": "Learners will identify the location of Africa in relation to other continents and oceans.",
+    "materials_needed": "World Wall Map; Globe; Atlas; Chalkboard illustrations; Compass rose chart.",
+    "content_ids_in_lesson": "P7-T1-SS-0101-0101-01, P7-T1-SS-0101-0101-02, P7-T1-SS-0101-0101-03, P7-T1-SS-0101-0101-04, P7-T1-SS-0101-0101-05",
+    "language_focus": "N/A (Social Studies)",
+    "lesson_code": "0101"
+  },
+  "slides": [
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_001",
+      "slide_number": 1,
+      "layout": "title",
+      "student_title": "1.0 Living Together in Africa",
+      "student_body": [
+        "Social Studies",
+        "Learners will identify the location of Africa in relation to other continents and",
+        "oceans."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L21-L36",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 21,
+          "line_end": 36
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 16,
+        "bullet_line_count": 3,
+        "title_char_count": 29,
+        "max_bullet_char_count": 81
+      }
+    },
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_002",
+      "slide_number": 2,
+      "layout": "title_and_bullets",
+      "student_title": "Where is Our Home?",
+      "student_body": [
+        "We live in Uganda.",
+        "Uganda is a country in East Africa.",
+        "Africa is a large continent on the Earth."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-SS-0101-0101-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 19,
+        "bullet_line_count": 3,
+        "title_char_count": 18,
+        "max_bullet_char_count": 41
+      },
+      "source_content_id": "P7-T1-SS-0101-0101-01"
+    },
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_003",
+      "slide_number": 3,
+      "layout": "title_and_bullets",
+      "student_title": "The Seven Continents",
+      "student_body": [
+        "There are 7 continents in the world.",
+        "Asia is the largest.",
+        "Africa is the second-largest continent."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L62-L88",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 62,
+          "line_end": 88,
+          "content_id": "P7-T1-SS-0101-0101-02"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 16,
+        "bullet_line_count": 3,
+        "title_char_count": 20,
+        "max_bullet_char_count": 39
+      },
+      "source_content_id": "P7-T1-SS-0101-0101-02"
+    },
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_004",
+      "slide_number": 4,
+      "layout": "title_and_bullets",
+      "student_title": "Africa’s Water Neighbors",
+      "student_body": [
+        "West: Atlantic Ocean.",
+        "East: Indian Ocean and Red Sea.",
+        "North: Mediterranean Sea."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L89-L111",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 89,
+          "line_end": 111,
+          "content_id": "P7-T1-SS-0101-0101-03"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 12,
+        "bullet_line_count": 3,
+        "title_char_count": 24,
+        "max_bullet_char_count": 31
+      },
+      "source_content_id": "P7-T1-SS-0101-0101-03"
+    },
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_005",
+      "slide_number": 5,
+      "layout": "title_and_bullets",
+      "student_title": "Africa's Position in the World",
+      "student_body": [
+        "Europe is North of Africa.",
+        "Asia is Northeast of Africa.",
+        "South America is West of Africa."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L112-L135",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 112,
+          "line_end": 135,
+          "content_id": "P7-T1-SS-0101-0101-04"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 16,
+        "bullet_line_count": 3,
+        "title_char_count": 30,
+        "max_bullet_char_count": 32
+      },
+      "source_content_id": "P7-T1-SS-0101-0101-04"
+    },
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_006",
+      "slide_number": 6,
+      "layout": "title_and_bullets",
+      "student_title": "Mapping the World",
+      "student_body": [
+        "Accuracy in labeling is key.",
+        "Continents are major land masses.",
+        "Oceans are major water bodies."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L136-L158",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 136,
+          "line_end": 158,
+          "content_id": "P7-T1-SS-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 15,
+        "bullet_line_count": 3,
+        "title_char_count": 17,
+        "max_bullet_char_count": 33
+      },
+      "source_content_id": "P7-T1-SS-0101-0101-05"
+    }
+  ],
+  "warnings": []
+}

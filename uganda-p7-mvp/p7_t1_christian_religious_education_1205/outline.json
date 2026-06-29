@@ -1,0 +1,189 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_christian_religious_education_1205",
+  "source_sha256": "f9914f1dc382e285fbece6a93711c50e055675b8608fa2cb9a350f22d2ab355f",
+  "metadata": {
+    "lesson_id": "P7-T1-R-12-5",
+    "grade_term": "P7 / T1",
+    "week_number": "12",
+    "day_number": "5",
+    "subject": "Christian Religious Education",
+    "theme": "Christians and the Holy Spirit",
+    "lesson_duration": "40 minutes",
+    "learning_objective": "By the end of the lesson, learners will be able to synthesize key concepts from Term 1 by creating a \"Heroes of Faith\" scrapbook highlighting Biblical figures, African ancestors, and modern organizations.",
+    "materials_needed": "Manila cards, markers, old magazines/newspapers, scissors, local glue (cassette flour paste), banana fibers for binding, colored pencils.",
+    "content_ids_in_lesson": "P7-T1-R-0203-5-01, P7-T1-R-0203-5-02, P7-T1-R-0203-5-03, P7-T1-R-0203-5-04, P7-T1-R-0203-5-05",
+    "language_focus": "Review of key terminology: salvation, reconciliation, ancestors, international relief, Holy Spirit.",
+    "lesson_code": "1205"
+  },
+  "slides": [
+    {
+      "slide_id": "p7_t1_christian_religious_education_1205_slide_001",
+      "slide_number": 1,
+      "layout": "title",
+      "student_title": "Christians and the Holy Spirit",
+      "student_body": [
+        "Christian Religious Education",
+        "By the end of the lesson, learners will be able to synthesize key concepts from Term",
+        "1 by creating a \"Heroes of Faith\" scrapbook highlighting Biblical figures, African",
+        "ancestors, and modern organizations."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L21-L36",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 21,
+          "line_end": 36
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 35,
+        "bullet_line_count": 4,
+        "title_char_count": 30,
+        "max_bullet_char_count": 84
+      }
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_1205_slide_002",
+      "slide_number": 2,
+      "layout": "title_and_bullets",
+      "student_title": "Who are our Heroes of Faith?",
+      "student_body": [
+        "Reviewing Topic 1: Biblical Heroes.",
+        "Reviewing Topic 2: Ancestors and Reconciliation.",
+        "Reviewing Topic 3: Global Organizations of Service."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-R-0203-5-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 18,
+        "bullet_line_count": 3,
+        "title_char_count": 28,
+        "max_bullet_char_count": 51
+      },
+      "source_content_id": "P7-T1-R-0203-5-01"
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_1205_slide_003",
+      "slide_number": 3,
+      "layout": "title_and_bullets",
+      "student_title": "Planning Our Scrapbook",
+      "student_body": [
+        "Dividing the scrapbook into three sections.",
+        "Choosing titles for each page.",
+        "Preparing local materials (banana fibers, cards)."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L63-L86",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 63,
+          "line_end": 86,
+          "content_id": "P7-T1-R-0203-5-02"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 17,
+        "bullet_line_count": 3,
+        "title_char_count": 22,
+        "max_bullet_char_count": 49
+      },
+      "source_content_id": "P7-T1-R-0203-5-02"
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_1205_slide_004",
+      "slide_number": 4,
+      "layout": "title_and_bullets",
+      "student_title": "Drawing Our Faith History",
+      "student_body": [
+        "Illustrating the Creation story or Jesus’ service.",
+        "Writing about an ancestor who promoted peace.",
+        "Highlighting the value of reconciliation."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L88-L110",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 88,
+          "line_end": 110,
+          "content_id": "P7-T1-R-0203-5-03"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 19,
+        "bullet_line_count": 3,
+        "title_char_count": 25,
+        "max_bullet_char_count": 50
+      },
+      "source_content_id": "P7-T1-R-0203-5-03"
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_1205_slide_005",
+      "slide_number": 5,
+      "layout": "title_and_bullets",
+      "student_title": "Faith in Action Today",
+      "student_body": [
+        "Identifying the Red Cross or UNICEF.",
+        "Explaining how they serve the needy.",
+        "Connecting global service to the Holy Spirit."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L112-L133",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 112,
+          "line_end": 133,
+          "content_id": "P7-T1-R-0203-5-04"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 19,
+        "bullet_line_count": 3,
+        "title_char_count": 21,
+        "max_bullet_char_count": 45
+      },
+      "source_content_id": "P7-T1-R-0203-5-04"
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_1205_slide_006",
+      "slide_number": 6,
+      "layout": "title_and_bullets",
+      "student_title": "Sharing Our Journey",
+      "student_body": [
+        "Binding the pages together.",
+        "Presenting the favorite \"Hero of Faith.\"",
+        "Final reflection on Term 1."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L135-L157",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 135,
+          "line_end": 157,
+          "content_id": "P7-T1-R-0203-5-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 15,
+        "bullet_line_count": 3,
+        "title_char_count": 19,
+        "max_bullet_char_count": 40
+      },
+      "source_content_id": "P7-T1-R-0203-5-05"
+    }
+  ],
+  "warnings": []
+}

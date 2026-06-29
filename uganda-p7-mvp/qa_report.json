@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0",
+  "run_id": "uganda-p7-mvp",
+  "created_at": "2026-06-29T12:36:32+00:00",
+  "overall_status": "pass",
+  "blocking_failure_count": 0,
+  "lessons": [
+    {
+      "lesson_id": "p7_t1_christian_religious_education_0101",
+      "subject": "Christian Religious Education",
+      "lesson_code": "0101",
+      "status": "pass",
+      "blocking_failure_count": 0,
+      "warning_count": 0,
+      "findings": []
+    },
+    {
+      "lesson_id": "p7_t1_christian_religious_education_1205",
+      "subject": "Christian Religious Education",
+      "lesson_code": "1205",
+      "status": "pass",
+      "blocking_failure_count": 0,
+      "warning_count": 0,
+      "findings": []
+    },
+    {
+      "lesson_id": "p7_t1_english_0101",
+      "subject": "English",
+      "lesson_code": "0101",
+      "status": "pass",
+      "blocking_failure_count": 0,
+      "warning_count": 0,
+      "findings": []
+    },
+    {
+      "lesson_id": "p7_t1_english_1205",
+      "subject": "English",
+      "lesson_code": "1205",
+      "status": "pass",
+      "blocking_failure_count": 0,
+      "warning_count": 0,
+      "findings": []
+    },
+    {
+      "lesson_id": "p7_t1_integrated_science_0101",
+      "subject": "Integrated Science",
+      "lesson_code": "0101",
+      "status": "pass",
+      "blocking_failure_count": 0,
+      "warning_count": 0,
+      "findings": []
+    },
+    {
+      "lesson_id": "p7_t1_integrated_science_1205",
+      "subject": "Integrated Science",
+      "lesson_code": "1205",
+      "status": "pass",
+      "blocking_failure_count": 0,
+      "warning_count": 0,
+      "findings": []
+    },
+    {
+      "lesson_id": "p7_t1_mathematics_0101",
+      "subject": "Mathematics",
+      "lesson_code": "0101",
+      "status": "pass",
+      "blocking_failure_count": 0,
+      "warning_count": 0,
+      "findings": []
+    },
+    {
+      "lesson_id": "p7_t1_mathematics_1205",
+      "subject": "Mathematics",
+      "lesson_code": "1205",
+      "status": "pass",
+      "blocking_failure_count": 0,
+      "warning_count": 0,
+      "findings": []
+    },
+    {
+      "lesson_id": "p7_t1_social_studies_0101",
+      "subject": "Social Studies",
+      "lesson_code": "0101",
+      "status": "pass",
+      "blocking_failure_count": 0,
+      "warning_count": 0,
+      "findings": []
+    },
+    {
+      "lesson_id": "p7_t1_social_studies_1205",
+      "subject": "Social Studies",
+      "lesson_code": "1205",
+      "status": "pass",
+      "blocking_failure_count": 0,
+      "warning_count": 0,
+      "findings": []
+    }
+  ]
+}
