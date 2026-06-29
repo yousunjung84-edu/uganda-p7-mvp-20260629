@@ -3,38 +3,45 @@
   "lesson_id": "p7_t1_mathematics_1205",
   "source_sha256": "9bcdf82f2ddf5b82232b44f8e814309b08afb40fd054f7362bb5ed0d1d89332d",
   "metadata": {
+    "lesson_id": "P7-T1-M-W12-D5",
     "grade_term": "P7 / T1",
+    "week_number": "12",
+    "day_number": "5",
     "subject": "Mathematics",
-    "lesson_code": "1205",
-    "theme": "4.2 Number patterns and sequence / Term 1 Review",
-    "learning_objective": "The learner forms subsets and represents information using concrete objects from the local environment.",
-    "lesson_id": "p7_t1_mathematics_1205"
+    "theme": "4.0 Patterns and Sequences (Final Review)",
+    "lesson_duration": "40 minutes",
+    "learning_objective": "By the end of the lesson, learners will be able to apply all Term 1 mathematical concepts (Sets, Whole Numbers, Operations, Patterns) to complete a comprehensive \"Math Mastery Project\" simulating a local market scenario.",
+    "materials_needed": "Stones, sticks, manila cards, markers, play money (Uganda Shillings), local items (jerrycans, baskets).",
+    "content_ids_in_lesson": "P7-T1-M-0402-1205-01, P7-T1-M-0402-1205-02, P7-T1-M-0402-1205-03, P7-T1-M-0402-1205-04, P7-T1-M-0402-1205-05",
+    "language_focus": "N/A",
+    "lesson_code": "1205"
   },
   "slides": [
     {
       "slide_id": "p7_t1_mathematics_1205_slide_001",
       "slide_number": 1,
       "layout": "title",
-      "student_title": "4.2 Number patterns and sequence / Term 1 Review",
+      "student_title": "4.0 Patterns and Sequences (Final Review)",
       "student_body": [
         "Mathematics",
-        "The learner forms subsets and represents information using concrete objects from the",
-        "local environment."
+        "By the end of the lesson, learners will be able to apply all Term 1 mathematical",
+        "concepts (Sets, Whole Numbers, Operations, Patterns) to complete a comprehensive",
+        "\"Math Mastery Project\" simulating a local market scenario."
       ],
       "source_refs": [
         {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L1-L36",
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L21-L36",
           "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
-          "line_start": 1,
+          "line_start": 21,
           "line_end": 36
         }
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 15,
-        "bullet_line_count": 3,
-        "title_char_count": 48,
-        "max_bullet_char_count": 84
+        "body_word_count": 35,
+        "bullet_line_count": 4,
+        "title_char_count": 41,
+        "max_bullet_char_count": 80
       }
     },
     {
@@ -43,24 +50,25 @@
       "layout": "title_and_bullets",
       "student_title": "Learning goal",
       "student_body": [
-        "The learner forms subsets and represents information using concrete objects from the",
-        "local environment.",
-        "Lesson focus: 4.2 Number patterns and sequence / Term 1 Review"
+        "By the end of the lesson, learners will be able to apply all Term 1 mathematical",
+        "concepts (Sets, Whole Numbers, Operations, Patterns) to complete a comprehensive",
+        "\"Math Mastery Project\" simulating a local market scenario.",
+        "Lesson focus: 4.0 Patterns and Sequences (Final Review)"
       ],
       "source_refs": [
         {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L1-L36",
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L21-L36",
           "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
-          "line_start": 1,
+          "line_start": 21,
           "line_end": 36
         }
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 25,
-        "bullet_line_count": 3,
+        "body_word_count": 42,
+        "bullet_line_count": 4,
         "title_char_count": 13,
-        "max_bullet_char_count": 84
+        "max_bullet_char_count": 80
       }
     },
     {
@@ -261,11 +269,5 @@
       }
     }
   ],
-  "warnings": [
-    {
-      "code": "missing_section",
-      "message": "Missing required lesson section: metadata",
-      "section": "metadata"
-    }
-  ]
+  "warnings": []
 }
