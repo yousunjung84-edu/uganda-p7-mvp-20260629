@@ -41,6 +41,32 @@
       "slide_id": "p7_t1_english_1205_slide_002",
       "slide_number": 2,
       "layout": "title_and_bullets",
+      "student_title": "Learning goal",
+      "student_body": [
+        "The learner reflects on personal progress in English during Term 1 and identifies",
+        "areas of strength.",
+        "Lesson focus: 3.4 Final Review and Assessment"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L1-L16",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 1,
+          "line_end": 16
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 23,
+        "bullet_line_count": 3,
+        "title_char_count": 13,
+        "max_bullet_char_count": 81
+      }
+    },
+    {
+      "slide_id": "p7_t1_english_1205_slide_003",
+      "slide_number": 3,
+      "layout": "title_and_bullets",
       "student_title": "Looking Back at Term 1",
       "student_body": [
         "Review the topics we covered",
@@ -67,8 +93,8 @@
       "source_content_id": "P7-T1-E-0304-1205-01"
     },
     {
-      "slide_id": "p7_t1_english_1205_slide_003",
-      "slide_number": 3,
+      "slide_id": "p7_t1_english_1205_slide_004",
+      "slide_number": 4,
       "layout": "title_and_bullets",
       "student_title": "What is a Portfolio?",
       "student_body": [
@@ -96,8 +122,8 @@
       "source_content_id": "P7-T1-E-0304-1205-02"
     },
     {
-      "slide_id": "p7_t1_english_1205_slide_004",
-      "slide_number": 4,
+      "slide_id": "p7_t1_english_1205_slide_005",
+      "slide_number": 5,
       "layout": "title_and_bullets",
       "student_title": "Selecting Your Best Work",
       "student_body": [
@@ -125,8 +151,8 @@
       "source_content_id": "P7-T1-E-0304-1205-03"
     },
     {
-      "slide_id": "p7_t1_english_1205_slide_005",
-      "slide_number": 5,
+      "slide_id": "p7_t1_english_1205_slide_006",
+      "slide_number": 6,
       "layout": "title_and_bullets",
       "student_title": "Creating the Portfolio Structure",
       "student_body": [
@@ -154,8 +180,8 @@
       "source_content_id": "P7-T1-E-0304-1205-04"
     },
     {
-      "slide_id": "p7_t1_english_1205_slide_006",
-      "slide_number": 6,
+      "slide_id": "p7_t1_english_1205_slide_007",
+      "slide_number": 7,
       "layout": "title_and_bullets",
       "student_title": "Share Your Success!",
       "student_body": [
@@ -181,6 +207,63 @@
         "max_bullet_char_count": 36
       },
       "source_content_id": "P7-T1-E-0304-1205-05"
+    },
+    {
+      "slide_id": "p7_t1_english_1205_slide_008",
+      "slide_number": 8,
+      "layout": "title_and_bullets",
+      "student_title": "Check your understanding",
+      "student_body": [
+        "Which activity helped you improve your English most?",
+        "Why is it important to review our work?",
+        "What is a portfolio?",
+        "What does 'criteria' mean?",
+        "Write one answer clearly in your notebook."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L17-L41",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 17,
+          "line_end": 41,
+          "content_id": "P7-T1-E-0304-1205-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L43-L66",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 43,
+          "line_end": 66,
+          "content_id": "P7-T1-E-0304-1205-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L68-L95",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 68,
+          "line_end": 95,
+          "content_id": "P7-T1-E-0304-1205-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L97-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 97,
+          "line_end": 127,
+          "content_id": "P7-T1-E-0304-1205-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L129-L154",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 129,
+          "line_end": 154,
+          "content_id": "P7-T1-E-0304-1205-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 31,
+        "bullet_line_count": 5,
+        "title_char_count": 24,
+        "max_bullet_char_count": 52
+      }
     }
   ],
   "warnings": [

@@ -204,6 +204,63 @@
         "max_bullet_char_count": 32
       },
       "source_content_id": "P7-T1-E-0101-0101-06"
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_008",
+      "slide_number": 8,
+      "layout": "title_and_bullets",
+      "student_title": "Check your understanding",
+      "student_body": [
+        "What will she do in the village?",
+        "Who is she going to visit?",
+        "What is another word for 'start'?",
+        "Who are your relatives?",
+        "Write one answer clearly in your notebook."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L24-L47",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 24,
+          "line_end": 47,
+          "content_id": "P7-T1-E-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L48-L74",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 48,
+          "line_end": 74,
+          "content_id": "P7-T1-E-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L75-L101",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 75,
+          "line_end": 101,
+          "content_id": "P7-T1-E-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L102-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 102,
+          "line_end": 127,
+          "content_id": "P7-T1-E-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L128-L152",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 128,
+          "line_end": 152,
+          "content_id": "P7-T1-E-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 30,
+        "bullet_line_count": 5,
+        "title_char_count": 24,
+        "max_bullet_char_count": 42
+      }
     }
   ],
   "warnings": [

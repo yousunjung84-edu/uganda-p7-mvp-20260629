@@ -24,8 +24,8 @@
         "3.4 Final Review and Assessment"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
@@ -34,6 +34,30 @@
       "pptx_slide_index": 1,
       "outline_refs": [
         "p7_t1_english_1205_slide_002"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L1-L16",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 1,
+          "line_end": 16
+        }
+      ],
+      "evidence_excerpts": [
+        "The learner reflects on personal progress in English during Term 1 and identifies areas of strength.",
+        "3.4 Final Review and Assessment"
+      ],
+      "transform_notes": [
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
+      ]
+    },
+    {
+      "slide_id": "p7_t1_english_1205_slide_003",
+      "slide_number": 3,
+      "pptx_slide_index": 2,
+      "outline_refs": [
+        "p7_t1_english_1205_slide_003"
       ],
       "source_refs": [
         {
@@ -48,16 +72,16 @@
         "Oral reflection on the three main topics of Term 1: School Holidays, Letter Writing, and Examinations. The learner reflects on personal progress in English during Term 1 and identifies areas of strength. Review the topics we covered; Share our favorite English activities; Discuss how our writing has improved; Prepare for our final portfolio"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_english_1205_slide_003",
-      "slide_number": 3,
-      "pptx_slide_index": 2,
+      "slide_id": "p7_t1_english_1205_slide_004",
+      "slide_number": 4,
+      "pptx_slide_index": 3,
       "outline_refs": [
-        "p7_t1_english_1205_slide_003"
+        "p7_t1_english_1205_slide_004"
       ],
       "source_refs": [
         {
@@ -72,16 +96,16 @@
         "Introducing the concept of a \"Portfolio\" and the criteria for selecting \"best work.\" The learner uses vocabulary related to portfolios and selection criteria appropriately. A collection of your best work; Evidence of your learning; Criteria for selection: Neatness, Accuracy, Interest; Organized from start to finish"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_english_1205_slide_004",
-      "slide_number": 4,
-      "pptx_slide_index": 3,
+      "slide_id": "p7_t1_english_1205_slide_005",
+      "slide_number": 5,
+      "pptx_slide_index": 4,
       "outline_refs": [
-        "p7_t1_english_1205_slide_004"
+        "p7_t1_english_1205_slide_005"
       ],
       "source_refs": [
         {
@@ -96,16 +120,16 @@
         "Reading through exercise books and selecting three pieces of work: one holiday narrative, one letter, and one examination-related composition. The learner evaluates their own written work against set criteria to select pieces for a portfolio. Read your compositions from Week 1 to Week 11; Compare your early work to your recent work; Check for teacher's comments and marks; Pick 3 pieces that show your best English"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_english_1205_slide_005",
-      "slide_number": 5,
-      "pptx_slide_index": 4,
+      "slide_id": "p7_t1_english_1205_slide_006",
+      "slide_number": 6,
+      "pptx_slide_index": 5,
       "outline_refs": [
-        "p7_t1_english_1205_slide_005"
+        "p7_t1_english_1205_slide_006"
       ],
       "source_refs": [
         {
@@ -120,16 +144,16 @@
         "Creating the structural elements of the portfolio. The learner designs and writes a portfolio cover page and table of contents following a formal layout. Title Page: Name, Class, Subject, Term; Table of Contents: List of selected work; Introduction: A short sentence about the portfolio; Order: Chronological or by topic"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_english_1205_slide_006",
-      "slide_number": 6,
-      "pptx_slide_index": 5,
+      "slide_id": "p7_t1_english_1205_slide_007",
+      "slide_number": 7,
+      "pptx_slide_index": 6,
       "outline_refs": [
-        "p7_t1_english_1205_slide_006"
+        "p7_t1_english_1205_slide_007"
       ],
       "source_refs": [
         {
@@ -144,8 +168,61 @@
         "Oral presentation and peer appreciation of the compiled work. The learner presents a summary of their portfolio selections orally to a peer group. Present your portfolio to your group; Explain why you chose these pieces; Listen to your friends' work; Give positive feedback"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
+      ]
+    },
+    {
+      "slide_id": "p7_t1_english_1205_slide_008",
+      "slide_number": 8,
+      "pptx_slide_index": 7,
+      "outline_refs": [
+        "p7_t1_english_1205_slide_008"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L17-L41",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 17,
+          "line_end": 41,
+          "content_id": "P7-T1-E-0304-1205-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L43-L66",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 43,
+          "line_end": 66,
+          "content_id": "P7-T1-E-0304-1205-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L68-L95",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 68,
+          "line_end": 95,
+          "content_id": "P7-T1-E-0304-1205-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L97-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 97,
+          "line_end": 127,
+          "content_id": "P7-T1-E-0304-1205-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L129-L154",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 129,
+          "line_end": 154,
+          "content_id": "P7-T1-E-0304-1205-05"
+        }
+      ],
+      "evidence_excerpts": [
+        "The learner reflects on personal progress in English during Term 1 and identifies areas of strength.",
+        "3.4 Final Review and Assessment"
+      ],
+      "transform_notes": [
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     }
   ]

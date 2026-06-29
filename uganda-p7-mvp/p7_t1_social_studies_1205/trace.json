@@ -24,8 +24,8 @@
         "Living Together in Africa"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
@@ -34,6 +34,30 @@
       "pptx_slide_index": 1,
       "outline_refs": [
         "p7_t1_social_studies_1205_slide_002"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L18-L32",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 18,
+          "line_end": 32
+        }
+      ],
+      "evidence_excerpts": [
+        "By the end of the lesson, learners will be able to organize and compile their Term 1 Social Studies maps and projects into a structured portfolio for final review.",
+        "Living Together in Africa"
+      ],
+      "transform_notes": [
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
+      ]
+    },
+    {
+      "slide_id": "p7_t1_social_studies_1205_slide_003",
+      "slide_number": 3,
+      "pptx_slide_index": 2,
+      "outline_refs": [
+        "p7_t1_social_studies_1205_slide_003"
       ],
       "source_refs": [
         {
@@ -48,16 +72,16 @@
         "Introduction to the final review process and self-reflection on learning outcomes. Reflects on the key Social Studies topics and skills acquired during Term 1. Reviewing major themes; Celebrating our work; Preparing for compilation"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_social_studies_1205_slide_003",
-      "slide_number": 3,
-      "pptx_slide_index": 2,
+      "slide_id": "p7_t1_social_studies_1205_slide_004",
+      "slide_number": 4,
+      "pptx_slide_index": 3,
       "outline_refs": [
-        "p7_t1_social_studies_1205_slide_003"
+        "p7_t1_social_studies_1205_slide_004"
       ],
       "source_refs": [
         {
@@ -72,16 +96,16 @@
         "Practical organization of maps and project papers for the term portfolio. Sorts and organizes academic materials chronologically and by topic. Collecting all Term 1 work; Sorting by topic; Checking for missing items"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_social_studies_1205_slide_004",
-      "slide_number": 4,
-      "pptx_slide_index": 3,
+      "slide_id": "p7_t1_social_studies_1205_slide_005",
+      "slide_number": 5,
+      "pptx_slide_index": 4,
       "outline_refs": [
-        "p7_t1_social_studies_1205_slide_004"
+        "p7_t1_social_studies_1205_slide_005"
       ],
       "source_refs": [
         {
@@ -96,16 +120,16 @@
         "Collaborative discussion to reinforce knowledge of Africa's location, features, climate, and vegetation. Explains major African geographical concepts reviewed during the term. Recalling key facts; Connecting features to climate; Understanding vegetation distribution"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_social_studies_1205_slide_005",
-      "slide_number": 5,
-      "pptx_slide_index": 4,
+      "slide_id": "p7_t1_social_studies_1205_slide_006",
+      "slide_number": 6,
+      "pptx_slide_index": 5,
       "outline_refs": [
-        "p7_t1_social_studies_1205_slide_005"
+        "p7_t1_social_studies_1205_slide_006"
       ],
       "source_refs": [
         {
@@ -120,16 +144,16 @@
         "Peer-assessment and quality check of cartographic work. Evaluates map accuracy using specific cartographic criteria (keys, titles, symbols). Checking map keys; Verifying labels; Ensuring neatness"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_social_studies_1205_slide_006",
-      "slide_number": 6,
-      "pptx_slide_index": 5,
+      "slide_id": "p7_t1_social_studies_1205_slide_007",
+      "slide_number": 7,
+      "pptx_slide_index": 6,
       "outline_refs": [
-        "p7_t1_social_studies_1205_slide_006"
+        "p7_t1_social_studies_1205_slide_007"
       ],
       "source_refs": [
         {
@@ -144,8 +168,61 @@
         "Final compilation, cover design, and binding of the Term 1 project. Produces a complete, bound portfolio of Social Studies work. Creating a cover page; Binding with sisal/staples; Displaying our achievements"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
+      ]
+    },
+    {
+      "slide_id": "p7_t1_social_studies_1205_slide_008",
+      "slide_number": 8,
+      "pptx_slide_index": 7,
+      "outline_refs": [
+        "p7_t1_social_studies_1205_slide_008"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-SS-0204-1205-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L59-L81",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 59,
+          "line_end": 81,
+          "content_id": "P7-T1-SS-0204-1205-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L83-L105",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 83,
+          "line_end": 105,
+          "content_id": "P7-T1-SS-0204-1205-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L107-L130",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 107,
+          "line_end": 130,
+          "content_id": "P7-T1-SS-0204-1205-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L132-L154",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 132,
+          "line_end": 154,
+          "content_id": "P7-T1-SS-0204-1205-05"
+        }
+      ],
+      "evidence_excerpts": [
+        "By the end of the lesson, learners will be able to organize and compile their Term 1 Social Studies maps and projects into a structured portfolio for final review.",
+        "Living Together in Africa"
+      ],
+      "transform_notes": [
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     }
   ]

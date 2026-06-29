@@ -24,8 +24,8 @@
         "3.4 Energy Resources in the Environment / Final Review"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
@@ -34,6 +34,30 @@
       "pptx_slide_index": 1,
       "outline_refs": [
         "p7_t1_integrated_science_1205_slide_002"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L1-L20",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 1,
+          "line_end": 20
+        }
+      ],
+      "evidence_excerpts": [
+        "Recalls and identifies key experiments conducted during Term 1.",
+        "3.4 Energy Resources in the Environment / Final Review"
+      ],
+      "transform_notes": [
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
+      ]
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_1205_slide_003",
+      "slide_number": 3,
+      "pptx_slide_index": 2,
+      "outline_refs": [
+        "p7_t1_integrated_science_1205_slide_003"
       ],
       "source_refs": [
         {
@@ -48,16 +72,16 @@
         "Prior knowledge activation regarding Term 1 Science practicals (Skeleton models, electricity circuits, and energy resources). Recalls and identifies key experiments conducted during Term 1. Reviewing the Muscular-Skeletal model.; Recalling the Electricity and Magnetism circuit.; Remembering the Energy Resources (biogas/solar) project.; Identifying materials used."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_integrated_science_1205_slide_003",
-      "slide_number": 3,
-      "pptx_slide_index": 2,
+      "slide_id": "p7_t1_integrated_science_1205_slide_004",
+      "slide_number": 4,
+      "pptx_slide_index": 3,
       "outline_refs": [
-        "p7_t1_integrated_science_1205_slide_003"
+        "p7_t1_integrated_science_1205_slide_004"
       ],
       "source_refs": [
         {
@@ -72,16 +96,16 @@
         "Introduction to the formal structure of a summary report (Title, Aim, Apparatus, Procedure, Results, and Conclusion). Identifies the components of a standard scientific summary report. Title and Aim (What and Why).; Apparatus/Materials (The tools).; Procedure (The steps).; Results and Conclusion (What happened and What it means)."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_integrated_science_1205_slide_004",
-      "slide_number": 4,
-      "pptx_slide_index": 3,
+      "slide_id": "p7_t1_integrated_science_1205_slide_005",
+      "slide_number": 5,
+      "pptx_slide_index": 4,
       "outline_refs": [
-        "p7_t1_integrated_science_1205_slide_004"
+        "p7_t1_integrated_science_1205_slide_005"
       ],
       "source_refs": [
         {
@@ -96,16 +120,16 @@
         "Teacher demonstration of how to summarize the 'Electricity and Magnetism' experiment using the formal structure. Describes the process of synthesizing experimental data into a concise summary. Selecting key details.; Using scientific vocabulary (conductor, insulator, circuit).; Summarizing the observation."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_integrated_science_1205_slide_005",
-      "slide_number": 5,
-      "pptx_slide_index": 4,
+      "slide_id": "p7_t1_integrated_science_1205_slide_006",
+      "slide_number": 6,
+      "pptx_slide_index": 5,
       "outline_refs": [
-        "p7_t1_integrated_science_1205_slide_005"
+        "p7_t1_integrated_science_1205_slide_006"
       ],
       "source_refs": [
         {
@@ -120,16 +144,16 @@
         "Hands-on group activity to compile the final Term 1 summary report on manila paper or in notebooks. Prepares a summary report of Term 1 Science experiments. Collaborative writing.; Focusing on accuracy of facts.; Including diagrams where necessary.; Neat presentation."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_integrated_science_1205_slide_006",
-      "slide_number": 6,
-      "pptx_slide_index": 5,
+      "slide_id": "p7_t1_integrated_science_1205_slide_007",
+      "slide_number": 7,
+      "pptx_slide_index": 6,
       "outline_refs": [
-        "p7_t1_integrated_science_1205_slide_006"
+        "p7_t1_integrated_science_1205_slide_007"
       ],
       "source_refs": [
         {
@@ -144,8 +168,61 @@
         "Presentation of group reports and peer-led evaluation of scientific accuracy. Critically reviews and presents the summary report. Presenting the summary to the class.; Peer feedback on report structure.; Final reflections on Term 1 Science."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
+      ]
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_1205_slide_008",
+      "slide_number": 8,
+      "pptx_slide_index": 7,
+      "outline_refs": [
+        "p7_t1_integrated_science_1205_slide_008"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L23-L46",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 23,
+          "line_end": 46,
+          "content_id": "P7-T1-S-0304-1205-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L48-L73",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 48,
+          "line_end": 73,
+          "content_id": "P7-T1-S-0304-1205-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L75-L99",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 75,
+          "line_end": 99,
+          "content_id": "P7-T1-S-0304-1205-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L101-L124",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 101,
+          "line_end": 124,
+          "content_id": "P7-T1-S-0304-1205-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L126-L148",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 126,
+          "line_end": 148,
+          "content_id": "P7-T1-S-0304-1205-05"
+        }
+      ],
+      "evidence_excerpts": [
+        "Recalls and identifies key experiments conducted during Term 1.",
+        "3.4 Energy Resources in the Environment / Final Review"
+      ],
+      "transform_notes": [
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     }
   ]
