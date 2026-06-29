@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_christian_religious_education_1205",
+  "subject": "Christian Religious Education",
+  "lesson_code": "1205",
+  "template": "faith_timeline",
+  "style": "Uganda flag-inspired classroom infographic; exact SVG text overlay; no generated text inside raster image.",
+  "title": "Christians and the Holy Spirit",
+  "labels": [
+    "Who are our Heroes of Faith?",
+    "Planning Our Scrapbook",
+    "Drawing Our Faith History",
+    "Faith in Action Today",
+    "Sharing Our Journey"
+  ],
+  "details": [
+    "Reviewing Topic 1: Biblical Heroes.",
+    "Dividing the scrapbook into three sections.",
+    "Illustrating the Creation story or Jesus’ service.",
+    "Identifying the Red Cross or UNICEF.",
+    "Binding the pages together."
+  ],
+  "source_refs": [
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L39-L61",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+      "line_start": 39,
+      "line_end": 61,
+      "content_id": "P7-T1-R-0203-5-01"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L63-L86",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+      "line_start": 63,
+      "line_end": 86,
+      "content_id": "P7-T1-R-0203-5-02"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L88-L110",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+      "line_start": 88,
+      "line_end": 110,
+      "content_id": "P7-T1-R-0203-5-03"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L112-L133",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+      "line_start": 112,
+      "line_end": 133,
+      "content_id": "P7-T1-R-0203-5-04"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L135-L157",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+      "line_start": 135,
+      "line_end": 157,
+      "content_id": "P7-T1-R-0203-5-05"
+    }
+  ],
+  "evidence_excerpts": [
+    "Brainstorming session to recall \"Heroes of Faith\" from the three main topics: Biblical figures, African Ancestors, and World Religions/Organizations. The learner identifies and categorizes key figures and organizations studied throughout Term 1. Reviewing Topic 1: Biblical Heroes.; Reviewing Topic 2: Ancestors and Reconciliation.; Reviewing Topic 3: Global Organizations of Service.",
+    "Selecting sections for the scrapbook and preparing local materials for assembly. The learner plans the structure and design of a thematic scrapbook. Dividing the scrapbook into three sections.; Choosing titles for each page.; Preparing local materials (banana fibers, cards).",
+    "Creating content for the first two sections of the scrapbook: Biblical salvation and Traditional reconciliation. The learner illustrates and describes the roles of Biblical figures and African ancestors in the faith journey. Illustrating the Creation story or Jesus’ service.; Writing about an ancestor who promoted peace.; Highlighting the value of reconciliation."
+  ],
+  "files": {
+    "svg": "infographic.svg"
+  }
+}

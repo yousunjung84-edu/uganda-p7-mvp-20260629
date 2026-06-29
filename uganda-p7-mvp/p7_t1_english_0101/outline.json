@@ -44,8 +44,7 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: I can listen to a short narrative and identifies specific future plans",
-        "mentioned.",
+        "Goal: I can listen to a story and identify key plans.",
         "You will use: Nakato’s Holiday Story, New Holiday Words",
         "Success: explain, try, and answer in your own words."
       ],
@@ -59,10 +58,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 32,
-        "bullet_line_count": 4,
+        "body_word_count": 29,
+        "bullet_line_count": 3,
         "title_char_count": 15,
-        "max_bullet_char_count": 76
+        "max_bullet_char_count": 55
       }
     },
     {
@@ -101,8 +100,7 @@
       "lesson_stage": "concept",
       "student_title": "Nakato’s Holiday Story",
       "student_body": [
-        "Key idea: Listening comprehension focused on a story about Nakato’s plan to visit her",
-        "grandmother up-country.",
+        "Key idea: Listening comprehension focused on a story about Nakato...",
         "Listen to the story carefully.",
         "Identify the characters.",
         "List the places Nakato plans to visit."
@@ -118,10 +116,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 31,
-        "bullet_line_count": 5,
+        "body_word_count": 25,
+        "bullet_line_count": 4,
         "title_char_count": 22,
-        "max_bullet_char_count": 85
+        "max_bullet_char_count": 68
       },
       "source_content_id": "P7-T1-E-0101-0101-01"
     },
@@ -220,12 +218,9 @@
       "student_title": "Activity challenge",
       "student_body": [
         "Group task:",
-        "Students listen to the teacher's story and then turn to a neighbor to whisper two",
-        "things Nakato plans to do.",
-        "Students copy the words and definitions into their exercise books and underline them",
-        "using a ruler.",
-        "Whole class choral repetition followed by a 'substitution drill' where the teacher",
-        "points to..."
+        "Students listen to the teacher's story and then turn to a neighbo...",
+        "Students copy the words and definitions into their exercise books...",
+        "Whole class choral repetition followed by a 'substitution drill'..."
       ],
       "source_refs": [
         {
@@ -266,10 +261,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 52,
-        "bullet_line_count": 7,
+        "body_word_count": 33,
+        "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 84
+        "max_bullet_char_count": 68
       }
     },
     {
@@ -281,7 +276,7 @@
       "student_body": [
         "Answer: Where will you be in three weeks?",
         "Use one complete sentence.",
-        "Include one key word: Listening for detail, Future tense (\"will\", \"going to\")",
+        "Include one key word: Listening for detail, Future tense (\"will\"...",
         "Hand in or read your answer aloud."
       ],
       "source_refs": [
@@ -323,10 +318,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 31,
+        "body_word_count": 29,
         "bullet_line_count": 4,
         "title_char_count": 11,
-        "max_bullet_char_count": 77
+        "max_bullet_char_count": 67
       }
     }
   ],

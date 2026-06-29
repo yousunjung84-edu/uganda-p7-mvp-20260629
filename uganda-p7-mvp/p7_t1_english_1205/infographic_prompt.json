@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_english_1205",
+  "subject": "English",
+  "lesson_code": "1205",
+  "template": "portfolio_cards",
+  "style": "Uganda flag-inspired classroom infographic; exact SVG text overlay; no generated text inside raster image.",
+  "title": "3.4 Final Review and Assessment",
+  "labels": [
+    "Looking Back at Term 1",
+    "What is a Portfolio?",
+    "Selecting Your Best Work",
+    "Creating the Portfolio Structure",
+    "Share Your Success!"
+  ],
+  "details": [
+    "Review the topics we covered",
+    "A collection of your best work",
+    "Read your compositions from Week 1 to Week 11",
+    "Title Page: Name, Class, Subject, Term",
+    "Present your portfolio to your group"
+  ],
+  "source_refs": [
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L17-L41",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+      "line_start": 17,
+      "line_end": 41,
+      "content_id": "P7-T1-E-0304-1205-01"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L43-L66",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+      "line_start": 43,
+      "line_end": 66,
+      "content_id": "P7-T1-E-0304-1205-02"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L68-L95",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+      "line_start": 68,
+      "line_end": 95,
+      "content_id": "P7-T1-E-0304-1205-03"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L97-L127",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+      "line_start": 97,
+      "line_end": 127,
+      "content_id": "P7-T1-E-0304-1205-04"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L129-L154",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+      "line_start": 129,
+      "line_end": 154,
+      "content_id": "P7-T1-E-0304-1205-05"
+    }
+  ],
+  "evidence_excerpts": [
+    "Oral reflection on the three main topics of Term 1: School Holidays, Letter Writing, and Examinations. The learner reflects on personal progress in English during Term 1 and identifies areas of strength. Review the topics we covered; Share our favorite English activities; Discuss how our writing has improved; Prepare for our final portfolio",
+    "Introducing the concept of a \"Portfolio\" and the criteria for selecting \"best work.\" The learner uses vocabulary related to portfolios and selection criteria appropriately. A collection of your best work; Evidence of your learning; Criteria for selection: Neatness, Accuracy, Interest; Organized from start to finish",
+    "Reading through exercise books and selecting three pieces of work: one holiday narrative, one letter, and one examination-related composition. The learner evaluates their own written work against set criteria to select pieces for a portfolio. Read your compositions from Week 1 to Week 11; Compare your early work to your recent work; Check for teacher's comments and marks; Pick 3 pieces that show your best English"
+  ],
+  "files": {
+    "svg": "infographic.svg"
+  }
+}

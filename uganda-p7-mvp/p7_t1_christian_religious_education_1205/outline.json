@@ -50,8 +50,7 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: I can synthesize key concepts from Term 1 by creating a \"Heroes of Faith\"",
-        "scrapbook highlighting Biblical figures, African ancestors, and modern organizations.",
+        "Goal: I can synthesize key concepts from Term 1 by creating a...",
         "You will use: Who are our Heroes of Faith?, Planning Our Scrapbook",
         "Success: explain, try, and answer in your own words."
       ],
@@ -65,10 +64,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 45,
-        "bullet_line_count": 4,
+        "body_word_count": 33,
+        "bullet_line_count": 3,
         "title_char_count": 15,
-        "max_bullet_char_count": 85
+        "max_bullet_char_count": 66
       }
     },
     {
@@ -107,8 +106,7 @@
       "lesson_stage": "concept",
       "student_title": "Who are our Heroes of Faith?",
       "student_body": [
-        "Key idea: Brainstorming session to recall \"Heroes of Faith\" from the three main",
-        "topics: Biblical figures, African Ancestors, and World Religions/Organizations.",
+        "Key idea: Brainstorming session to recall \"Heroes of Faith\" from...",
         "Reviewing Topic 1: Biblical Heroes.",
         "Reviewing Topic 2: Ancestors and Reconciliation.",
         "Reviewing Topic 3: Global Organizations of Service."
@@ -124,10 +122,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 39,
-        "bullet_line_count": 5,
+        "body_word_count": 28,
+        "bullet_line_count": 4,
         "title_char_count": 28,
-        "max_bullet_char_count": 79
+        "max_bullet_char_count": 67
       },
       "source_content_id": "P7-T1-R-0203-5-01"
     },
@@ -141,8 +139,7 @@
         "Watch the example.",
         "Dividing the scrapbook into three sections.",
         "Choosing titles for each page.",
-        "Preparing local materials (banana fibers, cards).",
-        "Name the step that helped you most."
+        "Preparing local materials (banana fibers, cards)."
       ],
       "source_refs": [
         {
@@ -155,8 +152,8 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 27,
-        "bullet_line_count": 5,
+        "body_word_count": 20,
+        "bullet_line_count": 4,
         "title_char_count": 22,
         "max_bullet_char_count": 49
       },
@@ -227,68 +224,9 @@
       "student_title": "Activity challenge",
       "student_body": [
         "Group task:",
-        "Students work in pairs to list at least two heroes/organizations for each of the",
-        "three topics covered in Term 1.",
-        "Students measure and cut their manila cards and label the top of each page with the",
-        "section titles.",
-        "Students draw illustrations for the first two sections and write brief descriptions"
-      ],
-      "source_refs": [
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L39-L61",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
-          "line_start": 39,
-          "line_end": 61,
-          "content_id": "P7-T1-R-0203-5-01"
-        },
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L63-L86",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
-          "line_start": 63,
-          "line_end": 86,
-          "content_id": "P7-T1-R-0203-5-02"
-        },
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L88-L110",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
-          "line_start": 88,
-          "line_end": 110,
-          "content_id": "P7-T1-R-0203-5-03"
-        },
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L112-L133",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
-          "line_start": 112,
-          "line_end": 133,
-          "content_id": "P7-T1-R-0203-5-04"
-        },
-        {
-          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L135-L157",
-          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
-          "line_start": 135,
-          "line_end": 157,
-          "content_id": "P7-T1-R-0203-5-05"
-        }
-      ],
-      "student_quality_checks": {
-        "source_refs_present": true,
-        "body_word_count": 52,
-        "bullet_line_count": 6,
-        "title_char_count": 18,
-        "max_bullet_char_count": 83
-      }
-    },
-    {
-      "slide_id": "p7_t1_christian_religious_education_1205_slide_008",
-      "slide_number": 8,
-      "layout": "lesson_card",
-      "lesson_stage": "exit",
-      "student_title": "Exit ticket",
-      "student_body": [
-        "Answer: How will you use the Holy Spirit’s help during the holidays?",
-        "Use one complete sentence.",
-        "Include one key word: Reviewing names and roles: Abraham, Jesus, Ancestors",
-        "Hand in or read your answer aloud."
+        "Students work in pairs to list at least two heroes/organizations...",
+        "Students measure and cut their manila cards and label the top of...",
+        "Students draw illustrations for the first two sections and write..."
       ],
       "source_refs": [
         {
@@ -331,8 +269,65 @@
         "source_refs_present": true,
         "body_word_count": 34,
         "bullet_line_count": 4,
+        "title_char_count": 18,
+        "max_bullet_char_count": 67
+      }
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_1205_slide_008",
+      "slide_number": 8,
+      "layout": "lesson_card",
+      "lesson_stage": "exit",
+      "student_title": "Exit ticket",
+      "student_body": [
+        "Answer: How will you use the Holy Spirit’s help during the holidays?",
+        "Use one complete sentence.",
+        "Include one key word: Reviewing names and roles: Abraham, Jesus...",
+        "Hand in or read your answer aloud."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-R-0203-5-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L63-L86",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 63,
+          "line_end": 86,
+          "content_id": "P7-T1-R-0203-5-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L88-L110",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 88,
+          "line_end": 110,
+          "content_id": "P7-T1-R-0203-5-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L112-L133",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 112,
+          "line_end": 133,
+          "content_id": "P7-T1-R-0203-5-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L135-L157",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 135,
+          "line_end": 157,
+          "content_id": "P7-T1-R-0203-5-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 33,
+        "bullet_line_count": 4,
         "title_char_count": 11,
-        "max_bullet_char_count": 74
+        "max_bullet_char_count": 68
       }
     }
   ],

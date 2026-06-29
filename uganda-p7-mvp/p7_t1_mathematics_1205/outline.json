@@ -50,9 +50,7 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: I can apply all Term 1 mathematical concepts (Sets, Whole Numbers, Operations,",
-        "Patterns) to complete a comprehensive \"Math Mastery Project\" simulating a local",
-        "market scenario.",
+        "Goal: I can apply all Term 1 math ideas (Sets, Whole Numbers...",
         "You will use: Setting Up Our Math Market, Mapping the Market Data",
         "Success: explain, try, and answer in your own words."
       ],
@@ -66,10 +64,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 47,
-        "bullet_line_count": 5,
+        "body_word_count": 33,
+        "bullet_line_count": 3,
         "title_char_count": 15,
-        "max_bullet_char_count": 84
+        "max_bullet_char_count": 65
       }
     },
     {
@@ -108,8 +106,7 @@
       "lesson_stage": "concept",
       "student_title": "Setting Up Our Math Market",
       "student_body": [
-        "Key idea: Concrete Stage: Organizing market items into sets and subsets using stones",
-        "and sticks.",
+        "Key idea: Concrete Stage: Organizing market items into sets and s...",
         "Use stones to represent customers.",
         "Group local items into Sets.",
         "Identify subsets within the market."
@@ -125,10 +122,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 30,
-        "bullet_line_count": 5,
+        "body_word_count": 26,
+        "bullet_line_count": 4,
         "title_char_count": 26,
-        "max_bullet_char_count": 84
+        "max_bullet_char_count": 68
       },
       "source_content_id": "P7-T1-M-0402-1205-01"
     },
@@ -142,8 +139,7 @@
         "Watch the example.",
         "Draw a Venn diagram of the inventory.",
         "Create a price sequence for items.",
-        "Identify the rule of the sequence.",
-        "Name the step that helped you most."
+        "Identify the rule of the sequence."
       ],
       "source_refs": [
         {
@@ -156,8 +152,8 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 29,
-        "bullet_line_count": 5,
+        "body_word_count": 22,
+        "bullet_line_count": 4,
         "title_char_count": 23,
         "max_bullet_char_count": 37
       },
@@ -228,11 +224,9 @@
       "student_title": "Activity challenge",
       "student_body": [
         "Group task:",
-        "Students work in groups of five to sort physical objects (stones, sticks, bottles)",
-        "into specific sets and subsets on their desks or the floor to represent market",
-        "inventory.",
-        "Students draw Venn diagrams on paper to represent their sorted sets and write out",
-        "numerical sequences representing the increasing cost of multiple..."
+        "Students work in groups of five to sort physical objects (stones...",
+        "Students draw Venn diagrams on paper to represent their sorted se...",
+        "Individual learners solve multi-digit multiplication and addition..."
       ],
       "source_refs": [
         {
@@ -273,10 +267,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 52,
-        "bullet_line_count": 6,
+        "body_word_count": 31,
+        "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 82
+        "max_bullet_char_count": 68
       }
     },
     {

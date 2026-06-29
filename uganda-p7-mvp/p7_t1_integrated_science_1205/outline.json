@@ -44,8 +44,8 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: Recalls and identifies key experiments conducted during Term 1.",
-        "You will use: Looking Back at Our Experiments, How to Write a Science Report",
+        "Goal: Recalls and identify key experiments conducted from Ter...",
+        "You will use: Looking Back at Our Experiments, How to Write a Sci...",
         "Success: explain, try, and answer in your own words."
       ],
       "source_refs": [
@@ -58,10 +58,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 33,
+        "body_word_count": 31,
         "bullet_line_count": 3,
         "title_char_count": 15,
-        "max_bullet_char_count": 76
+        "max_bullet_char_count": 68
       }
     },
     {
@@ -100,8 +100,7 @@
       "lesson_stage": "concept",
       "student_title": "Looking Back at Our Experiments",
       "student_body": [
-        "Key idea: Prior knowledge activation regarding Term 1 Science practicals (Skeleton",
-        "models, electricity circuits, and energy resources).",
+        "Key idea: Prior knowledge activation regarding Term 1 Science pra...",
         "Reviewing the Muscular-Skeletal model.",
         "Recalling the Electricity and Magnetism circuit.",
         "Remembering the Energy Resources (biogas/solar) project."
@@ -117,10 +116,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 33,
-        "bullet_line_count": 5,
+        "body_word_count": 26,
+        "bullet_line_count": 4,
         "title_char_count": 31,
-        "max_bullet_char_count": 82
+        "max_bullet_char_count": 68
       },
       "source_content_id": "P7-T1-S-0304-1205-01"
     },
@@ -134,8 +133,7 @@
         "Watch the example.",
         "Title and Aim (What and Why).",
         "Apparatus/Materials (The tools).",
-        "Procedure (The steps).",
-        "Name the step that helped you most."
+        "Procedure (The steps)."
       ],
       "source_refs": [
         {
@@ -148,10 +146,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 22,
-        "bullet_line_count": 5,
+        "body_word_count": 15,
+        "bullet_line_count": 4,
         "title_char_count": 29,
-        "max_bullet_char_count": 35
+        "max_bullet_char_count": 32
       },
       "source_content_id": "P7-T1-S-0304-1205-02"
     },
@@ -220,11 +218,9 @@
       "student_title": "Activity challenge",
       "student_body": [
         "Group task:",
-        "Students brainstorm in pairs and list all the scientific experiments and models",
-        "created during Term 1 in their notebooks.",
-        "Students copy the report structure into their notebooks and label each part based on",
-        "a verbal example given by the teacher.",
-        "Students participate in a whole-class exercise to verbally summarize the..."
+        "Students brainstorm in pairs and list all the scientific experime...",
+        "Students copy the report structure into their notebooks and label...",
+        "Students participate in a whole-class exercise to verbally summar..."
       ],
       "source_refs": [
         {
@@ -265,10 +261,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 52,
-        "bullet_line_count": 6,
+        "body_word_count": 31,
+        "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 84
+        "max_bullet_char_count": 68
       }
     },
     {

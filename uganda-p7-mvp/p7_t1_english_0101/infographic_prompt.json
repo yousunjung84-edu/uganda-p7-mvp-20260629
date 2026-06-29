@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_english_0101",
+  "subject": "English",
+  "lesson_code": "0101",
+  "template": "story_path",
+  "style": "Uganda flag-inspired classroom infographic; exact SVG text overlay; no generated text inside raster image.",
+  "title": "School Holidays",
+  "labels": [
+    "Nakato’s Holiday Story",
+    "New Holiday Words",
+    "Talking About the Future",
+    "What Are Your Plans?",
+    "Reading: Our Upcoming Vacation"
+  ],
+  "details": [
+    "Listen to the story carefully.",
+    "Up-country: The village/rural area.",
+    "Use 'am going to' for your own plans.",
+    "Ask: \"Where are you going to go?\"",
+    "Read the text silently."
+  ],
+  "source_refs": [
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L24-L47",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+      "line_start": 24,
+      "line_end": 47,
+      "content_id": "P7-T1-E-0101-0101-01"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L48-L74",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+      "line_start": 48,
+      "line_end": 74,
+      "content_id": "P7-T1-E-0101-0101-02"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L75-L101",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+      "line_start": 75,
+      "line_end": 101,
+      "content_id": "P7-T1-E-0101-0101-03"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L102-L127",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+      "line_start": 102,
+      "line_end": 127,
+      "content_id": "P7-T1-E-0101-0101-04"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L128-L152",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+      "line_start": 128,
+      "line_end": 152,
+      "content_id": "P7-T1-E-0101-0101-05"
+    }
+  ],
+  "evidence_excerpts": [
+    "Listening comprehension focused on a story about Nakato’s plan to visit her grandmother up-country. The learner listens to a short narrative and identifies specific future plans mentioned. Listen to the story carefully.; Identify the characters.; List the places Nakato plans to visit.",
+    "Introduction of key terms: travel, plan, up-country, relatives, commence, and board. The learner uses holiday-related vocabulary correctly in sentences. Up-country: The village/rural area.; Commence: To start or begin.; Relatives: Family members like aunts and cousins.",
+    "Grammar practice focusing on \"Subject + am/is/are + going to + verb.\" The learner constructs oral sentences using the \"going to\" structure for future plans. Use 'am going to' for your own plans.; Use 'is going to' for one person.; Use 'are going to' for many people."
+  ],
+  "files": {
+    "svg": "infographic.svg"
+  }
+}
