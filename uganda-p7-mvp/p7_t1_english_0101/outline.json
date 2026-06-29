@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_english_0101",
+  "source_sha256": "8af77bb39cfa14537b62cff47cbad36f1add595218d09e191a27f62ff33182a0",
+  "metadata": {
+    "grade_term": "P7 / T1",
+    "subject": "English",
+    "lesson_code": "0101",
+    "theme": "1.1 School Holidays / 1A Holiday Plans",
+    "learning_objective": "The learner listens to a short narrative and identifies specific future plans mentioned.",
+    "lesson_id": "p7_t1_english_0101"
+  },
+  "slides": [
+    {
+      "slide_id": "p7_t1_english_0101_slide_001",
+      "slide_number": 1,
+      "layout": "title",
+      "student_title": "1.1 School Holidays / 1A Holiday Plans",
+      "student_body": [
+        "English",
+        "The learner listens to a short narrative and identifies specific future plans",
+        "mentioned."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L1-L21",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 1,
+          "line_end": 21
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 14,
+        "bullet_line_count": 3,
+        "title_char_count": 38,
+        "max_bullet_char_count": 77
+      }
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_002",
+      "slide_number": 2,
+      "layout": "title_and_bullets",
+      "student_title": "Nakato’s Holiday Story",
+      "student_body": [
+        "Listen to the story carefully.",
+        "Identify the characters.",
+        "List the places Nakato plans to visit."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L24-L47",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 24,
+          "line_end": 47,
+          "content_id": "P7-T1-E-0101-0101-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 15,
+        "bullet_line_count": 3,
+        "title_char_count": 22,
+        "max_bullet_char_count": 38
+      },
+      "source_content_id": "P7-T1-E-0101-0101-01"
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_003",
+      "slide_number": 3,
+      "layout": "title_and_bullets",
+      "student_title": "New Holiday Words",
+      "student_body": [
+        "Up-country: The village/rural area.",
+        "Commence: To start or begin.",
+        "Relatives: Family members like aunts and cousins."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L48-L74",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 48,
+          "line_end": 74,
+          "content_id": "P7-T1-E-0101-0101-02"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 16,
+        "bullet_line_count": 3,
+        "title_char_count": 17,
+        "max_bullet_char_count": 49
+      },
+      "source_content_id": "P7-T1-E-0101-0101-02"
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_004",
+      "slide_number": 4,
+      "layout": "title_and_bullets",
+      "student_title": "Talking About the Future",
+      "student_body": [
+        "Use 'am going to' for your own plans.",
+        "Use 'is going to' for one person.",
+        "Use 'are going to' for many people."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L75-L101",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 75,
+          "line_end": 101,
+          "content_id": "P7-T1-E-0101-0101-03"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 22,
+        "bullet_line_count": 3,
+        "title_char_count": 24,
+        "max_bullet_char_count": 37
+      },
+      "source_content_id": "P7-T1-E-0101-0101-03"
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_005",
+      "slide_number": 5,
+      "layout": "title_and_bullets",
+      "student_title": "What Are Your Plans?",
+      "student_body": [
+        "Ask: \"Where are you going to go?\"",
+        "Answer: \"I am going to go to...\"",
+        "Ask: \"Who are you going to see?\""
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L102-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 102,
+          "line_end": 127,
+          "content_id": "P7-T1-E-0101-0101-04"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 21,
+        "bullet_line_count": 3,
+        "title_char_count": 20,
+        "max_bullet_char_count": 33
+      },
+      "source_content_id": "P7-T1-E-0101-0101-04"
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_006",
+      "slide_number": 6,
+      "layout": "title_and_bullets",
+      "student_title": "Reading: Our Upcoming Vacation",
+      "student_body": [
+        "Read the text silently.",
+        "Look for the names of the towns.",
+        "Find the dates mentioned."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L128-L152",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 128,
+          "line_end": 152,
+          "content_id": "P7-T1-E-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 15,
+        "bullet_line_count": 3,
+        "title_char_count": 30,
+        "max_bullet_char_count": 32
+      },
+      "source_content_id": "P7-T1-E-0101-0101-05"
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_007",
+      "slide_number": 7,
+      "layout": "title_and_bullets",
+      "student_title": "Writing My Plan",
+      "student_body": [
+        "Start with a clear sentence.",
+        "Use \"I am going to...\"",
+        "Mention at least two activities."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L153-L180",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 153,
+          "line_end": 180,
+          "content_id": "P7-T1-E-0101-0101-06"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 15,
+        "bullet_line_count": 3,
+        "title_char_count": 15,
+        "max_bullet_char_count": 32
+      },
+      "source_content_id": "P7-T1-E-0101-0101-06"
+    }
+  ],
+  "warnings": [
+    {
+      "code": "missing_section",
+      "message": "Missing required lesson section: metadata",
+      "section": "metadata"
+    }
+  ]
+}

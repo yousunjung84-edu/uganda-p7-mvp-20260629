@@ -1,0 +1,193 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_english_1205",
+  "source_sha256": "f8fb2214e3793a434dd1d206fc919489356c25d7b52670baeddec9aef0c4608f",
+  "metadata": {
+    "grade_term": "P7 / T1",
+    "subject": "English",
+    "lesson_code": "1205",
+    "theme": "3.4 Final Review and Assessment",
+    "learning_objective": "The learner reflects on personal progress in English during Term 1 and identifies areas of strength.",
+    "lesson_id": "p7_t1_english_1205"
+  },
+  "slides": [
+    {
+      "slide_id": "p7_t1_english_1205_slide_001",
+      "slide_number": 1,
+      "layout": "title",
+      "student_title": "3.4 Final Review and Assessment",
+      "student_body": [
+        "English",
+        "The learner reflects on personal progress in English during Term 1 and identifies",
+        "areas of strength."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L1-L16",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 1,
+          "line_end": 16
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 17,
+        "bullet_line_count": 3,
+        "title_char_count": 31,
+        "max_bullet_char_count": 81
+      }
+    },
+    {
+      "slide_id": "p7_t1_english_1205_slide_002",
+      "slide_number": 2,
+      "layout": "title_and_bullets",
+      "student_title": "Looking Back at Term 1",
+      "student_body": [
+        "Review the topics we covered",
+        "Share our favorite English activities",
+        "Discuss how our writing has improved",
+        "Prepare for our final portfolio"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L17-L41",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 17,
+          "line_end": 41,
+          "content_id": "P7-T1-E-0304-1205-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 21,
+        "bullet_line_count": 4,
+        "title_char_count": 22,
+        "max_bullet_char_count": 37
+      },
+      "source_content_id": "P7-T1-E-0304-1205-01"
+    },
+    {
+      "slide_id": "p7_t1_english_1205_slide_003",
+      "slide_number": 3,
+      "layout": "title_and_bullets",
+      "student_title": "What is a Portfolio?",
+      "student_body": [
+        "A collection of your best work",
+        "Evidence of your learning",
+        "Criteria for selection: Neatness, Accuracy, Interest",
+        "Organized from start to finish"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L43-L66",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 43,
+          "line_end": 66,
+          "content_id": "P7-T1-E-0304-1205-02"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 21,
+        "bullet_line_count": 4,
+        "title_char_count": 20,
+        "max_bullet_char_count": 52
+      },
+      "source_content_id": "P7-T1-E-0304-1205-02"
+    },
+    {
+      "slide_id": "p7_t1_english_1205_slide_004",
+      "slide_number": 4,
+      "layout": "title_and_bullets",
+      "student_title": "Selecting Your Best Work",
+      "student_body": [
+        "Read your compositions from Week 1 to Week 11",
+        "Compare your early work to your recent work",
+        "Check for teacher's comments and marks",
+        "Pick 3 pieces that show your best English"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L68-L95",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 68,
+          "line_end": 95,
+          "content_id": "P7-T1-E-0304-1205-03"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 31,
+        "bullet_line_count": 4,
+        "title_char_count": 24,
+        "max_bullet_char_count": 45
+      },
+      "source_content_id": "P7-T1-E-0304-1205-03"
+    },
+    {
+      "slide_id": "p7_t1_english_1205_slide_005",
+      "slide_number": 5,
+      "layout": "title_and_bullets",
+      "student_title": "Creating the Portfolio Structure",
+      "student_body": [
+        "Title Page: Name, Class, Subject, Term",
+        "Table of Contents: List of selected work",
+        "Introduction: A short sentence about the portfolio",
+        "Order: Chronological or by topic"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L97-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 97,
+          "line_end": 127,
+          "content_id": "P7-T1-E-0304-1205-04"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 25,
+        "bullet_line_count": 4,
+        "title_char_count": 32,
+        "max_bullet_char_count": 50
+      },
+      "source_content_id": "P7-T1-E-0304-1205-04"
+    },
+    {
+      "slide_id": "p7_t1_english_1205_slide_006",
+      "slide_number": 6,
+      "layout": "title_and_bullets",
+      "student_title": "Share Your Success!",
+      "student_body": [
+        "Present your portfolio to your group",
+        "Explain why you chose these pieces",
+        "Listen to your friends' work",
+        "Give positive feedback"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_1205.txt#L129-L154",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+          "line_start": 129,
+          "line_end": 154,
+          "content_id": "P7-T1-E-0304-1205-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 20,
+        "bullet_line_count": 4,
+        "title_char_count": 19,
+        "max_bullet_char_count": 36
+      },
+      "source_content_id": "P7-T1-E-0304-1205-05"
+    }
+  ],
+  "warnings": [
+    {
+      "code": "missing_section",
+      "message": "Missing required lesson section: metadata",
+      "section": "metadata"
+    }
+  ]
+}

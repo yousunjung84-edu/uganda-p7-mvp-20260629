@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.0",
+  "source_base": "/Users/jeong-yuseon/Library/CloudStorage/GoogleDrive-yousunjung84@gmail.com/내 드라이브/NotebookLM/우간다 학습ppt  제작(260629)",
+  "created_at": "2026-06-29T12:36:08+00:00",
+  "manifest_id": "uganda_p7_t1_endpoint_10_v1",
+  "lessons": [
+    {
+      "lesson_id": "p7_t1_christian_religious_education_0101",
+      "grade": "P7",
+      "term": "Term 1",
+      "subject": "Christian Religious Education",
+      "lesson_code": "0101",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+      "source_path": "/Users/jeong-yuseon/Library/CloudStorage/GoogleDrive-yousunjung84@gmail.com/내 드라이브/NotebookLM/우간다 학습ppt  제작(260629)/P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+      "sha256": "b64cd25dbd9bc6e8616fdc4ced9c1f3baf62e826684b16afcee92920377bb2c2"
+    },
+    {
+      "lesson_id": "p7_t1_christian_religious_education_1205",
+      "grade": "P7",
+      "term": "Term 1",
+      "subject": "Christian Religious Education",
+      "lesson_code": "1205",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+      "source_path": "/Users/jeong-yuseon/Library/CloudStorage/GoogleDrive-yousunjung84@gmail.com/내 드라이브/NotebookLM/우간다 학습ppt  제작(260629)/P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+      "sha256": "f9914f1dc382e285fbece6a93711c50e055675b8608fa2cb9a350f22d2ab355f"
+    },
+    {
+      "lesson_id": "p7_t1_english_0101",
+      "grade": "P7",
+      "term": "Term 1",
+      "subject": "English",
+      "lesson_code": "0101",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+      "source_path": "/Users/jeong-yuseon/Library/CloudStorage/GoogleDrive-yousunjung84@gmail.com/내 드라이브/NotebookLM/우간다 학습ppt  제작(260629)/P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+      "sha256": "8af77bb39cfa14537b62cff47cbad36f1add595218d09e191a27f62ff33182a0"
+    },
+    {
+      "lesson_id": "p7_t1_english_1205",
+      "grade": "P7",
+      "term": "Term 1",
+      "subject": "English",
+      "lesson_code": "1205",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+      "source_path": "/Users/jeong-yuseon/Library/CloudStorage/GoogleDrive-yousunjung84@gmail.com/내 드라이브/NotebookLM/우간다 학습ppt  제작(260629)/P7 txt/P7 T1/P7_Term 1_English_1205.txt",
+      "sha256": "f8fb2214e3793a434dd1d206fc919489356c25d7b52670baeddec9aef0c4608f"
+    },
+    {
+      "lesson_id": "p7_t1_integrated_science_0101",
+      "grade": "P7",
+      "term": "Term 1",
+      "subject": "Integrated Science",
+      "lesson_code": "0101",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+      "source_path": "/Users/jeong-yuseon/Library/CloudStorage/GoogleDrive-yousunjung84@gmail.com/내 드라이브/NotebookLM/우간다 학습ppt  제작(260629)/P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+      "sha256": "e7920a0d6e2dca060d58d04cbed1838c5e406dad3814e18af05dfacaa61495ad"
+    },
+    {
+      "lesson_id": "p7_t1_integrated_science_1205",
+      "grade": "P7",
+      "term": "Term 1",
+      "subject": "Integrated Science",
+      "lesson_code": "1205",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+      "source_path": "/Users/jeong-yuseon/Library/CloudStorage/GoogleDrive-yousunjung84@gmail.com/내 드라이브/NotebookLM/우간다 학습ppt  제작(260629)/P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+      "sha256": "ec4949e85d46c844458dbc5695923973a2675d82a83d12bbd3c88c83e893cd4a"
+    },
+    {
+      "lesson_id": "p7_t1_mathematics_0101",
+      "grade": "P7",
+      "term": "Term 1",
+      "subject": "Mathematics",
+      "lesson_code": "0101",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+      "source_path": "/Users/jeong-yuseon/Library/CloudStorage/GoogleDrive-yousunjung84@gmail.com/내 드라이브/NotebookLM/우간다 학습ppt  제작(260629)/P7 txt/P7 T1/P7_Term 1_Mathematics_0101.txt",
+      "sha256": "35fb883c0c90d7586137cd49b04455704182ce96795e2e238d475795c45e8cd4"
+    },
+    {
+      "lesson_id": "p7_t1_mathematics_1205",
+      "grade": "P7",
+      "term": "Term 1",
+      "subject": "Mathematics",
+      "lesson_code": "1205",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+      "source_path": "/Users/jeong-yuseon/Library/CloudStorage/GoogleDrive-yousunjung84@gmail.com/내 드라이브/NotebookLM/우간다 학습ppt  제작(260629)/P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+      "sha256": "9bcdf82f2ddf5b82232b44f8e814309b08afb40fd054f7362bb5ed0d1d89332d"
+    },
+    {
+      "lesson_id": "p7_t1_social_studies_0101",
+      "grade": "P7",
+      "term": "Term 1",
+      "subject": "Social Studies",
+      "lesson_code": "0101",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+      "source_path": "/Users/jeong-yuseon/Library/CloudStorage/GoogleDrive-yousunjung84@gmail.com/내 드라이브/NotebookLM/우간다 학습ppt  제작(260629)/P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+      "sha256": "1ac36afadaba9b58df121339357877a237b9a99fa8b060f53c44e7b4f1eb52c7"
+    },
+    {
+      "lesson_id": "p7_t1_social_studies_1205",
+      "grade": "P7",
+      "term": "Term 1",
+      "subject": "Social Studies",
+      "lesson_code": "1205",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+      "source_path": "/Users/jeong-yuseon/Library/CloudStorage/GoogleDrive-yousunjung84@gmail.com/내 드라이브/NotebookLM/우간다 학습ppt  제작(260629)/P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+      "sha256": "a45d6ba63093f8bacdf7ed7c082f34169a3fa6df8486aa8a4b5bdf54de869652"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_christian_religious_education_0101",
+  "source_sha256": "b64cd25dbd9bc6e8616fdc4ced9c1f3baf62e826684b16afcee92920377bb2c2",
+  "metadata": {
+    "lesson_id": "P7-T1-D1-R",
+    "grade_term": "P7 / T1",
+    "week_number": "1",
+    "day_number": "1",
+    "subject": "Christian Religious Education",
+    "theme": "Christians and the Holy Spirit (Topic 1: Enriched in the Spirit)",
+    "lesson_duration": "40 minutes",
+    "learning_objective": "By the end of the lesson, learners will be able to define the Holy Spirit and recognize Him as the third person of the Trinity.",
+    "materials_needed": "Holy Bible, Chalkboard, three stones (to demonstrate the Trinity analogy).",
+    "content_ids_in_lesson": "P7-T1-CRE-0101-0101-01, P7-T1-CRE-0101-0101-02, P7-T1-CRE-0101-0101-03, P7-T1-CRE-0101-0101-04, P7-T1-CRE-0101-0101-05",
+    "language_focus": "Vocabulary: Trinity, Spirit, Person, Godhead.",
+    "lesson_code": "0101"
+  },
+  "slides": [
+    {
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_001",
+      "slide_number": 1,
+      "layout": "title",
+      "student_title": "Christians and the Holy Spirit (Topic 1: Enriched in the Spirit)",
+      "student_body": [
+        "Christian Religious Education",
+        "By the end of the lesson, learners will be able to define the Holy Spirit and",
+        "recognize Him as the third person of the Trinity."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L18-L32",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 18,
+          "line_end": 32
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 28,
+        "bullet_line_count": 3,
+        "title_char_count": 64,
+        "max_bullet_char_count": 77
+      }
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_002",
+      "slide_number": 2,
+      "layout": "title_and_bullets",
+      "student_title": "What is a Spirit?",
+      "student_body": [
+        "A spirit is invisible.",
+        "We see the effects of a spirit, like we see wind moving trees.",
+        "The Spirit is the \"breath\" of God."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-CRE-0101-0101-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 24,
+        "bullet_line_count": 3,
+        "title_char_count": 17,
+        "max_bullet_char_count": 62
+      },
+      "source_content_id": "P7-T1-CRE-0101-0101-01"
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_003",
+      "slide_number": 3,
+      "layout": "title_and_bullets",
+      "student_title": "Defining the Holy Spirit",
+      "student_body": [
+        "The Holy Spirit is God in us.",
+        "He is our greatest gift.",
+        "He is the Spirit of truth and love."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L59-L80",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 59,
+          "line_end": 80,
+          "content_id": "P7-T1-CRE-0101-0101-02"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 20,
+        "bullet_line_count": 3,
+        "title_char_count": 24,
+        "max_bullet_char_count": 35
+      },
+      "source_content_id": "P7-T1-CRE-0101-0101-02"
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_004",
+      "slide_number": 4,
+      "layout": "title_and_bullets",
+      "student_title": "The Holy Trinity",
+      "student_body": [
+        "Trinity means \"Three in One.\"",
+        "1st Person: God the Father (Creator).",
+        "2nd Person: God the Son (Redeemer).",
+        "3rd Person: God the Holy Spirit (Helper)."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L82-L105",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 82,
+          "line_end": 105,
+          "content_id": "P7-T1-CRE-0101-0101-03"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 24,
+        "bullet_line_count": 4,
+        "title_char_count": 16,
+        "max_bullet_char_count": 41
+      },
+      "source_content_id": "P7-T1-CRE-0101-0101-03"
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_005",
+      "slide_number": 5,
+      "layout": "title_and_bullets",
+      "student_title": "One God, Three Persons",
+      "student_body": [
+        "All three persons are equal.",
+        "They work together in unity.",
+        "The Holy Spirit is fully God."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L107-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 107,
+          "line_end": 127,
+          "content_id": "P7-T1-CRE-0101-0101-04"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 16,
+        "bullet_line_count": 3,
+        "title_char_count": 22,
+        "max_bullet_char_count": 29
+      },
+      "source_content_id": "P7-T1-CRE-0101-0101-04"
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_006",
+      "slide_number": 6,
+      "layout": "title_and_bullets",
+      "student_title": "Lesson Summary",
+      "student_body": [
+        "Definition of Holy Spirit.",
+        "The Trinity Structure.",
+        "Our relationship with the Spirit."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L129-L154",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 129,
+          "line_end": 154,
+          "content_id": "P7-T1-CRE-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 12,
+        "bullet_line_count": 3,
+        "title_char_count": 14,
+        "max_bullet_char_count": 33
+      },
+      "source_content_id": "P7-T1-CRE-0101-0101-05"
+    }
+  ],
+  "warnings": []
+}

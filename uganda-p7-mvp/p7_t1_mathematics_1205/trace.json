@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_mathematics_1205",
+  "source_sha256": "9bcdf82f2ddf5b82232b44f8e814309b08afb40fd054f7362bb5ed0d1d89332d",
+  "trace_level": "slide",
+  "items": [
+    {
+      "slide_id": "p7_t1_mathematics_1205_slide_001",
+      "slide_number": 1,
+      "pptx_slide_index": 0,
+      "outline_refs": [
+        "p7_t1_mathematics_1205_slide_001"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt#L1-L36",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Mathematics_1205.txt",
+          "line_start": 1,
+          "line_end": 36
+        }
+      ],
+      "evidence_excerpts": [
+        "Mathematics",
+        "Review the lesson focus."
+      ],
+      "transform_notes": [
+        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
+        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+      ]
+    }
+  ]
+}
