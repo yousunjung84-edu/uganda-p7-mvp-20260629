@@ -24,8 +24,8 @@
         "Christians and the Holy Spirit (Topic 1: Enriched in the Spirit)"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
@@ -34,6 +34,30 @@
       "pptx_slide_index": 1,
       "outline_refs": [
         "p7_t1_christian_religious_education_0101_slide_002"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L18-L32",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 18,
+          "line_end": 32
+        }
+      ],
+      "evidence_excerpts": [
+        "By the end of the lesson, learners will be able to define the Holy Spirit and recognize Him as the third person of the Trinity.",
+        "Christians and the Holy Spirit (Topic 1: Enriched in the Spirit)"
+      ],
+      "transform_notes": [
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
+      ]
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_003",
+      "slide_number": 3,
+      "pptx_slide_index": 2,
+      "outline_refs": [
+        "p7_t1_christian_religious_education_0101_slide_003"
       ],
       "source_refs": [
         {
@@ -48,16 +72,16 @@
         "Introduction to the \"Spirit\" concept. Just as wind is invisible but powerful, a spirit is a non-physical being. The learner describes the nature of a spirit using physical analogies. A spirit is invisible.; We see the effects of a spirit, like we see wind moving trees.; The Spirit is the \"breath\" of God."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_christian_religious_education_0101_slide_003",
-      "slide_number": 3,
-      "pptx_slide_index": 2,
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_004",
+      "slide_number": 4,
+      "pptx_slide_index": 3,
       "outline_refs": [
-        "p7_t1_christian_religious_education_0101_slide_003"
+        "p7_t1_christian_religious_education_0101_slide_004"
       ],
       "source_refs": [
         {
@@ -72,16 +96,16 @@
         "Defining the Holy Spirit as God’s presence in us and the \"Gift and the Giver.\" The learner defines the Holy Spirit according to Christian teaching. The Holy Spirit is God in us.; He is our greatest gift.; He is the Spirit of truth and love."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_christian_religious_education_0101_slide_004",
-      "slide_number": 4,
-      "pptx_slide_index": 3,
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_005",
+      "slide_number": 5,
+      "pptx_slide_index": 4,
       "outline_refs": [
-        "p7_t1_christian_religious_education_0101_slide_004"
+        "p7_t1_christian_religious_education_0101_slide_005"
       ],
       "source_refs": [
         {
@@ -96,16 +120,16 @@
         "Explaining the Trinity (God the Father, God the Son, and God the Holy Spirit) as one God in three persons. The learner recognizes the Holy Spirit as the third person of the Trinity. Trinity means \"Three in One.\"; 1st Person: God the Father (Creator).; 2nd Person: God the Son (Redeemer).; 3rd Person: God the Holy Spirit (Helper)."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_christian_religious_education_0101_slide_005",
-      "slide_number": 5,
-      "pptx_slide_index": 4,
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_006",
+      "slide_number": 6,
+      "pptx_slide_index": 5,
       "outline_refs": [
-        "p7_t1_christian_religious_education_0101_slide_005"
+        "p7_t1_christian_religious_education_0101_slide_006"
       ],
       "source_refs": [
         {
@@ -120,16 +144,16 @@
         "Oral reinforcement of the Trinity concept and the equality of the three persons. The learner recites and explains the relationship within the Trinity. All three persons are equal.; They work together in unity.; The Holy Spirit is fully God."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
-      "slide_id": "p7_t1_christian_religious_education_0101_slide_006",
-      "slide_number": 6,
-      "pptx_slide_index": 5,
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_007",
+      "slide_number": 7,
+      "pptx_slide_index": 6,
       "outline_refs": [
-        "p7_t1_christian_religious_education_0101_slide_006"
+        "p7_t1_christian_religious_education_0101_slide_007"
       ],
       "source_refs": [
         {
@@ -144,8 +168,61 @@
         "Consolidating the definition and the Trinity structure through a written exercise. The learner summarizes the lesson content in writing. Definition of Holy Spirit.; The Trinity Structure.; Our relationship with the Spirit."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
+      ]
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_0101_slide_008",
+      "slide_number": 8,
+      "pptx_slide_index": 7,
+      "outline_refs": [
+        "p7_t1_christian_religious_education_0101_slide_008"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-CRE-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L59-L80",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 59,
+          "line_end": 80,
+          "content_id": "P7-T1-CRE-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L82-L105",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 82,
+          "line_end": 105,
+          "content_id": "P7-T1-CRE-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L107-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 107,
+          "line_end": 127,
+          "content_id": "P7-T1-CRE-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt#L129-L154",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_0101.txt",
+          "line_start": 129,
+          "line_end": 154,
+          "content_id": "P7-T1-CRE-0101-0101-05"
+        }
+      ],
+      "evidence_excerpts": [
+        "By the end of the lesson, learners will be able to define the Holy Spirit and recognize Him as the third person of the Trinity.",
+        "Christians and the Holy Spirit (Topic 1: Enriched in the Spirit)"
+      ],
+      "transform_notes": [
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     }
   ]

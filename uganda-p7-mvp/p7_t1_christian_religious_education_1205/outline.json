@@ -48,6 +48,35 @@
       "slide_id": "p7_t1_christian_religious_education_1205_slide_002",
       "slide_number": 2,
       "layout": "title_and_bullets",
+      "student_title": "Learning goal",
+      "student_body": [
+        "By the end of the lesson, learners will be able to synthesize key concepts from Term",
+        "1 by creating a \"Heroes of Faith\" scrapbook highlighting Biblical figures, African",
+        "ancestors, and modern organizations.",
+        "Key words: Review of key terminology: salvation, reconciliation, ancestors,",
+        "international relief, Holy Spirit.",
+        "Lesson focus: Christians and the Holy Spirit"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L21-L36",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 21,
+          "line_end": 36
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 52,
+        "bullet_line_count": 6,
+        "title_char_count": 13,
+        "max_bullet_char_count": 84
+      }
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_1205_slide_003",
+      "slide_number": 3,
+      "layout": "title_and_bullets",
       "student_title": "Who are our Heroes of Faith?",
       "student_body": [
         "Reviewing Topic 1: Biblical Heroes.",
@@ -73,8 +102,8 @@
       "source_content_id": "P7-T1-R-0203-5-01"
     },
     {
-      "slide_id": "p7_t1_christian_religious_education_1205_slide_003",
-      "slide_number": 3,
+      "slide_id": "p7_t1_christian_religious_education_1205_slide_004",
+      "slide_number": 4,
       "layout": "title_and_bullets",
       "student_title": "Planning Our Scrapbook",
       "student_body": [
@@ -101,8 +130,8 @@
       "source_content_id": "P7-T1-R-0203-5-02"
     },
     {
-      "slide_id": "p7_t1_christian_religious_education_1205_slide_004",
-      "slide_number": 4,
+      "slide_id": "p7_t1_christian_religious_education_1205_slide_005",
+      "slide_number": 5,
       "layout": "title_and_bullets",
       "student_title": "Drawing Our Faith History",
       "student_body": [
@@ -129,8 +158,8 @@
       "source_content_id": "P7-T1-R-0203-5-03"
     },
     {
-      "slide_id": "p7_t1_christian_religious_education_1205_slide_005",
-      "slide_number": 5,
+      "slide_id": "p7_t1_christian_religious_education_1205_slide_006",
+      "slide_number": 6,
       "layout": "title_and_bullets",
       "student_title": "Faith in Action Today",
       "student_body": [
@@ -157,8 +186,8 @@
       "source_content_id": "P7-T1-R-0203-5-04"
     },
     {
-      "slide_id": "p7_t1_christian_religious_education_1205_slide_006",
-      "slide_number": 6,
+      "slide_id": "p7_t1_christian_religious_education_1205_slide_007",
+      "slide_number": 7,
       "layout": "title_and_bullets",
       "student_title": "Sharing Our Journey",
       "student_body": [
@@ -183,6 +212,63 @@
         "max_bullet_char_count": 40
       },
       "source_content_id": "P7-T1-R-0203-5-05"
+    },
+    {
+      "slide_id": "p7_t1_christian_religious_education_1205_slide_008",
+      "slide_number": 8,
+      "layout": "title_and_bullets",
+      "student_title": "Check your understanding",
+      "student_body": [
+        "What values do our ancestors teach us?",
+        "Which organization helps people in times of war?",
+        "How many sections will our scrapbook have?",
+        "What local material can we use to tie the pages together?",
+        "Write one answer clearly in your notebook."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-R-0203-5-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L63-L86",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 63,
+          "line_end": 86,
+          "content_id": "P7-T1-R-0203-5-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L88-L110",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 88,
+          "line_end": 110,
+          "content_id": "P7-T1-R-0203-5-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L112-L133",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 112,
+          "line_end": 133,
+          "content_id": "P7-T1-R-0203-5-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt#L135-L157",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Christian Religious Education_1205.txt",
+          "line_start": 135,
+          "line_end": 157,
+          "content_id": "P7-T1-R-0203-5-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 40,
+        "bullet_line_count": 5,
+        "title_char_count": 24,
+        "max_bullet_char_count": 57
+      }
     }
   ],
   "warnings": []

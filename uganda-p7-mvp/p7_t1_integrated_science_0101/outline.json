@@ -47,6 +47,33 @@
       "slide_id": "p7_t1_integrated_science_0101_slide_002",
       "slide_number": 2,
       "layout": "title_and_bullets",
+      "student_title": "Learning goal",
+      "student_body": [
+        "By the end of the lesson, learners will be able to identify and name the main",
+        "components of the human muscular-skeletal system (bones, muscles, and joints).",
+        "Key words: N/A (Science Subject)",
+        "Lesson focus: The Human Body: Muscular-Skeletal System"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L22-L38",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 22,
+          "line_end": 38
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 38,
+        "bullet_line_count": 4,
+        "title_char_count": 13,
+        "max_bullet_char_count": 78
+      }
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_0101_slide_003",
+      "slide_number": 3,
+      "layout": "title_and_bullets",
       "student_title": "Why Do We Have a Shape?",
       "student_body": [
         "The body has a firm framework.",
@@ -72,8 +99,8 @@
       "source_content_id": "P7-T1-S-0101-0101-01"
     },
     {
-      "slide_id": "p7_t1_integrated_science_0101_slide_003",
-      "slide_number": 3,
+      "slide_id": "p7_t1_integrated_science_0101_slide_004",
+      "slide_number": 4,
       "layout": "title_and_bullets",
       "student_title": "Exploring the Skeleton",
       "student_body": [
@@ -100,8 +127,8 @@
       "source_content_id": "P7-T1-S-0101-0101-02"
     },
     {
-      "slide_id": "p7_t1_integrated_science_0101_slide_004",
-      "slide_number": 4,
+      "slide_id": "p7_t1_integrated_science_0101_slide_005",
+      "slide_number": 5,
       "layout": "title_and_bullets",
       "student_title": "Components of the System",
       "student_body": [
@@ -128,8 +155,8 @@
       "source_content_id": "P7-T1-S-0101-0101-03"
     },
     {
-      "slide_id": "p7_t1_integrated_science_0101_slide_005",
-      "slide_number": 5,
+      "slide_id": "p7_t1_integrated_science_0101_slide_006",
+      "slide_number": 6,
       "layout": "title_and_bullets",
       "student_title": "How They Work Together",
       "student_body": [
@@ -156,8 +183,8 @@
       "source_content_id": "P7-T1-S-0101-0101-04"
     },
     {
-      "slide_id": "p7_t1_integrated_science_0101_slide_006",
-      "slide_number": 6,
+      "slide_id": "p7_t1_integrated_science_0101_slide_007",
+      "slide_number": 7,
       "layout": "title_and_bullets",
       "student_title": "Reviewing Our System",
       "student_body": [
@@ -182,6 +209,63 @@
         "max_bullet_char_count": 50
       },
       "source_content_id": "P7-T1-S-0101-0101-05"
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_0101_slide_008",
+      "slide_number": 8,
+      "layout": "title_and_bullets",
+      "student_title": "Check your understanding",
+      "student_body": [
+        "Why can't a piece of cloth stand up on its own?",
+        "What is the name of the bone protecting the brain?",
+        "Where are the longest bones found in the skeleton?",
+        "What is a joint?",
+        "Write one answer clearly in your notebook."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L41-L60",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 41,
+          "line_end": 60,
+          "content_id": "P7-T1-S-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L62-L82",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 62,
+          "line_end": 82,
+          "content_id": "P7-T1-S-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L84-L105",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 84,
+          "line_end": 105,
+          "content_id": "P7-T1-S-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L107-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 107,
+          "line_end": 127,
+          "content_id": "P7-T1-S-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L129-L149",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 129,
+          "line_end": 149,
+          "content_id": "P7-T1-S-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 41,
+        "bullet_line_count": 5,
+        "title_char_count": 24,
+        "max_bullet_char_count": 50
+      }
     }
   ],
   "warnings": []

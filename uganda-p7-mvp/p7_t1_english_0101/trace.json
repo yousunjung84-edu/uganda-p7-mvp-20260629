@@ -24,8 +24,8 @@
         "1.1 School Holidays / 1A Holiday Plans"
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
@@ -48,8 +48,8 @@
         "Listening comprehension focused on a story about Nakato’s plan to visit her grandmother up-country. The learner listens to a short narrative and identifies specific future plans mentioned. Listen to the story carefully.; Identify the characters.; List the places Nakato plans to visit."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
@@ -72,8 +72,8 @@
         "Introduction of key terms: travel, plan, up-country, relatives, commence, and board. The learner uses holiday-related vocabulary correctly in sentences. Up-country: The village/rural area.; Commence: To start or begin.; Relatives: Family members like aunts and cousins."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
@@ -96,8 +96,8 @@
         "Grammar practice focusing on \"Subject + am/is/are + going to + verb.\" The learner constructs oral sentences using the \"going to\" structure for future plans. Use 'am going to' for your own plans.; Use 'is going to' for one person.; Use 'are going to' for many people."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
@@ -120,8 +120,8 @@
         "Oral interaction and speaking practice using structured dialogues. The learner interacts with peers to exchange information about holiday destinations. Ask: \"Where are you going to go?\"; Answer: \"I am going to go to...\"; Ask: \"Who are you going to see?\""
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
@@ -144,8 +144,8 @@
         "Reading an article titled \"Our Upcoming Vacation.\" The learner reads a text about holiday plans and answers comprehension questions. Read the text silently.; Look for the names of the towns.; Find the dates mentioned."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     },
     {
@@ -168,8 +168,61 @@
         "Writing practice: \"My Holiday Plans.\" The learner writes a short, coherent paragraph about their own holiday plans. Start with a clear sentence.; Use \"I am going to...\"; Mention at least two activities."
       ],
       "transform_notes": [
-        "Student-facing slide text uses Slide_Title and Slide_Key_Points when present.",
-        "Teacher scripts, materials, and assessment notes are excluded from visible slide text."
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
+      ]
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_008",
+      "slide_number": 8,
+      "pptx_slide_index": 7,
+      "outline_refs": [
+        "p7_t1_english_0101_slide_008"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L24-L47",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 24,
+          "line_end": 47,
+          "content_id": "P7-T1-E-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L48-L74",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 48,
+          "line_end": 74,
+          "content_id": "P7-T1-E-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L75-L101",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 75,
+          "line_end": 101,
+          "content_id": "P7-T1-E-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L102-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 102,
+          "line_end": 127,
+          "content_id": "P7-T1-E-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L128-L152",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 128,
+          "line_end": 152,
+          "content_id": "P7-T1-E-0101-0101-05"
+        }
+      ],
+      "evidence_excerpts": [
+        "The learner listens to a short narrative and identifies specific future plans mentioned.",
+        "1.1 School Holidays / 1A Holiday Plans"
+      ],
+      "transform_notes": [
+        "Student-facing slide text uses source slide titles, key points, objectives, activities, and questions.",
+        "Teacher scripts, materials, assessment notes, and internal content labels are excluded from visible slide text."
       ]
     }
   ]
