@@ -22,12 +22,20 @@ Use colors inspired by the Uganda flag and school noticeboards:
 - Use a fixed grid so PDF conversion keeps alignment:
   - top banner: 0.78 in
   - title area: 0.95 in
-  - main card: 1.05 in
-  - four response/task cards: 0.78 in each
+  - content field: 4.9 in
   - footer: 0.30 in
-- Avoid free-floating text. Every student-facing text block sits inside a card or banner.
+- Avoid free-floating text. Every student-facing text block sits inside a card, board, route, ticket, or banner.
+- Vary the slide form by lesson stage:
+  - hook: subject visual plus opening question.
+  - mission: four-step route.
+  - starter: think-pair-share columns.
+  - concept: key idea plus three learner actions.
+  - model: chalkboard-style worked example.
+  - practice: question cards with answer lines.
+  - activity: group challenge plus share-out box.
+  - exit: ticket form with writing lines.
 - Do not exceed 4 content cards per slide.
-- Keep each card to one short action or idea.
+- Keep each card to one short action or idea, with no visible truncation ellipses.
 
 ## Visual language
 

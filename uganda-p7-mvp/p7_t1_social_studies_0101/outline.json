@@ -50,9 +50,10 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: Students will identify the location of Africa in relati...",
-        "You will use: Where is Our Home?, The Seven Continents",
-        "Success: explain, try, and answer in your own words."
+        "Goal: Students will identify the location of Africa in relation",
+        "Use: Where is Our Home?, The Seven Continents",
+        "Show: answer with one reason or example.",
+        "Routine: listen, talk, try, explain."
       ],
       "source_refs": [
         {
@@ -64,10 +65,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 29,
-        "bullet_line_count": 3,
+        "body_word_count": 30,
+        "bullet_line_count": 4,
         "title_char_count": 15,
-        "max_bullet_char_count": 64
+        "max_bullet_char_count": 63
       }
     },
     {
@@ -106,7 +107,7 @@
       "lesson_stage": "concept",
       "student_title": "Where is Our Home?",
       "student_body": [
-        "Key idea: Connecting personal knowledge of local location to the...",
+        "Key idea: Connecting personal knowledge of local location to the global context",
         "We live in Uganda.",
         "Uganda is a country in East Africa.",
         "Africa is a large continent on the Earth."
@@ -122,10 +123,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 29,
+        "body_word_count": 31,
         "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 67
+        "max_bullet_char_count": 79
       },
       "source_content_id": "P7-T1-SS-0101-0101-01"
     },
@@ -136,7 +137,7 @@
       "lesson_stage": "model",
       "student_title": "The Seven Continents",
       "student_body": [
-        "Model the example step by step.",
+        "Worked example:",
         "THE 7 CONTINENTS (By Size):",
         "1. Asia (Largest)",
         "2. AFRICA (2nd Largest)"
@@ -152,10 +153,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 18,
+        "body_word_count": 14,
         "bullet_line_count": 4,
         "title_char_count": 20,
-        "max_bullet_char_count": 31
+        "max_bullet_char_count": 27
       },
       "source_content_id": "P7-T1-SS-0101-0101-02"
     },
@@ -166,10 +167,10 @@
       "lesson_stage": "practice",
       "student_title": "Try it together",
       "student_body": [
+        "Answer with evidence:",
         "In which continent is Uganda found?",
         "Is Africa a country or a continent?",
-        "How many continents are there in the world?",
-        "Agree on one answer before writing."
+        "How many continents are there in the world?"
       ],
       "source_refs": [
         {
@@ -210,7 +211,7 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 27,
+        "body_word_count": 24,
         "bullet_line_count": 4,
         "title_char_count": 15,
         "max_bullet_char_count": 43
@@ -223,10 +224,10 @@
       "lesson_stage": "activity",
       "student_title": "Activity challenge",
       "student_body": [
-        "Group task:",
-        "Students turn to a partner and discuss if they have ever seen a m...",
-        "Students look at the wall map and point to each continent as the...",
-        "In small groups, learners use their Atlases to find and list the..."
+        "Challenge:",
+        "Turn to a partner and discuss if they have ever seen a map of the whole world",
+        "Look at the wall map and point to each continent as the teacher calls out",
+        "Use atlases in groups to list the four water"
       ],
       "source_refs": [
         {
@@ -267,10 +268,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 41,
+        "body_word_count": 42,
         "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 77
       }
     },
     {

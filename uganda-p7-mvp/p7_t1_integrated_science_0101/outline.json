@@ -50,9 +50,10 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: I can identify and name the main components of the huma...",
-        "You will use: Why Do We Have a Shape?, Exploring the Skeleton",
-        "Success: explain, try, and answer in your own words."
+        "Goal: I can identify and name the main components of the human",
+        "Use: Why Do We Have a Shape?, Exploring the Skeleton",
+        "Show: answer with one reason or example.",
+        "Routine: listen, talk, try, explain."
       ],
       "source_refs": [
         {
@@ -64,10 +65,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 33,
-        "bullet_line_count": 3,
+        "body_word_count": 34,
+        "bullet_line_count": 4,
         "title_char_count": 15,
-        "max_bullet_char_count": 64
+        "max_bullet_char_count": 62
       }
     },
     {
@@ -106,7 +107,7 @@
       "lesson_stage": "concept",
       "student_title": "Why Do We Have a Shape?",
       "student_body": [
-        "Key idea: Prior knowledge activation: Discussing why the body has...",
+        "Key idea: Prior knowledge activation: Discussing why the body has a firm shape",
         "The body has a firm framework.",
         "This framework allows us to stand and move.",
         "Without it, we would be like a heap of cloth."
@@ -122,10 +123,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 34,
+        "body_word_count": 37,
         "bullet_line_count": 4,
         "title_char_count": 23,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 78
       },
       "source_content_id": "P7-T1-S-0101-0101-01"
     },
@@ -136,7 +137,7 @@
       "lesson_stage": "model",
       "student_title": "Exploring the Skeleton",
       "student_body": [
-        "Model the example step by step.",
+        "Worked example:",
         "THE SKELETON",
         "A framework of bones in the body."
       ],
@@ -151,7 +152,7 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 15,
+        "body_word_count": 11,
         "bullet_line_count": 3,
         "title_char_count": 22,
         "max_bullet_char_count": 33
@@ -165,10 +166,10 @@
       "lesson_stage": "practice",
       "student_title": "Try it together",
       "student_body": [
+        "Answer with evidence:",
         "Why can't a piece of cloth stand up on its own?",
         "What is the name of the bone protecting the brain?",
-        "Where are the longest bones found in the skeleton?",
-        "Agree on one answer before writing."
+        "Where are the longest bones found in the skeleton?"
       ],
       "source_refs": [
         {
@@ -209,7 +210,7 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 36,
+        "body_word_count": 33,
         "bullet_line_count": 4,
         "title_char_count": 15,
         "max_bullet_char_count": 50
@@ -222,10 +223,10 @@
       "lesson_stage": "activity",
       "student_title": "Activity challenge",
       "student_body": [
-        "Group task:",
-        "Students touch various parts of their bodies (head, arm, ribs) to...",
-        "In groups of five, learners observe the skeleton wall chart and p...",
-        "Students write the definitions of bones, muscles, and joints in t..."
+        "Challenge:",
+        "Touch various parts of their bodies (head, arm, ribs) to identify hard and soft",
+        "In groups, observe the skeleton chart and point out the skull, ribs, and limb",
+        "Write the definitions of bones, muscles, and joints in their notebooks as provided"
       ],
       "source_refs": [
         {
@@ -266,10 +267,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 36,
+        "body_word_count": 42,
         "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 68
+        "max_bullet_char_count": 82
       }
     },
     {
