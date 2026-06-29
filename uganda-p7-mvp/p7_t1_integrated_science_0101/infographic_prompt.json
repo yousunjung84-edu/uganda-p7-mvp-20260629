@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_integrated_science_0101",
+  "subject": "Integrated Science",
+  "lesson_code": "0101",
+  "template": "body_system",
+  "style": "Uganda flag-inspired classroom infographic; exact SVG text overlay; no generated text inside raster image.",
+  "title": "The Human Body: Muscular-Skeletal System",
+  "labels": [
+    "Why Do We Have a Shape?",
+    "Exploring the Skeleton",
+    "Components of the System",
+    "How They Work Together",
+    "Reviewing Our System"
+  ],
+  "details": [
+    "The body has a firm framework.",
+    "The skeleton is the bony framework of the body.",
+    "Bones: The hard framework.",
+    "Muscles are attached to bones.",
+    "The system is called the Muscular-Skeletal System."
+  ],
+  "source_refs": [
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L41-L60",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+      "line_start": 41,
+      "line_end": 60,
+      "content_id": "P7-T1-S-0101-0101-01"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L62-L82",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+      "line_start": 62,
+      "line_end": 82,
+      "content_id": "P7-T1-S-0101-0101-02"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L84-L105",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+      "line_start": 84,
+      "line_end": 105,
+      "content_id": "P7-T1-S-0101-0101-03"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L107-L127",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+      "line_start": 107,
+      "line_end": 127,
+      "content_id": "P7-T1-S-0101-0101-04"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L129-L149",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+      "line_start": 129,
+      "line_end": 149,
+      "content_id": "P7-T1-S-0101-0101-05"
+    }
+  ],
+  "evidence_excerpts": [
+    "Prior knowledge activation: Discussing why the body has a firm shape and how it moves. The learner explains the purpose of the internal body framework. The body has a firm framework.; This framework allows us to stand and move.; Without it, we would be like a heap of cloth.",
+    "Exploration: Observing a skeleton chart to see how bones are arranged. The learner identifies the major parts of the human skeleton on a chart. The skeleton is the bony framework of the body.; It is made of many bones of different shapes.; It supports the whole body.",
+    "Concept Introduction: Defining Bones, Muscles, and Joints. The learner identifies the three main components of the muscular-skeletal system. Bones: The hard framework.; Muscles: The soft tissues that pull bones.; Joints: The places where two or more bones meet."
+  ],
+  "files": {
+    "svg": "infographic.svg"
+  }
+}

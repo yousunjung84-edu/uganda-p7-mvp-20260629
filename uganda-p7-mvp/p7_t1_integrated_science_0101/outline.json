@@ -50,8 +50,7 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: I can identify and name the main components of the human muscular-skeletal",
-        "system (bones, muscles, and joints).",
+        "Goal: I can identify and name the main components of the huma...",
         "You will use: Why Do We Have a Shape?, Exploring the Skeleton",
         "Success: explain, try, and answer in your own words."
       ],
@@ -65,10 +64,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 39,
-        "bullet_line_count": 4,
+        "body_word_count": 33,
+        "bullet_line_count": 3,
         "title_char_count": 15,
-        "max_bullet_char_count": 80
+        "max_bullet_char_count": 64
       }
     },
     {
@@ -107,8 +106,7 @@
       "lesson_stage": "concept",
       "student_title": "Why Do We Have a Shape?",
       "student_body": [
-        "Key idea: Prior knowledge activation: Discussing why the body has a firm shape and",
-        "how it moves.",
+        "Key idea: Prior knowledge activation: Discussing why the body has...",
         "The body has a firm framework.",
         "This framework allows us to stand and move.",
         "Without it, we would be like a heap of cloth."
@@ -124,10 +122,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 41,
-        "bullet_line_count": 5,
+        "body_word_count": 34,
+        "bullet_line_count": 4,
         "title_char_count": 23,
-        "max_bullet_char_count": 82
+        "max_bullet_char_count": 68
       },
       "source_content_id": "P7-T1-S-0101-0101-01"
     },
@@ -225,11 +223,9 @@
       "student_title": "Activity challenge",
       "student_body": [
         "Group task:",
-        "Students touch various parts of their bodies (head, arm, ribs) to identify hard and",
-        "soft parts through self-exploration for 5 minutes.",
-        "In groups of five, learners observe the skeleton wall chart and point out the skull,",
-        "ribs, and limb bones.",
-        "Students write the definitions of bones, muscles, and joints in..."
+        "Students touch various parts of their bodies (head, arm, ribs) to...",
+        "In groups of five, learners observe the skeleton wall chart and p...",
+        "Students write the definitions of bones, muscles, and joints in t..."
       ],
       "source_refs": [
         {
@@ -270,10 +266,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 52,
-        "bullet_line_count": 6,
+        "body_word_count": 36,
+        "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 84
+        "max_bullet_char_count": 68
       }
     },
     {

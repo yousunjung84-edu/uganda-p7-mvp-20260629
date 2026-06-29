@@ -50,8 +50,7 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: I can define the Holy Spirit and recognize Him as the third person of the",
-        "Trinity.",
+        "Goal: I can define the Holy Spirit and recognize Him as the t...",
         "You will use: What is a Spirit?, Defining the Holy Spirit",
         "Success: explain, try, and answer in your own words."
       ],
@@ -65,10 +64,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 37,
-        "bullet_line_count": 4,
+        "body_word_count": 33,
+        "bullet_line_count": 3,
         "title_char_count": 15,
-        "max_bullet_char_count": 79
+        "max_bullet_char_count": 64
       }
     },
     {
@@ -107,8 +106,7 @@
       "lesson_stage": "concept",
       "student_title": "What is a Spirit?",
       "student_body": [
-        "Key idea: Introduction to the \"Spirit\" concept. Just as wind is invisible but",
-        "powerful, a spirit is a non-physical being.",
+        "Key idea: Introduction to the \"Spirit\" concept. Just as wind is i...",
         "A spirit is invisible.",
         "We see the effects of a spirit, like we see wind moving trees.",
         "The Spirit is the \"breath\" of God."
@@ -124,10 +122,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 44,
-        "bullet_line_count": 5,
+        "body_word_count": 36,
+        "bullet_line_count": 4,
         "title_char_count": 17,
-        "max_bullet_char_count": 77
+        "max_bullet_char_count": 68
       },
       "source_content_id": "P7-T1-CRE-0101-0101-01"
     },
@@ -226,11 +224,9 @@
       "student_title": "Activity challenge",
       "student_body": [
         "Group task:",
-        "Students blow on their hands and observe trees moving outside to understand the",
-        "concept of an invisible but real force.",
-        "Students discuss in pairs what it means to receive a gift that is also the person who",
-        "gave it.",
-        "Teacher demonstrates the Trinity using the three-stone stove analogy while learners"
+        "Students blow on their hands and observe trees moving outside to...",
+        "Students discuss in pairs what it means to receive a gift that is...",
+        "Teacher demonstrates the Trinity using the three-stone stove anal..."
       ],
       "source_refs": [
         {
@@ -271,10 +267,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 52,
-        "bullet_line_count": 6,
+        "body_word_count": 35,
+        "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 85
+        "max_bullet_char_count": 68
       }
     },
     {

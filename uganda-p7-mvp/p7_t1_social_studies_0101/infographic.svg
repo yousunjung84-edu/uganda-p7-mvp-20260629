@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Living Together in Africa infographic">
+  <rect width="1600" height="900" fill="#F8FAFC"/>
+  <rect x="0" y="0" width="1600" height="88" fill="#111827"/>
+  <rect x="0" y="88" width="1600" height="14" fill="#FCD116"/>
+  <rect x="0" y="102" width="1600" height="12" fill="#D90000"/>
+  <text x="70" y="57" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="white">Uganda P7 visual summary</text>
+  <text x="70" y="170" text-anchor="start" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#111827"><tspan x="70" dy="0">Living</tspan><tspan x="70" dy="55">Together</tspan><tspan x="70" dy="55">in Africa</tspan></text>
+  
+  <rect x="190" y="230" width="820" height="520" rx="30" fill="#FFF7E0" stroke="#111827" stroke-width="7"/>
+  <ellipse cx="610" cy="490" rx="180" ry="250" fill="#1B7F3A" opacity="0.82" stroke="#111827" stroke-width="6"/>
+  <circle cx="645" cy="520" r="18" fill="#FCD116" stroke="#111827" stroke-width="4"/>
+  <text x="690" y="527" font-family="Arial" font-size="24" font-weight="700" fill="#111827">Uganda</text>
+  <g transform="translate(1190 390)">
+    <circle cx="0" cy="0" r="125" fill="white" stroke="#111827" stroke-width="6"/>
+    <path d="M0 -105 L28 -25 L105 0 L28 25 L0 105 L-28 25 L-105 0 L-28 -25 Z" fill="#1D4ED8" opacity="0.9"/>
+    <text x="-12" y="-134" font-family="Arial" font-size="24" font-weight="700">N</text>
+  </g>
+  <rect x="80" y="270" width="360" height="108" rx="18" fill="white" stroke="#CBD5E1" stroke-width="4"/>
+  <text x="102" y="306" text-anchor="start" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#111827"><tspan x="102" dy="0">Where is Our Home?</tspan></text>
+  <rect x="1040" y="610" width="360" height="108" rx="18" fill="white" stroke="#CBD5E1" stroke-width="4"/>
+  <text x="1062" y="646" text-anchor="start" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#111827"><tspan x="1062" dy="0">The Seven Continents</tspan></text>
+  <rect x="320" y="765" width="960" height="70" rx="18" fill="white" stroke="#CBD5E1" stroke-width="4"/>
+  <text x="800" y="793" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111827"><tspan x="800" dy="0">Africa’s Water Neighbors • Africa&#x27;s Position in the World • Mapping the</tspan><tspan x="800" dy="27">World</tspan></text>
+  <text x="170" y="835" text-anchor="start" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#475569"><tspan x="170" dy="0">• We live in Uganda.</tspan></text>
+  <text x="590" y="835" text-anchor="start" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#475569"><tspan x="590" dy="0">• There are 7 continents in the world.</tspan></text>
+  <text x="1010" y="835" text-anchor="start" font-family="Arial, sans-serif" font-size="20" font-weight="400" fill="#475569"><tspan x="1010" dy="0">• West: Atlantic Ocean.</tspan></text>
+</svg>

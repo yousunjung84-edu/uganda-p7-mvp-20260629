@@ -26,7 +26,7 @@
       "student_title": "Living Together in Africa",
       "student_body": [
         "Social Studies",
-        "Big question: What is the most interesting thing you learned about Africa this term?"
+        "Big question: What is the most interesting thing you learned abou..."
       ],
       "source_refs": [
         {
@@ -38,10 +38,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 16,
+        "body_word_count": 13,
         "bullet_line_count": 2,
         "title_char_count": 25,
-        "max_bullet_char_count": 84
+        "max_bullet_char_count": 68
       }
     },
     {
@@ -51,8 +51,7 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: I can organize and compile their Term 1 Social Studies maps and projects into a",
-        "structured portfolio for final review.",
+        "Goal: I can organize and compile their Term 1 Social Studies...",
         "You will use: Our Term 1 SST Journey, Organizing Our Work",
         "Success: explain, try, and answer in your own words."
       ],
@@ -66,10 +65,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 41,
-        "bullet_line_count": 4,
+        "body_word_count": 31,
+        "bullet_line_count": 3,
         "title_char_count": 15,
-        "max_bullet_char_count": 85
+        "max_bullet_char_count": 63
       }
     },
     {
@@ -79,7 +78,7 @@
       "lesson_stage": "starter",
       "student_title": "Starter: think first",
       "student_body": [
-        "Think: What is the most interesting thing you learned about Africa this term?",
+        "Think: What is the most interesting thing you learned about Afric...",
         "Pair: compare your first answer with a partner.",
         "Share: connect your answer to Our Term 1 SST Journey."
       ],
@@ -94,10 +93,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 31,
+        "body_word_count": 29,
         "bullet_line_count": 3,
         "title_char_count": 20,
-        "max_bullet_char_count": 77
+        "max_bullet_char_count": 68
       },
       "source_content_id": "P7-T1-SS-0204-1205-01"
     },
@@ -108,8 +107,7 @@
       "lesson_stage": "concept",
       "student_title": "Our Term 1 SST Journey",
       "student_body": [
-        "Key idea: Introduction to the final review process and self-reflection on learning",
-        "outcomes.",
+        "Key idea: Introduction to the final review process and self-refle...",
         "Reviewing major themes",
         "Celebrating our work",
         "Preparing for compilation"
@@ -125,10 +123,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 22,
-        "bullet_line_count": 5,
+        "body_word_count": 19,
+        "bullet_line_count": 4,
         "title_char_count": 22,
-        "max_bullet_char_count": 82
+        "max_bullet_char_count": 68
       },
       "source_content_id": "P7-T1-SS-0204-1205-01"
     },
@@ -142,8 +140,7 @@
         "Watch the example.",
         "Collecting all Term 1 work",
         "Sorting by topic",
-        "Checking for missing items",
-        "Name the step that helped you most."
+        "Checking for missing items"
       ],
       "source_refs": [
         {
@@ -156,10 +153,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 22,
-        "bullet_line_count": 5,
+        "body_word_count": 15,
+        "bullet_line_count": 4,
         "title_char_count": 19,
-        "max_bullet_char_count": 35
+        "max_bullet_char_count": 26
       },
       "source_content_id": "P7-T1-SS-0204-1205-02"
     },
@@ -228,11 +225,9 @@
       "student_title": "Activity challenge",
       "student_body": [
         "Group task:",
-        "Students participate in a whole-class discussion, sharing their most memorable",
-        "lessons and identifying the different pieces of work they have produced over the last",
-        "12 weeks.",
-        "Students individually sort their maps and written projects according to the sequence",
-        "provided on the blackboard, ensuring all pages are present and in good..."
+        "Students participate in a whole-class discussion, sharing their m...",
+        "Students individually sort their maps and written projects accord...",
+        "In small groups, learners quiz each other on the key facts repres..."
       ],
       "source_refs": [
         {
@@ -273,10 +268,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 52,
-        "bullet_line_count": 6,
+        "body_word_count": 32,
+        "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 85
+        "max_bullet_char_count": 68
       }
     },
     {

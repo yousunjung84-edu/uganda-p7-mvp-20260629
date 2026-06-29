@@ -50,8 +50,7 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: Students will identify the location of Africa in relation to other continents",
-        "and oceans.",
+        "Goal: Students will identify the location of Africa in relati...",
         "You will use: Where is Our Home?, The Seven Continents",
         "Success: explain, try, and answer in your own words."
       ],
@@ -65,10 +64,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 34,
-        "bullet_line_count": 4,
+        "body_word_count": 29,
+        "bullet_line_count": 3,
         "title_char_count": 15,
-        "max_bullet_char_count": 83
+        "max_bullet_char_count": 64
       }
     },
     {
@@ -107,8 +106,7 @@
       "lesson_stage": "concept",
       "student_title": "Where is Our Home?",
       "student_body": [
-        "Key idea: Connecting personal knowledge of local location to the global context of",
-        "Africa.",
+        "Key idea: Connecting personal knowledge of local location to the...",
         "We live in Uganda.",
         "Uganda is a country in East Africa.",
         "Africa is a large continent on the Earth."
@@ -124,10 +122,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 33,
-        "bullet_line_count": 5,
+        "body_word_count": 29,
+        "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 82
+        "max_bullet_char_count": 67
       },
       "source_content_id": "P7-T1-SS-0101-0101-01"
     },
@@ -226,11 +224,9 @@
       "student_title": "Activity challenge",
       "student_body": [
         "Group task:",
-        "Students turn to a partner and discuss if they have ever seen a map of the whole",
-        "world and where they think Africa is located.",
-        "Students look at the wall map and point to each continent as the teacher calls out",
-        "the names.",
-        "In small groups, learners use their Atlases..."
+        "Students turn to a partner and discuss if they have ever seen a m...",
+        "Students look at the wall map and point to each continent as the...",
+        "In small groups, learners use their Atlases to find and list the..."
       ],
       "source_refs": [
         {
@@ -271,10 +267,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 52,
-        "bullet_line_count": 6,
+        "body_word_count": 41,
+        "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 82
+        "max_bullet_char_count": 68
       }
     },
     {

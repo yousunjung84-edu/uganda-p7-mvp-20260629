@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_integrated_science_1205",
+  "subject": "Integrated Science",
+  "lesson_code": "1205",
+  "template": "report_cycle",
+  "style": "Uganda flag-inspired classroom infographic; exact SVG text overlay; no generated text inside raster image.",
+  "title": "3.4 Energy Resources in the Environment",
+  "labels": [
+    "Looking Back at Our Experiments",
+    "How to Write a Science Report",
+    "Writing the Summary: A Demonstration",
+    "Group Work: Compiling the Term 1 Report",
+    "Sharing Our Scientific Findings"
+  ],
+  "details": [
+    "Reviewing the Muscular-Skeletal model.",
+    "Title and Aim (What and Why).",
+    "Selecting key details.",
+    "Collaborative writing.",
+    "Presenting the summary to the class."
+  ],
+  "source_refs": [
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L23-L46",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+      "line_start": 23,
+      "line_end": 46,
+      "content_id": "P7-T1-S-0304-1205-01"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L48-L73",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+      "line_start": 48,
+      "line_end": 73,
+      "content_id": "P7-T1-S-0304-1205-02"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L75-L99",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+      "line_start": 75,
+      "line_end": 99,
+      "content_id": "P7-T1-S-0304-1205-03"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L101-L124",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+      "line_start": 101,
+      "line_end": 124,
+      "content_id": "P7-T1-S-0304-1205-04"
+    },
+    {
+      "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L126-L148",
+      "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+      "line_start": 126,
+      "line_end": 148,
+      "content_id": "P7-T1-S-0304-1205-05"
+    }
+  ],
+  "evidence_excerpts": [
+    "Prior knowledge activation regarding Term 1 Science practicals (Skeleton models, electricity circuits, and energy resources). Recalls and identifies key experiments conducted during Term 1. Reviewing the Muscular-Skeletal model.; Recalling the Electricity and Magnetism circuit.; Remembering the Energy Resources (biogas/solar) project.; Identifying materials used.",
+    "Introduction to the formal structure of a summary report (Title, Aim, Apparatus, Procedure, Results, and Conclusion). Identifies the components of a standard scientific summary report. Title and Aim (What and Why).; Apparatus/Materials (The tools).; Procedure (The steps).; Results and Conclusion (What happened and What it means).",
+    "Teacher demonstration of how to summarize the 'Electricity and Magnetism' experiment using the formal structure. Describes the process of synthesizing experimental data into a concise summary. Selecting key details.; Using scientific vocabulary (conductor, insulator, circuit).; Summarizing the observation."
+  ],
+  "files": {
+    "svg": "infographic.svg"
+  }
+}

@@ -44,8 +44,7 @@
       "lesson_stage": "mission",
       "student_title": "Today's mission",
       "student_body": [
-        "Goal: I can reflect on personal progress in English during Term 1 and identifies",
-        "areas of strength.",
+        "Goal: I can reflect on personal progress in English from Term...",
         "You will use: Looking Back at Term 1, What is a Portfolio?",
         "Success: explain, try, and answer in your own words."
       ],
@@ -59,10 +58,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 38,
-        "bullet_line_count": 4,
+        "body_word_count": 32,
+        "bullet_line_count": 3,
         "title_char_count": 15,
-        "max_bullet_char_count": 80
+        "max_bullet_char_count": 64
       }
     },
     {
@@ -101,8 +100,7 @@
       "lesson_stage": "concept",
       "student_title": "Looking Back at Term 1",
       "student_body": [
-        "Key idea: Oral reflection on the three main topics of Term 1: School Holidays, Letter",
-        "Writing, and Examinations.",
+        "Key idea: Oral reflection on the three main topics of Term 1: Sch...",
         "Review the topics we covered",
         "Share our favorite English activities",
         "Discuss how our writing has improved"
@@ -118,10 +116,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 34,
-        "bullet_line_count": 5,
+        "body_word_count": 29,
+        "bullet_line_count": 4,
         "title_char_count": 22,
-        "max_bullet_char_count": 85
+        "max_bullet_char_count": 68
       },
       "source_content_id": "P7-T1-E-0304-1205-01"
     },
@@ -218,11 +216,9 @@
       "student_title": "Activity challenge",
       "student_body": [
         "Group task:",
-        "Students sit in a circle and participate in a \"Turn and Talk\" session to share their",
-        "favorite English lesson from the term with a partner, then share one strength with",
-        "the whole class.",
-        "Students write the new vocabulary in their exercise books and work in pairs to list",
-        "three \"criteria\"..."
+        "Students sit in a circle and participate in a \"Turn and Talk\" ses...",
+        "Students write the new vocabulary in their exercise books and wor...",
+        "Individual activity: Learners silently read through their term's..."
       ],
       "source_refs": [
         {
@@ -263,10 +259,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 52,
-        "bullet_line_count": 6,
+        "body_word_count": 34,
+        "bullet_line_count": 4,
         "title_char_count": 18,
-        "max_bullet_char_count": 84
+        "max_bullet_char_count": 68
       }
     },
     {
@@ -278,7 +274,7 @@
       "student_body": [
         "Answer: How will you make your work even better in Term 2?",
         "Use one complete sentence.",
-        "Include one key word: Past simple tense for reflection (e.g, \"I learned, \" \"I enjoyed",
+        "Include one key word: Past simple tense for reflection (e.g, \"I l...",
         "Hand in or read your answer aloud."
       ],
       "source_refs": [
@@ -320,10 +316,10 @@
       ],
       "student_quality_checks": {
         "source_refs_present": true,
-        "body_word_count": 38,
+        "body_word_count": 35,
         "bullet_line_count": 4,
         "title_char_count": 11,
-        "max_bullet_char_count": 85
+        "max_bullet_char_count": 68
       }
     }
   ],
