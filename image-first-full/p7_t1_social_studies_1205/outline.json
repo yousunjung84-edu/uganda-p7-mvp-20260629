@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_social_studies_1205",
+  "source_sha256": "a45d6ba63093f8bacdf7ed7c082f34169a3fa6df8486aa8a4b5bdf54de869652",
+  "metadata": {
+    "part_2": "Daily Lesson Metadata",
+    "lesson_id": "P7-T1-D05-SS",
+    "grade_term": "P7 / T1",
+    "week_number": "12",
+    "day_number": "5",
+    "subject": "Social Studies",
+    "theme": "Living Together in Africa",
+    "lesson_duration": "40 minutes",
+    "learning_objective": "By the end of the lesson, learners will be able to organize and compile their Term 1 Social Studies maps and projects into a structured portfolio for final review.",
+    "materials_needed": "Learners' previous work (maps of Africa, climate charts, vegetation drawings), Manila paper for covers, sisal strings or staples, markers, glue, and a wall clock.",
+    "content_ids_in_lesson": "P7-T1-SS-0204-1205-01, P7-T1-SS-0204-1205-02, P7-T1-SS-0204-1205-03, P7-T1-SS-0204-1205-04, P7-T1-SS-0204-1205-05",
+    "language_focus": "N/A",
+    "lesson_code": "1205"
+  },
+  "slides": [
+    {
+      "slide_id": "p7_t1_social_studies_1205_slide_001",
+      "slide_number": 1,
+      "layout": "title",
+      "lesson_stage": "hook",
+      "student_title": "Living Together in Africa",
+      "student_body": [
+        "Social Studies",
+        "Big question: What is the most interesting thing you learned about Africa"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L18-L32",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 18,
+          "line_end": 32
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 14,
+        "bullet_line_count": 2,
+        "title_char_count": 25,
+        "max_bullet_char_count": 73
+      }
+    },
+    {
+      "slide_id": "p7_t1_social_studies_1205_slide_002",
+      "slide_number": 2,
+      "layout": "lesson_card",
+      "lesson_stage": "mission",
+      "student_title": "Today's mission",
+      "student_body": [
+        "Goal: I can organize and compile their Term 1 Social Studies",
+        "Use: Our Term 1 SST Journey, Organizing Our Work",
+        "Show: answer with one reason or example.",
+        "Routine: listen, talk, try, explain."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L18-L32",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 18,
+          "line_end": 32
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 32,
+        "bullet_line_count": 4,
+        "title_char_count": 15,
+        "max_bullet_char_count": 60
+      }
+    },
+    {
+      "slide_id": "p7_t1_social_studies_1205_slide_003",
+      "slide_number": 3,
+      "layout": "lesson_card",
+      "lesson_stage": "starter",
+      "student_title": "Starter: think first",
+      "student_body": [
+        "Think: What is the most interesting thing you learned about Africa this term?",
+        "Pair: compare your first answer with a partner.",
+        "Share: connect your answer to Our Term 1 SST Journey."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-SS-0204-1205-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 31,
+        "bullet_line_count": 3,
+        "title_char_count": 20,
+        "max_bullet_char_count": 77
+      },
+      "source_content_id": "P7-T1-SS-0204-1205-01"
+    },
+    {
+      "slide_id": "p7_t1_social_studies_1205_slide_004",
+      "slide_number": 4,
+      "layout": "lesson_card",
+      "lesson_stage": "concept",
+      "student_title": "Our Term 1 SST Journey",
+      "student_body": [
+        "Key idea: Introduction to the final review process and self-reflection on learning",
+        "Reviewing major themes",
+        "Celebrating our work",
+        "Preparing for compilation"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-SS-0204-1205-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 21,
+        "bullet_line_count": 4,
+        "title_char_count": 22,
+        "max_bullet_char_count": 82
+      },
+      "source_content_id": "P7-T1-SS-0204-1205-01"
+    },
+    {
+      "slide_id": "p7_t1_social_studies_1205_slide_005",
+      "slide_number": 5,
+      "layout": "lesson_card",
+      "lesson_stage": "model",
+      "student_title": "Organizing Our Work",
+      "student_body": [
+        "Worked example:",
+        "Collecting all Term 1 work",
+        "Sorting by topic",
+        "Checking for missing items"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L59-L81",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 59,
+          "line_end": 81,
+          "content_id": "P7-T1-SS-0204-1205-02"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 14,
+        "bullet_line_count": 4,
+        "title_char_count": 19,
+        "max_bullet_char_count": 26
+      },
+      "source_content_id": "P7-T1-SS-0204-1205-02"
+    },
+    {
+      "slide_id": "p7_t1_social_studies_1205_slide_006",
+      "slide_number": 6,
+      "layout": "lesson_card",
+      "lesson_stage": "practice",
+      "student_title": "Try it together",
+      "student_body": [
+        "Answer with evidence:",
+        "Why is it important to keep our maps and projects organized?",
+        "Do you have all four major projects?",
+        "Which work needs to be at the very front of your pile?"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-SS-0204-1205-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L59-L81",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 59,
+          "line_end": 81,
+          "content_id": "P7-T1-SS-0204-1205-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L83-L105",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 83,
+          "line_end": 105,
+          "content_id": "P7-T1-SS-0204-1205-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L107-L130",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 107,
+          "line_end": 130,
+          "content_id": "P7-T1-SS-0204-1205-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L132-L154",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 132,
+          "line_end": 154,
+          "content_id": "P7-T1-SS-0204-1205-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 33,
+        "bullet_line_count": 4,
+        "title_char_count": 15,
+        "max_bullet_char_count": 60
+      }
+    },
+    {
+      "slide_id": "p7_t1_social_studies_1205_slide_007",
+      "slide_number": 7,
+      "layout": "lesson_card",
+      "lesson_stage": "activity",
+      "student_title": "Activity challenge",
+      "student_body": [
+        "Challenge:",
+        "Participate in a whole-class discussion, sharing their most memorable lessons",
+        "Individually sort their maps and written projects according to the sequence",
+        "In small groups, learners quiz each other on the key facts represented"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-SS-0204-1205-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L59-L81",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 59,
+          "line_end": 81,
+          "content_id": "P7-T1-SS-0204-1205-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L83-L105",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 83,
+          "line_end": 105,
+          "content_id": "P7-T1-SS-0204-1205-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L107-L130",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 107,
+          "line_end": 130,
+          "content_id": "P7-T1-SS-0204-1205-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L132-L154",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 132,
+          "line_end": 154,
+          "content_id": "P7-T1-SS-0204-1205-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 34,
+        "bullet_line_count": 4,
+        "title_char_count": 18,
+        "max_bullet_char_count": 77
+      }
+    },
+    {
+      "slide_id": "p7_t1_social_studies_1205_slide_008",
+      "slide_number": 8,
+      "layout": "lesson_card",
+      "lesson_stage": "exit",
+      "student_title": "Exit ticket",
+      "student_body": [
+        "Answer: Where will you keep this portfolio for revision?",
+        "Use one complete sentence.",
+        "Hand in or read your answer aloud."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L35-L57",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 35,
+          "line_end": 57,
+          "content_id": "P7-T1-SS-0204-1205-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L59-L81",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 59,
+          "line_end": 81,
+          "content_id": "P7-T1-SS-0204-1205-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L83-L105",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 83,
+          "line_end": 105,
+          "content_id": "P7-T1-SS-0204-1205-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L107-L130",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 107,
+          "line_end": 130,
+          "content_id": "P7-T1-SS-0204-1205-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt#L132-L154",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_1205.txt",
+          "line_start": 132,
+          "line_end": 154,
+          "content_id": "P7-T1-SS-0204-1205-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 20,
+        "bullet_line_count": 3,
+        "title_char_count": 11,
+        "max_bullet_char_count": 56
+      }
+    }
+  ],
+  "warnings": []
+}

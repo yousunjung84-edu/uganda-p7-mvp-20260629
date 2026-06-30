@@ -1,0 +1,289 @@
+{
+  "overall_status": "pass",
+  "lesson_count": 10,
+  "blocking_failure_count": 0,
+  "pdf_results": {
+    "p7_t1_christian_religious_education_0101": {
+      "success": true,
+      "pptx_path": ".runs/uganda-p7-image-first-full/p7_t1_christian_religious_education_0101/p7_t1_christian_religious_education_0101_image_first.pptx",
+      "pdf_path": ".runs/uganda-p7-image-first-full/p7_t1_christian_religious_education_0101/p7_t1_christian_religious_education_0101_image_first.pdf",
+      "stdout": "convert /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_christian_religious_education_0101/p7_t1_christian_religious_education_0101_image_first.pptx as a Impress document -> /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_christian_religious_education_0101/p7_t1_christian_religious_education_0101_image_first.pdf using filter : impress_pdf_Export\n",
+      "stderr": "",
+      "exit_code": 0,
+      "timed_out": false,
+      "command": [
+        "/opt/homebrew/bin/soffice",
+        "--headless",
+        "--convert-to",
+        "pdf",
+        "--outdir",
+        ".runs/uganda-p7-image-first-full/p7_t1_christian_religious_education_0101",
+        ".runs/uganda-p7-image-first-full/p7_t1_christian_religious_education_0101/p7_t1_christian_religious_education_0101_image_first.pptx"
+      ],
+      "message": ""
+    },
+    "p7_t1_christian_religious_education_1205": {
+      "success": true,
+      "pptx_path": ".runs/uganda-p7-image-first-full/p7_t1_christian_religious_education_1205/p7_t1_christian_religious_education_1205_image_first.pptx",
+      "pdf_path": ".runs/uganda-p7-image-first-full/p7_t1_christian_religious_education_1205/p7_t1_christian_religious_education_1205_image_first.pdf",
+      "stdout": "convert /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_christian_religious_education_1205/p7_t1_christian_religious_education_1205_image_first.pptx as a Impress document -> /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_christian_religious_education_1205/p7_t1_christian_religious_education_1205_image_first.pdf using filter : impress_pdf_Export\n",
+      "stderr": "",
+      "exit_code": 0,
+      "timed_out": false,
+      "command": [
+        "/opt/homebrew/bin/soffice",
+        "--headless",
+        "--convert-to",
+        "pdf",
+        "--outdir",
+        ".runs/uganda-p7-image-first-full/p7_t1_christian_religious_education_1205",
+        ".runs/uganda-p7-image-first-full/p7_t1_christian_religious_education_1205/p7_t1_christian_religious_education_1205_image_first.pptx"
+      ],
+      "message": ""
+    },
+    "p7_t1_english_0101": {
+      "success": true,
+      "pptx_path": ".runs/uganda-p7-image-first-full/p7_t1_english_0101/p7_t1_english_0101_image_first.pptx",
+      "pdf_path": ".runs/uganda-p7-image-first-full/p7_t1_english_0101/p7_t1_english_0101_image_first.pdf",
+      "stdout": "convert /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_english_0101/p7_t1_english_0101_image_first.pptx as a Impress document -> /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_english_0101/p7_t1_english_0101_image_first.pdf using filter : impress_pdf_Export\n",
+      "stderr": "",
+      "exit_code": 0,
+      "timed_out": false,
+      "command": [
+        "/opt/homebrew/bin/soffice",
+        "--headless",
+        "--convert-to",
+        "pdf",
+        "--outdir",
+        ".runs/uganda-p7-image-first-full/p7_t1_english_0101",
+        ".runs/uganda-p7-image-first-full/p7_t1_english_0101/p7_t1_english_0101_image_first.pptx"
+      ],
+      "message": ""
+    },
+    "p7_t1_english_1205": {
+      "success": true,
+      "pptx_path": ".runs/uganda-p7-image-first-full/p7_t1_english_1205/p7_t1_english_1205_image_first.pptx",
+      "pdf_path": ".runs/uganda-p7-image-first-full/p7_t1_english_1205/p7_t1_english_1205_image_first.pdf",
+      "stdout": "convert /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_english_1205/p7_t1_english_1205_image_first.pptx as a Impress document -> /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_english_1205/p7_t1_english_1205_image_first.pdf using filter : impress_pdf_Export\n",
+      "stderr": "",
+      "exit_code": 0,
+      "timed_out": false,
+      "command": [
+        "/opt/homebrew/bin/soffice",
+        "--headless",
+        "--convert-to",
+        "pdf",
+        "--outdir",
+        ".runs/uganda-p7-image-first-full/p7_t1_english_1205",
+        ".runs/uganda-p7-image-first-full/p7_t1_english_1205/p7_t1_english_1205_image_first.pptx"
+      ],
+      "message": ""
+    },
+    "p7_t1_integrated_science_0101": {
+      "success": true,
+      "pptx_path": ".runs/uganda-p7-image-first-full/p7_t1_integrated_science_0101/p7_t1_integrated_science_0101_image_first.pptx",
+      "pdf_path": ".runs/uganda-p7-image-first-full/p7_t1_integrated_science_0101/p7_t1_integrated_science_0101_image_first.pdf",
+      "stdout": "convert /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_integrated_science_0101/p7_t1_integrated_science_0101_image_first.pptx as a Impress document -> /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_integrated_science_0101/p7_t1_integrated_science_0101_image_first.pdf using filter : impress_pdf_Export\n",
+      "stderr": "",
+      "exit_code": 0,
+      "timed_out": false,
+      "command": [
+        "/opt/homebrew/bin/soffice",
+        "--headless",
+        "--convert-to",
+        "pdf",
+        "--outdir",
+        ".runs/uganda-p7-image-first-full/p7_t1_integrated_science_0101",
+        ".runs/uganda-p7-image-first-full/p7_t1_integrated_science_0101/p7_t1_integrated_science_0101_image_first.pptx"
+      ],
+      "message": ""
+    },
+    "p7_t1_integrated_science_1205": {
+      "success": true,
+      "pptx_path": ".runs/uganda-p7-image-first-full/p7_t1_integrated_science_1205/p7_t1_integrated_science_1205_image_first.pptx",
+      "pdf_path": ".runs/uganda-p7-image-first-full/p7_t1_integrated_science_1205/p7_t1_integrated_science_1205_image_first.pdf",
+      "stdout": "convert /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_integrated_science_1205/p7_t1_integrated_science_1205_image_first.pptx as a Impress document -> /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_integrated_science_1205/p7_t1_integrated_science_1205_image_first.pdf using filter : impress_pdf_Export\n",
+      "stderr": "",
+      "exit_code": 0,
+      "timed_out": false,
+      "command": [
+        "/opt/homebrew/bin/soffice",
+        "--headless",
+        "--convert-to",
+        "pdf",
+        "--outdir",
+        ".runs/uganda-p7-image-first-full/p7_t1_integrated_science_1205",
+        ".runs/uganda-p7-image-first-full/p7_t1_integrated_science_1205/p7_t1_integrated_science_1205_image_first.pptx"
+      ],
+      "message": ""
+    },
+    "p7_t1_mathematics_0101": {
+      "success": true,
+      "pptx_path": ".runs/uganda-p7-image-first-full/p7_t1_mathematics_0101/p7_t1_mathematics_0101_image_first.pptx",
+      "pdf_path": ".runs/uganda-p7-image-first-full/p7_t1_mathematics_0101/p7_t1_mathematics_0101_image_first.pdf",
+      "stdout": "convert /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_mathematics_0101/p7_t1_mathematics_0101_image_first.pptx as a Impress document -> /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_mathematics_0101/p7_t1_mathematics_0101_image_first.pdf using filter : impress_pdf_Export\n",
+      "stderr": "",
+      "exit_code": 0,
+      "timed_out": false,
+      "command": [
+        "/opt/homebrew/bin/soffice",
+        "--headless",
+        "--convert-to",
+        "pdf",
+        "--outdir",
+        ".runs/uganda-p7-image-first-full/p7_t1_mathematics_0101",
+        ".runs/uganda-p7-image-first-full/p7_t1_mathematics_0101/p7_t1_mathematics_0101_image_first.pptx"
+      ],
+      "message": ""
+    },
+    "p7_t1_mathematics_1205": {
+      "success": true,
+      "pptx_path": ".runs/uganda-p7-image-first-full/p7_t1_mathematics_1205/p7_t1_mathematics_1205_image_first.pptx",
+      "pdf_path": ".runs/uganda-p7-image-first-full/p7_t1_mathematics_1205/p7_t1_mathematics_1205_image_first.pdf",
+      "stdout": "convert /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_mathematics_1205/p7_t1_mathematics_1205_image_first.pptx as a Impress document -> /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_mathematics_1205/p7_t1_mathematics_1205_image_first.pdf using filter : impress_pdf_Export\n",
+      "stderr": "",
+      "exit_code": 0,
+      "timed_out": false,
+      "command": [
+        "/opt/homebrew/bin/soffice",
+        "--headless",
+        "--convert-to",
+        "pdf",
+        "--outdir",
+        ".runs/uganda-p7-image-first-full/p7_t1_mathematics_1205",
+        ".runs/uganda-p7-image-first-full/p7_t1_mathematics_1205/p7_t1_mathematics_1205_image_first.pptx"
+      ],
+      "message": ""
+    },
+    "p7_t1_social_studies_0101": {
+      "success": true,
+      "pptx_path": ".runs/uganda-p7-image-first-full/p7_t1_social_studies_0101/p7_t1_social_studies_0101_image_first.pptx",
+      "pdf_path": ".runs/uganda-p7-image-first-full/p7_t1_social_studies_0101/p7_t1_social_studies_0101_image_first.pdf",
+      "stdout": "convert /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_social_studies_0101/p7_t1_social_studies_0101_image_first.pptx as a Impress document -> /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_social_studies_0101/p7_t1_social_studies_0101_image_first.pdf using filter : impress_pdf_Export\n",
+      "stderr": "",
+      "exit_code": 0,
+      "timed_out": false,
+      "command": [
+        "/opt/homebrew/bin/soffice",
+        "--headless",
+        "--convert-to",
+        "pdf",
+        "--outdir",
+        ".runs/uganda-p7-image-first-full/p7_t1_social_studies_0101",
+        ".runs/uganda-p7-image-first-full/p7_t1_social_studies_0101/p7_t1_social_studies_0101_image_first.pptx"
+      ],
+      "message": ""
+    },
+    "p7_t1_social_studies_1205": {
+      "success": true,
+      "pptx_path": ".runs/uganda-p7-image-first-full/p7_t1_social_studies_1205/p7_t1_social_studies_1205_image_first.pptx",
+      "pdf_path": ".runs/uganda-p7-image-first-full/p7_t1_social_studies_1205/p7_t1_social_studies_1205_image_first.pdf",
+      "stdout": "convert /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_social_studies_1205/p7_t1_social_studies_1205_image_first.pptx as a Impress document -> /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_social_studies_1205/p7_t1_social_studies_1205_image_first.pdf using filter : impress_pdf_Export\n",
+      "stderr": "",
+      "exit_code": 0,
+      "timed_out": false,
+      "command": [
+        "/opt/homebrew/bin/soffice",
+        "--headless",
+        "--convert-to",
+        "pdf",
+        "--outdir",
+        ".runs/uganda-p7-image-first-full/p7_t1_social_studies_1205",
+        ".runs/uganda-p7-image-first-full/p7_t1_social_studies_1205/p7_t1_social_studies_1205_image_first.pptx"
+      ],
+      "message": ""
+    }
+  },
+  "summary": [
+    {
+      "lesson_id": "p7_t1_christian_religious_education_0101",
+      "subject": "Christian Religious Education",
+      "theme": "Christians and the Holy Spirit (Topic 1: Enriched in the Spirit)",
+      "slide_count": 8,
+      "pdf_success": true,
+      "pptx_mb": 2.2,
+      "pdf_mb": 2.36
+    },
+    {
+      "lesson_id": "p7_t1_christian_religious_education_1205",
+      "subject": "Christian Religious Education",
+      "theme": "Christians and the Holy Spirit",
+      "slide_count": 8,
+      "pdf_success": true,
+      "pptx_mb": 2.44,
+      "pdf_mb": 2.57
+    },
+    {
+      "lesson_id": "p7_t1_english_0101",
+      "subject": "English",
+      "theme": "1.1 School Holidays / 1A Holiday Plans",
+      "slide_count": 8,
+      "pdf_success": true,
+      "pptx_mb": 2.49,
+      "pdf_mb": 2.63
+    },
+    {
+      "lesson_id": "p7_t1_english_1205",
+      "subject": "English",
+      "theme": "3.4 Final Review and Assessment",
+      "slide_count": 8,
+      "pdf_success": true,
+      "pptx_mb": 2.32,
+      "pdf_mb": 2.46
+    },
+    {
+      "lesson_id": "p7_t1_integrated_science_0101",
+      "subject": "Integrated Science",
+      "theme": "The Human Body: Muscular-Skeletal System",
+      "slide_count": 8,
+      "pdf_success": true,
+      "pptx_mb": 2.12,
+      "pdf_mb": 2.28
+    },
+    {
+      "lesson_id": "p7_t1_integrated_science_1205",
+      "subject": "Integrated Science",
+      "theme": "3.4 Energy Resources in the Environment / Final Review",
+      "slide_count": 8,
+      "pdf_success": true,
+      "pptx_mb": 2.12,
+      "pdf_mb": 2.28
+    },
+    {
+      "lesson_id": "p7_t1_mathematics_0101",
+      "subject": "Mathematics",
+      "theme": "01 Sets (Set Concepts)",
+      "slide_count": 8,
+      "pdf_success": true,
+      "pptx_mb": 2.28,
+      "pdf_mb": 2.43
+    },
+    {
+      "lesson_id": "p7_t1_mathematics_1205",
+      "subject": "Mathematics",
+      "theme": "4.0 Patterns and Sequences (Final Review)",
+      "slide_count": 8,
+      "pdf_success": true,
+      "pptx_mb": 2.28,
+      "pdf_mb": 2.44
+    },
+    {
+      "lesson_id": "p7_t1_social_studies_0101",
+      "subject": "Social Studies",
+      "theme": "1.0 Living Together in Africa",
+      "slide_count": 8,
+      "pdf_success": true,
+      "pptx_mb": 2.24,
+      "pdf_mb": 2.39
+    },
+    {
+      "lesson_id": "p7_t1_social_studies_1205",
+      "subject": "Social Studies",
+      "theme": "Living Together in Africa",
+      "slide_count": 8,
+      "pdf_success": true,
+      "pptx_mb": 2.34,
+      "pdf_mb": 2.49
+    }
+  ]
+}

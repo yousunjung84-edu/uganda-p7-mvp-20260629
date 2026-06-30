@@ -1,0 +1,29 @@
+{
+  "kind": "image_first_full",
+  "lesson_id": "p7_t1_mathematics_1205",
+  "slide_count": 8,
+  "pptx": "p7_t1_mathematics_1205_image_first.pptx",
+  "pdf": "p7_t1_mathematics_1205_image_first.pdf",
+  "infographic": "infographic_image_first.jpg",
+  "pdf_export": {
+    "success": true,
+    "pptx_path": ".runs/uganda-p7-image-first-full/p7_t1_mathematics_1205/p7_t1_mathematics_1205_image_first.pptx",
+    "pdf_path": ".runs/uganda-p7-image-first-full/p7_t1_mathematics_1205/p7_t1_mathematics_1205_image_first.pdf",
+    "stdout": "convert /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_mathematics_1205/p7_t1_mathematics_1205_image_first.pptx as a Impress document -> /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first-full/p7_t1_mathematics_1205/p7_t1_mathematics_1205_image_first.pdf using filter : impress_pdf_Export\n",
+    "stderr": "",
+    "exit_code": 0,
+    "timed_out": false,
+    "command": [
+      "/opt/homebrew/bin/soffice",
+      "--headless",
+      "--convert-to",
+      "pdf",
+      "--outdir",
+      ".runs/uganda-p7-image-first-full/p7_t1_mathematics_1205",
+      ".runs/uganda-p7-image-first-full/p7_t1_mathematics_1205/p7_t1_mathematics_1205_image_first.pptx"
+    ],
+    "message": ""
+  },
+  "visual_method": "generated full-slide image plates + editable PPT text overlays",
+  "raw_asset_count": 9
+}

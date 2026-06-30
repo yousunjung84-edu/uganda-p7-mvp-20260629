@@ -1,0 +1,334 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_integrated_science_0101",
+  "source_sha256": "e7920a0d6e2dca060d58d04cbed1838c5e406dad3814e18af05dfacaa61495ad",
+  "metadata": {
+    "lesson_id": "P7-T1-D1-Science",
+    "grade_term": "P7 / T1",
+    "week_number": "1",
+    "day_number": "1",
+    "subject": "Integrated Science",
+    "theme": "The Human Body: Muscular-Skeletal System",
+    "lesson_duration": "40 minutes",
+    "learning_objective": "By the end of the lesson, learners will be able to identify and name the main components of the human muscular-skeletal system (bones, muscles, and joints).",
+    "materials_needed": "Wall chart of the human skeleton, model of a human skeleton (if available), manila cards with labels, locally available materials like sticks and strings to demonstrate movement.",
+    "content_ids_in_lesson": "P7-T1-S-0101-0101-01, P7-T1-S-0101-0101-02, P7-T1-S-0101-0101-03, P7-T1-S-0101-0101-04, P7-T1-S-0101-0101-05",
+    "language_focus": "N/A (Science Subject)",
+    "lesson_code": "0101"
+  },
+  "slides": [
+    {
+      "slide_id": "p7_t1_integrated_science_0101_slide_001",
+      "slide_number": 1,
+      "layout": "title",
+      "lesson_stage": "hook",
+      "student_title": "The Human Body: Muscular-Skeletal System",
+      "student_body": [
+        "Integrated Science",
+        "Big question: What do you feel when you touch your shin?"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L22-L38",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 22,
+          "line_end": 38
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 13,
+        "bullet_line_count": 2,
+        "title_char_count": 40,
+        "max_bullet_char_count": 56
+      }
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_0101_slide_002",
+      "slide_number": 2,
+      "layout": "lesson_card",
+      "lesson_stage": "mission",
+      "student_title": "Today's mission",
+      "student_body": [
+        "Goal: I can identify and name the main components of the human",
+        "Use: Why Do We Have a Shape?, Exploring the Skeleton",
+        "Show: answer with one reason or example.",
+        "Routine: listen, talk, try, explain."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L22-L38",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 22,
+          "line_end": 38
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 34,
+        "bullet_line_count": 4,
+        "title_char_count": 15,
+        "max_bullet_char_count": 62
+      }
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_0101_slide_003",
+      "slide_number": 3,
+      "layout": "lesson_card",
+      "lesson_stage": "starter",
+      "student_title": "Starter: think first",
+      "student_body": [
+        "Think: What do you feel when you touch your shin?",
+        "Pair: compare your first answer with a partner.",
+        "Share: connect your answer to Why Do We Have a Shape?."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L41-L60",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 41,
+          "line_end": 60,
+          "content_id": "P7-T1-S-0101-0101-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 29,
+        "bullet_line_count": 3,
+        "title_char_count": 20,
+        "max_bullet_char_count": 54
+      },
+      "source_content_id": "P7-T1-S-0101-0101-01"
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_0101_slide_004",
+      "slide_number": 4,
+      "layout": "lesson_card",
+      "lesson_stage": "concept",
+      "student_title": "Why Do We Have a Shape?",
+      "student_body": [
+        "Key idea: Prior knowledge activation: Discussing why the body has a firm shape",
+        "The body has a firm framework.",
+        "This framework allows us to stand and move.",
+        "Without it, we would be like a heap of cloth."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L41-L60",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 41,
+          "line_end": 60,
+          "content_id": "P7-T1-S-0101-0101-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 37,
+        "bullet_line_count": 4,
+        "title_char_count": 23,
+        "max_bullet_char_count": 78
+      },
+      "source_content_id": "P7-T1-S-0101-0101-01"
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_0101_slide_005",
+      "slide_number": 5,
+      "layout": "lesson_card",
+      "lesson_stage": "model",
+      "student_title": "Exploring the Skeleton",
+      "student_body": [
+        "Worked example:",
+        "THE SKELETON",
+        "A framework of bones in the body."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L62-L82",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 62,
+          "line_end": 82,
+          "content_id": "P7-T1-S-0101-0101-02"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 11,
+        "bullet_line_count": 3,
+        "title_char_count": 22,
+        "max_bullet_char_count": 33
+      },
+      "source_content_id": "P7-T1-S-0101-0101-02"
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_0101_slide_006",
+      "slide_number": 6,
+      "layout": "lesson_card",
+      "lesson_stage": "practice",
+      "student_title": "Try it together",
+      "student_body": [
+        "Answer with evidence:",
+        "Why can't a piece of cloth stand up on its own?",
+        "What is the name of the bone protecting the brain?",
+        "Where are the longest bones found in the skeleton?"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L41-L60",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 41,
+          "line_end": 60,
+          "content_id": "P7-T1-S-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L62-L82",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 62,
+          "line_end": 82,
+          "content_id": "P7-T1-S-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L84-L105",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 84,
+          "line_end": 105,
+          "content_id": "P7-T1-S-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L107-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 107,
+          "line_end": 127,
+          "content_id": "P7-T1-S-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L129-L149",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 129,
+          "line_end": 149,
+          "content_id": "P7-T1-S-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 33,
+        "bullet_line_count": 4,
+        "title_char_count": 15,
+        "max_bullet_char_count": 50
+      }
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_0101_slide_007",
+      "slide_number": 7,
+      "layout": "lesson_card",
+      "lesson_stage": "activity",
+      "student_title": "Activity challenge",
+      "student_body": [
+        "Challenge:",
+        "Touch various parts of their bodies (head, arm, ribs) to identify hard and soft",
+        "In groups, observe the skeleton chart and point out the skull, ribs, and limb",
+        "Write the definitions of bones, muscles, and joints in their notebooks as provided"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L41-L60",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 41,
+          "line_end": 60,
+          "content_id": "P7-T1-S-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L62-L82",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 62,
+          "line_end": 82,
+          "content_id": "P7-T1-S-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L84-L105",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 84,
+          "line_end": 105,
+          "content_id": "P7-T1-S-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L107-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 107,
+          "line_end": 127,
+          "content_id": "P7-T1-S-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L129-L149",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 129,
+          "line_end": 149,
+          "content_id": "P7-T1-S-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 42,
+        "bullet_line_count": 4,
+        "title_char_count": 18,
+        "max_bullet_char_count": 82
+      }
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_0101_slide_008",
+      "slide_number": 8,
+      "layout": "lesson_card",
+      "lesson_stage": "exit",
+      "student_title": "Exit ticket",
+      "student_body": [
+        "Answer: Is the heart part of the muscular-skeletal system?",
+        "Use one complete sentence.",
+        "Hand in or read your answer aloud."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L41-L60",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 41,
+          "line_end": 60,
+          "content_id": "P7-T1-S-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L62-L82",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 62,
+          "line_end": 82,
+          "content_id": "P7-T1-S-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L84-L105",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 84,
+          "line_end": 105,
+          "content_id": "P7-T1-S-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L107-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 107,
+          "line_end": 127,
+          "content_id": "P7-T1-S-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt#L129-L149",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_0101.txt",
+          "line_start": 129,
+          "line_end": 149,
+          "content_id": "P7-T1-S-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 20,
+        "bullet_line_count": 3,
+        "title_char_count": 11,
+        "max_bullet_char_count": 58
+      }
+    }
+  ],
+  "warnings": []
+}
