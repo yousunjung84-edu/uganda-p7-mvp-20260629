@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Uganda PPT editable-hybrid pipeline</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; margin: 2rem; line-height: 1.6; color: #172033; background: #fff; }
+    .hero, .card { border: 1px solid #d8dee9; border-radius: 16px; padding: 1rem 1.25rem; margin: 1rem 0; background: #fbfcff; }
+    .hero { border-top: 8px solid #111827; box-shadow: inset 0 4px 0 #FCD116, inset 0 8px 0 #CE1126; }
+    h1, h2 { line-height: 1.2; }
+    table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
+    th, td { border: 1px solid #d8dee9; padding: 0.55rem; text-align: left; vertical-align: top; }
+    th { background: #fff3bf; }
+    code { background: #f1f5f9; border-radius: 6px; padding: 0.05rem 0.25rem; }
+    a.button { display: inline-block; background: #111827; color: #FCD116; padding: 0.7rem 1rem; border-radius: 10px; text-decoration: none; font-weight: 700; margin-right: 0.4rem; }
+    .ok { color: #087f5b; font-weight: 700; }
+    .warn { color: #b45309; font-weight: 700; }
+  </style>
+</head>
+<body>
+  <p><a href="index.html">← Back to bundle index</a></p>
+  <section class="hero">
+    <h1>Uganda PPT editable-hybrid pipeline</h1>
+    <p><strong>핵심 원칙:</strong> Image 2.0 계열 생성물은 완성 슬라이드가 아니라 <strong>visual insert 삽화</strong>로만 만들고, 제목·본문·질문·표·카드·교사노트는 <strong>수정 가능한 PowerPoint 도형/텍스트</strong>로 생성한다.</p>
+    <p><strong>Status:</strong> <span class="ok">ready-go</span> · lessons 1,800 · packs 30 · editable slides 14,400 · image prompts 16,200 · mode <code>editable_hybrid</code></p>
+  </section>
+
+  <section class="card">
+    <h2>Pipeline order</h2>
+    <ol>
+      <li><strong>Source ingest:</strong> P6/P7 txt 교재, NotebookLM-Slide Prompt.html, Uganda design guide를 읽고 학년·학기·과목·차시 메타데이터를 정리한다.</li>
+      <li><strong>Lesson catalog:</strong> canonical lesson 1,800개를 만들고 중복 suffix 파일 158개를 제외한다.</li>
+      <li><strong>Pack split:</strong> grade × term × subject 기준으로 30개 pack을 만든다. 1 pack은 보통 60 lessons, 480 slides, 540 image assets다.</li>
+      <li><strong>Prompt queue:</strong> 각 슬라이드와 별도 infographic에 대해 <code>visual_insert</code> 이미지 프롬프트를 생성한다.</li>
+      <li><strong>Image generation:</strong> 이미지 모델은 삽화만 만든다. 이미지 안에는 제목, 숫자, 라벨, 표, 카드, footer, fake text를 넣지 않는다.</li>
+      <li><strong>Editable PPT render:</strong> generated image를 PPT picture object로 삽입하고, 수업 구조는 python-pptx 코드가 editable shapes/text로 그린다.</li>
+      <li><strong>PDF export:</strong> 확인용 PDF를 만들어 줄맞춤, 칸 배치, 화면 품질을 검수한다.</li>
+      <li><strong>QA gate:</strong> 슬라이드 수, 이미지 panel 위치, editable text layer, 과목별 frame, teacher note, PDF 정렬을 확인한다.</li>
+      <li><strong>Pack ZIP:</strong> PPTX, PDF, images, manifest, QA report를 pack별로 묶는다.</li>
+      <li><strong>Publish:</strong> GitHub Pages와 release asset에 pack 단위로 게시한다.</li>
+    </ol>
+  </section>
+
+  <section class="card">
+    <h2>Editable contract</h2>
+    <table>
+      <thead><tr><th>Layer</th><th>How it is produced</th><th>Editable?</th></tr></thead>
+      <tbody>
+        <tr><td>Generated visual</td><td>Image model output inserted into a visual panel</td><td>No, picture object only</td></tr>
+        <tr><td>Slide title/header</td><td>PowerPoint text boxes and shapes</td><td>Yes</td></tr>
+        <tr><td>Question/activity cards</td><td>PowerPoint rounded rectangles + text</td><td>Yes</td></tr>
+        <tr><td>Subject frames</td><td>Math/English/Science/Social/RE-specific editable shapes</td><td>Yes</td></tr>
+        <tr><td>Teacher note/footer</td><td>PowerPoint text strip</td><td>Yes</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="card">
+    <h2>Execution estimate</h2>
+    <table>
+      <thead><tr><th>Scope</th><th>Time</th><th>Token / call estimate</th></tr></thead>
+      <tbody>
+        <tr><td>Ready-go planning only</td><td>5–15 minutes total</td><td>Local planning; negligible LLM tokens</td></tr>
+        <tr><td>1 pack actual production</td><td>5–13 hours including image generation, PPT/PDF render, automatic QA, human QA loop</td><td>~540 image calls; ~0.25M–0.38M prompt-token equivalent</td></tr>
+        <tr><td>All 30 packs sequential</td><td>150–390 hours, about 6–16 continuous days</td><td>16,200 image calls; ~7.3M–11.3M image-prompt-token equivalent</td></tr>
+        <tr><td>All 30 packs with 3–5 workers</td><td>About 2–5 days for minimum automatic generation; 4–8 days with stronger lesson-quality pass</td><td>Image API limit and QA bottleneck are the main constraints</td></tr>
+        <tr><td>Delivery-grade QA/correction</td><td>About 1–2 weeks</td><td>~20M–40M text-token equivalent if detailed LLM pedagogy pass is used</td></tr>
+      </tbody>
+    </table>
+    <p><strong>Recommended run:</strong> lock one pack first, preferably <code>P7 Term 1 English</code>. Then run remaining packs with 3–5 workers and publish only packs that pass QA.</p>
+  </section>
+
+  <section class="card">
+    <h2>Artifacts</h2>
+    <p>
+      <a class="button" href="pipeline-estimate-20260629.md">Download estimate note</a>
+      <a class="button" href="uganda-image-first-ready-go.zip">Download ready-go ZIP</a>
+      <a class="button" href="ready-go/ready_go.json">ready_go.json</a>
+      <a class="button" href="editable-hybrid-sample/p7_t1_english_0101/p7_t1_english_0101_editable_hybrid.pptx">Editable sample PPTX</a>
+    </p>
+  </section>
+</body>
+</html>
