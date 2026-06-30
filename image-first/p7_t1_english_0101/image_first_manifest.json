@@ -1,0 +1,39 @@
+{
+  "kind": "image_first_prototype",
+  "lesson_id": "p7_t1_english_0101",
+  "model_route": "generated visual layer + vector PPT text overlays",
+  "slide_count": 8,
+  "pptx": ".runs/uganda-p7-image-first/p7_t1_english_0101/p7_t1_english_0101_image_first.pptx",
+  "pdf": ".runs/uganda-p7-image-first/p7_t1_english_0101/p7_t1_english_0101_image_first.pdf",
+  "infographic": ".runs/uganda-p7-image-first/p7_t1_english_0101/infographic_image_first.png",
+  "pdf_export": {
+    "success": true,
+    "pptx_path": ".runs/uganda-p7-image-first/p7_t1_english_0101/p7_t1_english_0101_image_first.pptx",
+    "pdf_path": ".runs/uganda-p7-image-first/p7_t1_english_0101/p7_t1_english_0101_image_first.pdf",
+    "stdout": "convert /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first/p7_t1_english_0101/p7_t1_english_0101_image_first.pptx as a Impress document -> /Users/jeong-yuseon/workspace/gajae-sandbox/.runs/uganda-p7-image-first/p7_t1_english_0101/p7_t1_english_0101_image_first.pdf using filter : impress_pdf_Export\n",
+    "stderr": "",
+    "exit_code": 0,
+    "timed_out": false,
+    "command": [
+      "/opt/homebrew/bin/soffice",
+      "--headless",
+      "--convert-to",
+      "pdf",
+      "--outdir",
+      ".runs/uganda-p7-image-first/p7_t1_english_0101",
+      ".runs/uganda-p7-image-first/p7_t1_english_0101/p7_t1_english_0101_image_first.pptx"
+    ],
+    "message": ""
+  },
+  "asset_keys": [
+    "activity",
+    "concept",
+    "exit",
+    "hook",
+    "mission",
+    "model",
+    "practice",
+    "standalone_infographic",
+    "starter"
+  ]
+}
