@@ -1,0 +1,335 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_social_studies_0101",
+  "source_sha256": "1ac36afadaba9b58df121339357877a237b9a99fa8b060f53c44e7b4f1eb52c7",
+  "metadata": {
+    "lesson_id": "P7-T1-D1-SS",
+    "grade_term": "P7 / T1",
+    "week_number": "1",
+    "day_number": "1",
+    "subject": "Social Studies",
+    "theme": "1.0 Living Together in Africa",
+    "lesson_duration": "40 minutes",
+    "learning_objective": "Learners will identify the location of Africa in relation to other continents and oceans.",
+    "materials_needed": "World Wall Map; Globe; Atlas; Chalkboard illustrations; Compass rose chart.",
+    "content_ids_in_lesson": "P7-T1-SS-0101-0101-01, P7-T1-SS-0101-0101-02, P7-T1-SS-0101-0101-03, P7-T1-SS-0101-0101-04, P7-T1-SS-0101-0101-05",
+    "language_focus": "N/A (Social Studies)",
+    "lesson_code": "0101"
+  },
+  "slides": [
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_001",
+      "slide_number": 1,
+      "layout": "title",
+      "lesson_stage": "hook",
+      "student_title": "1.0 Living Together in Africa",
+      "student_body": [
+        "Social Studies",
+        "Big question: What is the name of our country?"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L21-L36",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 21,
+          "line_end": 36
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 11,
+        "bullet_line_count": 2,
+        "title_char_count": 29,
+        "max_bullet_char_count": 46
+      }
+    },
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_002",
+      "slide_number": 2,
+      "layout": "lesson_card",
+      "lesson_stage": "mission",
+      "student_title": "Today's mission",
+      "student_body": [
+        "Goal: Students will identify the location of Africa in relation",
+        "Use: Where is Our Home?, The Seven Continents",
+        "Show: answer with one reason or example.",
+        "Routine: listen, talk, try, explain."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L21-L36",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 21,
+          "line_end": 36
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 30,
+        "bullet_line_count": 4,
+        "title_char_count": 15,
+        "max_bullet_char_count": 63
+      }
+    },
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_003",
+      "slide_number": 3,
+      "layout": "lesson_card",
+      "lesson_stage": "starter",
+      "student_title": "Starter: think first",
+      "student_body": [
+        "Think: What is the name of our country?",
+        "Pair: compare your first answer with a partner.",
+        "Share: connect your answer to Where is Our Home?."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-SS-0101-0101-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 25,
+        "bullet_line_count": 3,
+        "title_char_count": 20,
+        "max_bullet_char_count": 49
+      },
+      "source_content_id": "P7-T1-SS-0101-0101-01"
+    },
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_004",
+      "slide_number": 4,
+      "layout": "lesson_card",
+      "lesson_stage": "concept",
+      "student_title": "Where is Our Home?",
+      "student_body": [
+        "Key idea: Connecting personal knowledge of local location to the global context",
+        "We live in Uganda.",
+        "Uganda is a country in East Africa.",
+        "Africa is a large continent on the Earth."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-SS-0101-0101-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 31,
+        "bullet_line_count": 4,
+        "title_char_count": 18,
+        "max_bullet_char_count": 79
+      },
+      "source_content_id": "P7-T1-SS-0101-0101-01"
+    },
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_005",
+      "slide_number": 5,
+      "layout": "lesson_card",
+      "lesson_stage": "model",
+      "student_title": "The Seven Continents",
+      "student_body": [
+        "Worked example:",
+        "THE 7 CONTINENTS (By Size):",
+        "1. Asia (Largest)",
+        "2. AFRICA (2nd Largest)"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L62-L88",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 62,
+          "line_end": 88,
+          "content_id": "P7-T1-SS-0101-0101-02"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 14,
+        "bullet_line_count": 4,
+        "title_char_count": 20,
+        "max_bullet_char_count": 27
+      },
+      "source_content_id": "P7-T1-SS-0101-0101-02"
+    },
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_006",
+      "slide_number": 6,
+      "layout": "lesson_card",
+      "lesson_stage": "practice",
+      "student_title": "Try it together",
+      "student_body": [
+        "Answer with evidence:",
+        "In which continent is Uganda found?",
+        "Is Africa a country or a continent?",
+        "How many continents are there in the world?"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-SS-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L62-L88",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 62,
+          "line_end": 88,
+          "content_id": "P7-T1-SS-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L89-L111",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 89,
+          "line_end": 111,
+          "content_id": "P7-T1-SS-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L112-L135",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 112,
+          "line_end": 135,
+          "content_id": "P7-T1-SS-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L136-L158",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 136,
+          "line_end": 158,
+          "content_id": "P7-T1-SS-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 24,
+        "bullet_line_count": 4,
+        "title_char_count": 15,
+        "max_bullet_char_count": 43
+      }
+    },
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_007",
+      "slide_number": 7,
+      "layout": "lesson_card",
+      "lesson_stage": "activity",
+      "student_title": "Activity challenge",
+      "student_body": [
+        "Challenge:",
+        "Turn to a partner and discuss if they have ever seen a map of the whole world",
+        "Look at the wall map and point to each continent as the teacher calls out",
+        "Use atlases in groups to list the four water"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-SS-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L62-L88",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 62,
+          "line_end": 88,
+          "content_id": "P7-T1-SS-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L89-L111",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 89,
+          "line_end": 111,
+          "content_id": "P7-T1-SS-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L112-L135",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 112,
+          "line_end": 135,
+          "content_id": "P7-T1-SS-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L136-L158",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 136,
+          "line_end": 158,
+          "content_id": "P7-T1-SS-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 42,
+        "bullet_line_count": 4,
+        "title_char_count": 18,
+        "max_bullet_char_count": 77
+      }
+    },
+    {
+      "slide_id": "p7_t1_social_studies_0101_slide_008",
+      "slide_number": 8,
+      "layout": "lesson_card",
+      "lesson_stage": "exit",
+      "student_title": "Exit ticket",
+      "student_body": [
+        "Answer: Which ocean did you put to the East?",
+        "Use one complete sentence.",
+        "Hand in or read your answer aloud."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L39-L61",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 39,
+          "line_end": 61,
+          "content_id": "P7-T1-SS-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L62-L88",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 62,
+          "line_end": 88,
+          "content_id": "P7-T1-SS-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L89-L111",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 89,
+          "line_end": 111,
+          "content_id": "P7-T1-SS-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L112-L135",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 112,
+          "line_end": 135,
+          "content_id": "P7-T1-SS-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt#L136-L158",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Social Studies_0101.txt",
+          "line_start": 136,
+          "line_end": 158,
+          "content_id": "P7-T1-SS-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 20,
+        "bullet_line_count": 3,
+        "title_char_count": 11,
+        "max_bullet_char_count": 44
+      }
+    }
+  ],
+  "warnings": []
+}

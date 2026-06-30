@@ -1,0 +1,336 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_english_0101",
+  "source_sha256": "8af77bb39cfa14537b62cff47cbad36f1add595218d09e191a27f62ff33182a0",
+  "metadata": {
+    "grade_term": "P7 / T1",
+    "subject": "English",
+    "lesson_code": "0101",
+    "theme": "1.1 School Holidays / 1A Holiday Plans",
+    "learning_objective": "The learner listens to a short narrative and identifies specific future plans mentioned.",
+    "lesson_id": "p7_t1_english_0101"
+  },
+  "slides": [
+    {
+      "slide_id": "p7_t1_english_0101_slide_001",
+      "slide_number": 1,
+      "layout": "title",
+      "lesson_stage": "hook",
+      "student_title": "1.1 School Holidays",
+      "student_body": [
+        "English",
+        "Big question: Where is Nakato going?"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L1-L21",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 1,
+          "line_end": 21
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 7,
+        "bullet_line_count": 2,
+        "title_char_count": 19,
+        "max_bullet_char_count": 36
+      }
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_002",
+      "slide_number": 2,
+      "layout": "lesson_card",
+      "lesson_stage": "mission",
+      "student_title": "Today's mission",
+      "student_body": [
+        "Goal: I can listen to a story and identify key plans.",
+        "Use: Nakato’s Holiday Story, New Holiday Words",
+        "Show: answer with one reason or example.",
+        "Routine: listen, talk, try, explain."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L1-L21",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 1,
+          "line_end": 21
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 30,
+        "bullet_line_count": 4,
+        "title_char_count": 15,
+        "max_bullet_char_count": 53
+      }
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_003",
+      "slide_number": 3,
+      "layout": "lesson_card",
+      "lesson_stage": "starter",
+      "student_title": "Starter: think first",
+      "student_body": [
+        "Think: Where is Nakato going?",
+        "Pair: compare your first answer with a partner.",
+        "Share: connect your answer to Nakato’s Holiday Story."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L24-L47",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 24,
+          "line_end": 47,
+          "content_id": "P7-T1-E-0101-0101-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 21,
+        "bullet_line_count": 3,
+        "title_char_count": 20,
+        "max_bullet_char_count": 53
+      },
+      "source_content_id": "P7-T1-E-0101-0101-01"
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_004",
+      "slide_number": 4,
+      "layout": "lesson_card",
+      "lesson_stage": "concept",
+      "student_title": "Nakato’s Holiday Story",
+      "student_body": [
+        "Key idea: Listen for Nakato’s trip to her grandmother up-country.",
+        "Listen to the story carefully.",
+        "Identify the characters.",
+        "List the places Nakato plans to visit."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L24-L47",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 24,
+          "line_end": 47,
+          "content_id": "P7-T1-E-0101-0101-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 25,
+        "bullet_line_count": 4,
+        "title_char_count": 22,
+        "max_bullet_char_count": 65
+      },
+      "source_content_id": "P7-T1-E-0101-0101-01"
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_005",
+      "slide_number": 5,
+      "layout": "lesson_card",
+      "lesson_stage": "model",
+      "student_title": "New Holiday Words",
+      "student_body": [
+        "Worked example:",
+        "Travel: To go from one place to another.",
+        "Up-country: Rural areas/the village.",
+        "Relatives: Family members."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L48-L74",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 48,
+          "line_end": 74,
+          "content_id": "P7-T1-E-0101-0101-02"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 17,
+        "bullet_line_count": 4,
+        "title_char_count": 17,
+        "max_bullet_char_count": 40
+      },
+      "source_content_id": "P7-T1-E-0101-0101-02"
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_006",
+      "slide_number": 6,
+      "layout": "lesson_card",
+      "lesson_stage": "practice",
+      "student_title": "Try it together",
+      "student_body": [
+        "Answer with evidence:",
+        "What will she do in the village?",
+        "Who is she going to visit?",
+        "What is another word for 'start'?"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L24-L47",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 24,
+          "line_end": 47,
+          "content_id": "P7-T1-E-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L48-L74",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 48,
+          "line_end": 74,
+          "content_id": "P7-T1-E-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L75-L101",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 75,
+          "line_end": 101,
+          "content_id": "P7-T1-E-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L102-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 102,
+          "line_end": 127,
+          "content_id": "P7-T1-E-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L128-L152",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 128,
+          "line_end": 152,
+          "content_id": "P7-T1-E-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 22,
+        "bullet_line_count": 4,
+        "title_char_count": 15,
+        "max_bullet_char_count": 33
+      }
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_007",
+      "slide_number": 7,
+      "layout": "lesson_card",
+      "lesson_stage": "activity",
+      "student_title": "Activity challenge",
+      "student_body": [
+        "Challenge:",
+        "Listen to the story; whisper two Nakato plans.",
+        "Copy the words and definitions neatly.",
+        "Repeat together, then do a pronoun substitution drill."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L24-L47",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 24,
+          "line_end": 47,
+          "content_id": "P7-T1-E-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L48-L74",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 48,
+          "line_end": 74,
+          "content_id": "P7-T1-E-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L75-L101",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 75,
+          "line_end": 101,
+          "content_id": "P7-T1-E-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L102-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 102,
+          "line_end": 127,
+          "content_id": "P7-T1-E-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L128-L152",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 128,
+          "line_end": 152,
+          "content_id": "P7-T1-E-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 23,
+        "bullet_line_count": 4,
+        "title_char_count": 18,
+        "max_bullet_char_count": 54
+      }
+    },
+    {
+      "slide_id": "p7_t1_english_0101_slide_008",
+      "slide_number": 8,
+      "layout": "lesson_card",
+      "lesson_stage": "exit",
+      "student_title": "Exit ticket",
+      "student_body": [
+        "Answer: Where will you be in three weeks?",
+        "Use one complete sentence.",
+        "Use one key word: Listening for detail",
+        "Hand in or read your answer aloud."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L24-L47",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 24,
+          "line_end": 47,
+          "content_id": "P7-T1-E-0101-0101-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L48-L74",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 48,
+          "line_end": 74,
+          "content_id": "P7-T1-E-0101-0101-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L75-L101",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 75,
+          "line_end": 101,
+          "content_id": "P7-T1-E-0101-0101-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L102-L127",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 102,
+          "line_end": 127,
+          "content_id": "P7-T1-E-0101-0101-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_English_0101.txt#L128-L152",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_English_0101.txt",
+          "line_start": 128,
+          "line_end": 152,
+          "content_id": "P7-T1-E-0101-0101-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 26,
+        "bullet_line_count": 4,
+        "title_char_count": 11,
+        "max_bullet_char_count": 41
+      }
+    }
+  ],
+  "warnings": [
+    {
+      "code": "missing_section",
+      "message": "Missing required lesson section: metadata",
+      "section": "metadata"
+    }
+  ]
+}

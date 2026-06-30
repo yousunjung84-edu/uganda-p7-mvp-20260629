@@ -1,0 +1,335 @@
+{
+  "schema_version": "1.0",
+  "lesson_id": "p7_t1_integrated_science_1205",
+  "source_sha256": "ec4949e85d46c844458dbc5695923973a2675d82a83d12bbd3c88c83e893cd4a",
+  "metadata": {
+    "grade_term": "P7 / T1",
+    "subject": "Integrated Science",
+    "lesson_code": "1205",
+    "theme": "3.4 Energy Resources in the Environment / Final Review",
+    "learning_objective": "Recalls and identifies key experiments conducted during Term 1.",
+    "lesson_id": "p7_t1_integrated_science_1205"
+  },
+  "slides": [
+    {
+      "slide_id": "p7_t1_integrated_science_1205_slide_001",
+      "slide_number": 1,
+      "layout": "title",
+      "lesson_stage": "hook",
+      "student_title": "3.4 Energy Resources in the Environment",
+      "student_body": [
+        "Integrated Science",
+        "Big question: Which experiment did you find most challenging?"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L1-L20",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 1,
+          "line_end": 20
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 11,
+        "bullet_line_count": 2,
+        "title_char_count": 39,
+        "max_bullet_char_count": 61
+      }
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_1205_slide_002",
+      "slide_number": 2,
+      "layout": "lesson_card",
+      "lesson_stage": "mission",
+      "student_title": "Today's mission",
+      "student_body": [
+        "Goal: Recalls and identify key experiments conducted from Term",
+        "Use: Looking Back at Our Experiments, How to Write a Science Report",
+        "Show: answer with one reason or example.",
+        "Routine: listen, talk, try, explain."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L1-L20",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 1,
+          "line_end": 20
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 33,
+        "bullet_line_count": 4,
+        "title_char_count": 15,
+        "max_bullet_char_count": 67
+      }
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_1205_slide_003",
+      "slide_number": 3,
+      "layout": "lesson_card",
+      "lesson_stage": "starter",
+      "student_title": "Starter: think first",
+      "student_body": [
+        "Think: Which experiment did you find most challenging?",
+        "Pair: compare your first answer with a partner.",
+        "Share: connect your answer to Looking Back at Our Experiments."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L23-L46",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 23,
+          "line_end": 46,
+          "content_id": "P7-T1-S-0304-1205-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 26,
+        "bullet_line_count": 3,
+        "title_char_count": 20,
+        "max_bullet_char_count": 62
+      },
+      "source_content_id": "P7-T1-S-0304-1205-01"
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_1205_slide_004",
+      "slide_number": 4,
+      "layout": "lesson_card",
+      "lesson_stage": "concept",
+      "student_title": "Looking Back at Our Experiments",
+      "student_body": [
+        "Key idea: Prior knowledge activation regarding Term 1 Science practicals (Skeleton",
+        "Reviewing the Muscular-Skeletal model.",
+        "Recalling the Electricity and Magnetism circuit.",
+        "Remembering the Energy Resources (biogas/solar) project."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L23-L46",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 23,
+          "line_end": 46,
+          "content_id": "P7-T1-S-0304-1205-01"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 27,
+        "bullet_line_count": 4,
+        "title_char_count": 31,
+        "max_bullet_char_count": 82
+      },
+      "source_content_id": "P7-T1-S-0304-1205-01"
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_1205_slide_005",
+      "slide_number": 5,
+      "layout": "lesson_card",
+      "lesson_stage": "model",
+      "student_title": "How to Write a Science Report",
+      "student_body": [
+        "Worked example:",
+        "Title and Aim (What and Why).",
+        "Apparatus/Materials (The tools).",
+        "Procedure (The steps)."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L48-L73",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 48,
+          "line_end": 73,
+          "content_id": "P7-T1-S-0304-1205-02"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 14,
+        "bullet_line_count": 4,
+        "title_char_count": 29,
+        "max_bullet_char_count": 32
+      },
+      "source_content_id": "P7-T1-S-0304-1205-02"
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_1205_slide_006",
+      "slide_number": 6,
+      "layout": "lesson_card",
+      "lesson_stage": "practice",
+      "student_title": "Try it together",
+      "student_body": [
+        "Answer with evidence:",
+        "What materials did we use to represent the backbone in our model?",
+        "What is the difference between apparatus and procedure?",
+        "Why do we need an 'Aim' in our report?"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L23-L46",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 23,
+          "line_end": 46,
+          "content_id": "P7-T1-S-0304-1205-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L48-L73",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 48,
+          "line_end": 73,
+          "content_id": "P7-T1-S-0304-1205-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L75-L99",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 75,
+          "line_end": 99,
+          "content_id": "P7-T1-S-0304-1205-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L101-L124",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 101,
+          "line_end": 124,
+          "content_id": "P7-T1-S-0304-1205-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L126-L148",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 126,
+          "line_end": 148,
+          "content_id": "P7-T1-S-0304-1205-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 32,
+        "bullet_line_count": 4,
+        "title_char_count": 15,
+        "max_bullet_char_count": 65
+      }
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_1205_slide_007",
+      "slide_number": 7,
+      "layout": "lesson_card",
+      "lesson_stage": "activity",
+      "student_title": "Activity challenge",
+      "student_body": [
+        "Challenge:",
+        "Brainstorm in pairs and list all the scientific experiments and models created",
+        "Copy the report structure into their notebooks and label each part based",
+        "Participate in a whole-class exercise to verbally summarize the 'Biogas Digester'"
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L23-L46",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 23,
+          "line_end": 46,
+          "content_id": "P7-T1-S-0304-1205-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L48-L73",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 48,
+          "line_end": 73,
+          "content_id": "P7-T1-S-0304-1205-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L75-L99",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 75,
+          "line_end": 99,
+          "content_id": "P7-T1-S-0304-1205-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L101-L124",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 101,
+          "line_end": 124,
+          "content_id": "P7-T1-S-0304-1205-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L126-L148",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 126,
+          "line_end": 148,
+          "content_id": "P7-T1-S-0304-1205-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 36,
+        "bullet_line_count": 4,
+        "title_char_count": 18,
+        "max_bullet_char_count": 81
+      }
+    },
+    {
+      "slide_id": "p7_t1_integrated_science_1205_slide_008",
+      "slide_number": 8,
+      "layout": "lesson_card",
+      "lesson_stage": "exit",
+      "student_title": "Exit ticket",
+      "student_body": [
+        "Answer: How does writing a report help you remember the experiment?",
+        "Use one complete sentence.",
+        "Hand in or read your answer aloud."
+      ],
+      "source_refs": [
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L23-L46",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 23,
+          "line_end": 46,
+          "content_id": "P7-T1-S-0304-1205-01"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L48-L73",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 48,
+          "line_end": 73,
+          "content_id": "P7-T1-S-0304-1205-02"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L75-L99",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 75,
+          "line_end": 99,
+          "content_id": "P7-T1-S-0304-1205-03"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L101-L124",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 101,
+          "line_end": 124,
+          "content_id": "P7-T1-S-0304-1205-04"
+        },
+        {
+          "source_ref": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt#L126-L148",
+          "relative_path": "P7 txt/P7 T1/P7_Term 1_Integrated Science_1205.txt",
+          "line_start": 126,
+          "line_end": 148,
+          "content_id": "P7-T1-S-0304-1205-05"
+        }
+      ],
+      "student_quality_checks": {
+        "source_refs_present": true,
+        "body_word_count": 22,
+        "bullet_line_count": 3,
+        "title_char_count": 11,
+        "max_bullet_char_count": 67
+      }
+    }
+  ],
+  "warnings": [
+    {
+      "code": "missing_section",
+      "message": "Missing required lesson section: metadata",
+      "section": "metadata"
+    }
+  ]
+}

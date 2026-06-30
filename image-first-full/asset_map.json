@@ -1,0 +1,112 @@
+{
+  "p7_t1_english_0101": {
+    "hook": ".runs/uganda-p7-image-first/p7_t1_english_0101/image_assets/hook.png",
+    "mission": ".runs/uganda-p7-image-first/p7_t1_english_0101/image_assets/mission.png",
+    "starter": ".runs/uganda-p7-image-first/p7_t1_english_0101/image_assets/starter.png",
+    "concept": ".runs/uganda-p7-image-first/p7_t1_english_0101/image_assets/concept.png",
+    "model": ".runs/uganda-p7-image-first/p7_t1_english_0101/image_assets/model.png",
+    "practice": ".runs/uganda-p7-image-first/p7_t1_english_0101/image_assets/practice.png",
+    "activity": ".runs/uganda-p7-image-first/p7_t1_english_0101/image_assets/activity.png",
+    "exit": ".runs/uganda-p7-image-first/p7_t1_english_0101/image_assets/exit.png",
+    "standalone_infographic": ".runs/uganda-p7-image-first/p7_t1_english_0101/image_assets/standalone_infographic.png"
+  },
+  "p7_t1_christian_religious_education_0101": {
+    "hook": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ce61b3c17707c.webp",
+    "mission": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ce67e14d7707d.webp",
+    "starter": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ce6d723d7707e.webp",
+    "concept": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ce73e0f97707f.webp",
+    "model": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ce79c5ad77080.webp",
+    "practice": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ce7eee8577081.webp",
+    "activity": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ce84a6b577082.webp",
+    "exit": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ce89eb2977083.webp",
+    "standalone_infographic": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ce958bc977084.webp"
+  },
+  "p7_t1_christian_religious_education_1205": {
+    "hook": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ce9b51bd77085.webp",
+    "mission": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cea5f04977086.webp",
+    "starter": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ceac293577087.webp",
+    "concept": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ceb1b41977088.webp",
+    "model": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ceb6e78577089.webp",
+    "practice": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cebe21f97708a.webp",
+    "activity": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cec95b557708b.webp",
+    "exit": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cece655d7708c.webp",
+    "standalone_infographic": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ced4c8a97708d.webp"
+  },
+  "p7_t1_english_1205": {
+    "hook": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ceda12b57708e.webp",
+    "mission": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cee4fb5d7708f.webp",
+    "starter": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151ceeab59d77090.webp",
+    "concept": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cef0620977091.webp",
+    "model": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cef5df3977092.webp",
+    "practice": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cefac70177093.webp",
+    "activity": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf11e18d77095.webp",
+    "exit": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf1c1da177097.webp",
+    "standalone_infographic": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf2d2dfd77098.webp"
+  },
+  "p7_t1_integrated_science_0101": {
+    "hook": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf3859f977099.webp",
+    "mission": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf44239d7709a.webp",
+    "starter": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf4a210d7709b.webp",
+    "concept": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf4f24f57709c.webp",
+    "model": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf54c6617709d.webp",
+    "practice": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf5f96357709e.webp",
+    "activity": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf66bcfd7709f.webp",
+    "exit": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf6bc9bd770a0.webp",
+    "standalone_infographic": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf731bf9770a1.webp"
+  },
+  "p7_t1_integrated_science_1205": {
+    "hook": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf7e3239770a2.webp",
+    "mission": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf88c1a1770a3.webp",
+    "starter": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf9414c1770a4.webp",
+    "concept": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf99becd770a5.webp",
+    "model": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cf9ffb61770a6.webp",
+    "practice": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cfa5bcdd770a7.webp",
+    "activity": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cfb76069770a8.webp",
+    "exit": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cfbce4a9770a9.webp",
+    "standalone_infographic": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cfcdfbb1770aa.webp"
+  },
+  "p7_t1_mathematics_0101": {
+    "hook": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cfd3a04d770ab.webp",
+    "mission": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cfddde99770ac.webp",
+    "starter": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cfe3d6cd770ad.webp",
+    "concept": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cfe905b9770ae.webp",
+    "model": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cfee6939770af.webp",
+    "practice": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cff3b0a5770b0.webp",
+    "activity": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cff94001770b1.webp",
+    "exit": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151cffe96d1770b2.webp",
+    "standalone_infographic": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d004d2f5770b3.webp"
+  },
+  "p7_t1_mathematics_1205": {
+    "hook": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d00faf6d770b4.webp",
+    "mission": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d015a211770b5.webp",
+    "starter": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d01b7c41770b6.webp",
+    "concept": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0206e09770b7.webp",
+    "model": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0260fcd770b8.webp",
+    "practice": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d02bc335770b9.webp",
+    "activity": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0479969770ba.webp",
+    "exit": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d04f0e61770bb.webp",
+    "standalone_infographic": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d054c9bd770bc.webp"
+  },
+  "p7_t1_social_studies_0101": {
+    "hook": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d05f1765770bd.webp",
+    "mission": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d064d8c9770be.webp",
+    "starter": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d06ea121770bf.webp",
+    "concept": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0744ef1770c0.webp",
+    "model": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0792a45770c1.webp",
+    "practice": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d07fb841770c2.webp",
+    "activity": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d090cead770c3.webp",
+    "exit": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0965d9d770c4.webp",
+    "standalone_infographic": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d09d346d770c5.webp"
+  },
+  "p7_t1_social_studies_1205": {
+    "hook": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0a82101770c6.webp",
+    "mission": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0ad2da9770c7.webp",
+    "starter": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0b8388d770c8.webp",
+    "concept": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0be78f9770c9.webp",
+    "model": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0c4746d770ca.webp",
+    "practice": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0cf3271770cb.webp",
+    "activity": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0d4e4dd770cc.webp",
+    "exit": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0da0745770cd.webp",
+    "standalone_infographic": "/var/folders/f9/_qvxxprn34q2pfl1zqcqs6480000gn/T/gjc-image-151d0e58f55770ce.webp"
+  }
+}
