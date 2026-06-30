@@ -41,13 +41,18 @@ Use colors inspired by the Uganda flag and school noticeboards:
 ## Visual language
 
 - Use simple geometric motifs that vary by content:
-  - Mathematics: Venn circles, number paths, market counters, operation blocks.
-  - English: story path, speech bubbles, vocabulary cards, portfolio folders.
-  - Integrated Science: system diagrams, experiment/report cycles, observation panels.
-  - Social Studies: map frame, compass, continent/ocean labels, portfolio review grid.
-  - Christian Religious Education: trinity triangle, faith timeline, community action cards.
-- Infographics are separate artifacts, not embedded into every PPT slide.
-- Text in infographics must be rendered by code/SVG, not entrusted to image-generation spelling.
+  - English 0101: bus route, up-country house, grandmother/person marker, shamba field, vocabulary workbench, listening/copy/drill stations.
+  - English 1205: portfolio folders and review checkpoints.
+  - Integrated Science 0101: skeleton frame, ribs, limbs, body-part callouts.
+  - Integrated Science 1205: science report page plus experiment tiles.
+  - Mathematics 0101: finite stone counters vs infinite continuation arrow.
+  - Mathematics 1205: market stall counters for stones, sticks, bottles, prices, sets, and subsets.
+  - Social Studies 0101: nested home → Uganda → East Africa → Africa location chain with compass.
+  - Social Studies 1205: portfolio review wall with map/project/quiz/reflection panels.
+  - Christian Religious Education 0101: wind/tree effect, person, breath/spirit, and three-stone-stove analogy.
+  - Christian Religious Education 1205: faith scrapbook sections with draw-and-caption panels.
+- Standalone `infographic.svg` files remain separate artifacts, while PPT content slides use matching infographic-style visual structures.
+- Text in infographics must be rendered by code/SVG/PPT text boxes, not entrusted to image-generation spelling.
 
 ## Typography
 
