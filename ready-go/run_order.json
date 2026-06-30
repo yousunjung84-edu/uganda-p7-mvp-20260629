@@ -1,0 +1,584 @@
+{
+  "schema_version": "1.0",
+  "status": "ready_go",
+  "created_at": "2026-06-30T06:55:23+00:00",
+  "source_base": "/Users/jeong-yuseon/Library/CloudStorage/GoogleDrive-yousunjung84@gmail.com/내 드라이브/NotebookLM/우간다 학습ppt  제작(260629)",
+  "pack_by": "grade-term-subject",
+  "lesson_count": 1800,
+  "pack_count": 30,
+  "prompt_count": 16200,
+  "estimated_slide_count": 14400,
+  "omitted_count": 158,
+  "packs": [
+    {
+      "pack_id": "p6_t1_christian_religious_education",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 1",
+        "subject": "Christian Religious Education"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p6_t1_english",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 1",
+        "subject": "English"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p6_t1_integrated_science",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 1",
+        "subject": "Integrated Science"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p6_t1_mathematics",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 1",
+        "subject": "Mathematics"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p6_t1_social_studies",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 1",
+        "subject": "Social Studies"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p6_t2_christian_religious_education",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 2",
+        "subject": "Christian Religious Education"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p6_t2_english",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 2",
+        "subject": "English"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p6_t2_integrated_science",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 2",
+        "subject": "Integrated Science"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p6_t2_mathematics",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 2",
+        "subject": "Mathematics"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p6_t2_social_studies",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 2",
+        "subject": "Social Studies"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p6_t3_christian_religious_education",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 3",
+        "subject": "Christian Religious Education"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p6_t3_english",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 3",
+        "subject": "English"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p6_t3_integrated_science",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 3",
+        "subject": "Integrated Science"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p6_t3_mathematics",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 3",
+        "subject": "Mathematics"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p6_t3_social_studies",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P6",
+        "term": "Term 3",
+        "subject": "Social Studies"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t1_christian_religious_education",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 1",
+        "subject": "Christian Religious Education"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t1_english",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 1",
+        "subject": "English"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t1_integrated_science",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 1",
+        "subject": "Integrated Science"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t1_mathematics",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 1",
+        "subject": "Mathematics"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t1_social_studies",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 1",
+        "subject": "Social Studies"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t2_christian_religious_education",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 2",
+        "subject": "Christian Religious Education"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t2_english",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 2",
+        "subject": "English"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t2_integrated_science",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 2",
+        "subject": "Integrated Science"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t2_mathematics",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 2",
+        "subject": "Mathematics"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t2_social_studies",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 2",
+        "subject": "Social Studies"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t3_christian_religious_education",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 3",
+        "subject": "Christian Religious Education"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t3_english",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 3",
+        "subject": "English"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t3_integrated_science",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 3",
+        "subject": "Integrated Science"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t3_mathematics",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 3",
+        "subject": "Mathematics"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    },
+    {
+      "pack_id": "p7_t3_social_studies",
+      "status": "ready_go",
+      "split_key": {
+        "grade": "P7",
+        "term": "Term 3",
+        "subject": "Social Studies"
+      },
+      "lesson_count": 60,
+      "estimated_slide_count": 480,
+      "prompt_count": 540,
+      "estimated_image_count": 540,
+      "files": {
+        "pack_manifest": "pack.json",
+        "image_prompt_queue": "image_prompts.jsonl",
+        "asset_manifest": "asset_manifest.json",
+        "outlines_dir": "outlines/"
+      }
+    }
+  ]
+}
